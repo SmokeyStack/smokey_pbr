@@ -1,0 +1,12 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "stripped_bamboo_block",
+        "heightmap": "bamboo_block_heightmap",
+        "metalness_emissive_roughness": [
+            0,
+            0,
+            255
+        ]
+    }
+}

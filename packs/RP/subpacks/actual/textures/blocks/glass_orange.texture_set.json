@@ -1,0 +1,12 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "glass_orange",
+        "metalness_emissive_roughness": [
+            64,
+            0,
+            0
+        ],
+        "heightmap": "glass_heightmap"
+    }
+}

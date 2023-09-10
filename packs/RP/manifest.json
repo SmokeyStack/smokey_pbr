@@ -1,0 +1,44 @@
+{
+    "capabilities": [
+        "pbr"
+    ],
+    "format_version": 2,
+    "header": {
+        "description": "This is an experimental pack that utilizes the RenderDragon pipeline",
+        "min_engine_version": [
+            1,
+            20,
+            30
+        ],
+        "name": "SmokeyStack's Deferred Rendering Pack",
+        "uuid": "67bc46a2-06d9-4f46-82f9-9009d9e81af5",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "a42ed34b-ed38-403f-b0ae-ac5f2ae9ae1d",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "actual",
+            "memory_tier": 0,
+            "name": "SmokeyStack's Deferred Rendering"
+        },
+        {
+            "folder_name": "fullbright",
+            "memory_tier": 0,
+            "name": "Fullbright"
+        }
+    ]
+}

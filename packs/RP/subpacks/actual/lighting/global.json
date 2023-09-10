@@ -1,0 +1,49 @@
+{
+    "directional_lights": {
+        "moon": {
+            "color": [
+                239,
+                235,
+                235,
+                255
+            ],
+            "illuminance": 0.32
+        },
+        "orbital_offset_degrees": 23.5,
+        "sun": {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "illuminance": {
+                "0.0": 1,
+                "0.25": 394,
+                "0.3": 3616,
+                "0.6": 98321,
+                "0.75": 3974,
+                "0.8": 436,
+                "1.0": 1
+            }
+        }
+    },
+    "format_version": [
+        1,
+        0,
+        0
+    ],
+    "point_lights": {
+        "colors": {
+            "minecraft:beacon": "#9CE0DD"
+        }
+    },
+    "pbr": {
+        "actors": {
+            "global_metalness_emissive_roughness": "#0000ff"
+        },
+        "blocks": {
+            "global_metalness_emissive_roughness": "#0000ff"
+        }
+    }
+}
