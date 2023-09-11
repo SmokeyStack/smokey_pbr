@@ -2,6 +2,7 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "fire_1",
-        "heightmap": "fire_1_heightmap"
+        "heightmap": "fire_1_heightmap",
+        "metalness_emissive_roughness": "fire_1_mer"
     }
 }

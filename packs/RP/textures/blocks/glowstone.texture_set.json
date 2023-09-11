@@ -2,6 +2,11 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "glowstone",
-        "heightmap": "glowstone_heightmap"
+        "heightmap": "glowstone_heightmap",
+        "metalness_emissive_roughness": [
+            127,
+            255,
+            255
+        ]
     }
 }
