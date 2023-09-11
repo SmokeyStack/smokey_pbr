@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "raw_gold_block",
+        "heightmap": "raw_gold_block_heightmap"
+    }
+}

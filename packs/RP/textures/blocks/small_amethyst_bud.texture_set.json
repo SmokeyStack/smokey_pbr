@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "small_amethyst_bud",
+        "heightmap": "small_amethyst_bud_heightmap"
+    }
+}

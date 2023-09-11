@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "flower_wither_rose",
+        "heightmap": "flower_wither_rose_heightmap"
+    }
+}

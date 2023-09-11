@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "conduit_base",
+        "heightmap": "conduit_base_heightmap"
+    }
+}

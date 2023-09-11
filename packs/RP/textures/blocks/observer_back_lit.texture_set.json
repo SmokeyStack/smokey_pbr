@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "observer_back_lit",
+        "heightmap": "observer_back_lit_heightmap"
+    }
+}

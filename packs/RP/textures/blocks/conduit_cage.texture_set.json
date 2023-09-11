@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "conduit_cage",
+        "heightmap": "conduit_cage_heightmap"
+    }
+}

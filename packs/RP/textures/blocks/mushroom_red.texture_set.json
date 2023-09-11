@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "mushroom_red",
+        "heightmap": "mushroom_red_heightmap"
+    }
+}

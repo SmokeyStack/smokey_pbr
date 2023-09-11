@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "tnt_bottom",
+        "heightmap": "tnt_bottom_heightmap"
+    }
+}

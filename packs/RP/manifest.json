@@ -28,17 +28,5 @@
                 0
             ]
         }
-    ],
-    "subpacks": [
-        {
-            "folder_name": "actual",
-            "memory_tier": 0,
-            "name": "SmokeyStack's Deferred Rendering"
-        },
-        {
-            "folder_name": "fullbright",
-            "memory_tier": 0,
-            "name": "Fullbright"
-        }
     ]
 }

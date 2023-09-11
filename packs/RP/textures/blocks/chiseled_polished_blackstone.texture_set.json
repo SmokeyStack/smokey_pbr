@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "chiseled_polished_blackstone",
+        "heightmap": "chiseled_polished_blackstone_heightmap"
+    }
+}

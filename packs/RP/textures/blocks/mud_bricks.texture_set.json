@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "mud_bricks",
+        "heightmap": "mud_bricks_heightmap"
+    }
+}

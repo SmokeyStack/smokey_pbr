@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "cherry_door_top",
+        "heightmap": "cherry_door_top_heightmap"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "double_plant_grass_carried",
+        "heightmap": "double_plant_grass_carried_heightmap"
+    }
+}

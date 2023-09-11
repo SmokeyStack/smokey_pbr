@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "carried_waterlily",
+        "heightmap": "carried_waterlily_heightmap"
+    }
+}

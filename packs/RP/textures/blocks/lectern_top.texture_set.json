@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "lectern_top",
+        "heightmap": "lectern_top_heightmap"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "stone_andesite_smooth",
+        "heightmap": "stone_andesite_smooth_heightmap"
+    }
+}

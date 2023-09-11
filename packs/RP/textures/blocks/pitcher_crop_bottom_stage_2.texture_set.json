@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "pitcher_crop_bottom_stage_2",
+        "heightmap": "pitcher_crop_bottom_stage_2_heightmap"
+    }
+}

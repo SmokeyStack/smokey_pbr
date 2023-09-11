@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "sculk_shrieker_bottom",
+        "heightmap": "sculk_shrieker_bottom_heightmap"
+    }
+}

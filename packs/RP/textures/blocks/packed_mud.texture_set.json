@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "packed_mud",
+        "heightmap": "packed_mud_heightmap"
+    }
+}

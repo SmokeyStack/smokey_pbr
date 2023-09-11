@@ -1,0 +1,12 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "polished_deepslate",
+        "heightmap": "polished_deepslate_heightmap",
+        "metalness_emissive_roughness": [
+            127,
+            0,
+            127
+        ]
+    }
+}

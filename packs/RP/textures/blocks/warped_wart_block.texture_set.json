@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "warped_wart_block",
+        "heightmap": "warped_wart_block_heightmap"
+    }
+}

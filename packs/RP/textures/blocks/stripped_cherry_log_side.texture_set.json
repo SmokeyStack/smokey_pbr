@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "stripped_cherry_log_side",
+        "heightmap": "stripped_cherry_log_side_heightmap"
+    }
+}

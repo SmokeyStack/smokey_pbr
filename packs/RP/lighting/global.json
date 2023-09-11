@@ -1,0 +1,67 @@
+{
+    "directional_lights": {
+        "moon": {
+            "color": [
+                239,
+                235,
+                235,
+                255
+            ],
+            "illuminance": 0.32
+        },
+        "orbital_offset_degrees": 23.5,
+        "sun": {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "illuminance": {
+                "0.0": 1,
+                "0.25": 394,
+                "0.3": 3616,
+                "0.6": 98321,
+                "0.75": 3974,
+                "0.8": 436,
+                "1.0": 1
+            }
+        }
+    },
+    "format_version": [
+        1,
+        0,
+        0
+    ],
+    "pbr": {
+        "actors": {
+            "global_metalness_emissive_roughness": "#0000ff"
+        },
+        "blocks": {
+            "global_metalness_emissive_roughness": "#0000ff"
+        }
+    },
+    "point_lights": {
+        "colors": {
+            "minecraft:amethyst_cluster": "#9966CC",
+            "minecraft:beacon": "#9CE0DD",
+            "minecraft:black_candle": "#000000",
+            "minecraft:blue_candle": "#005aff",
+            "minecraft:brown_candle": "#AA875C",
+            "minecraft:candle": "#FDEFCD",
+            "minecraft:cyan_candle": "#36BFA8",
+            "minecraft:gray_candle": "#A1AEB1",
+            "minecraft:green_candle": "#57F287",
+            "minecraft:light_blue_candle": "#8FD8D8",
+            "minecraft:light_gray_candle": "#CACACA",
+            "minecraft:lime_candle": "#7AB226",
+            "minecraft:magenta_candle": "#A83EA2",
+            "minecraft:orange_candle": "#EA871E",
+            "minecraft:pink_candle": "#EAD0D6",
+            "minecraft:purple_candle": "#5A247B",
+            "minecraft:red_candle": "#E31937",
+            "minecraft:white_candle": "#FFFFFF",
+            "minecraft:yellow_candle": "#FFEB00"
+        }
+    }
+}

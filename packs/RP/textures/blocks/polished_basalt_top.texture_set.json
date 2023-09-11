@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "polished_basalt_top",
+        "heightmap": "polished_basalt_top_heightmap"
+    }
+}

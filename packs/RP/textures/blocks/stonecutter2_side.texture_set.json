@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "stonecutter2_side",
+        "heightmap": "stonecutter2_side_heightmap"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "sweet_berry_bush_stage3",
+        "heightmap": "sweet_berry_bush_stage3_heightmap"
+    }
+}

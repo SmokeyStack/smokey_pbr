@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "potted_azalea_bush_top",
+        "heightmap": "potted_azalea_bush_top_heightmap"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "copper_block",
+        "heightmap": "copper_block_heightmap"
+    }
+}

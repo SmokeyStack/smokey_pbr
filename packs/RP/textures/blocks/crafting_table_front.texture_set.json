@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "crafting_table_front",
+        "heightmap": "crafting_table_front_heightmap"
+    }
+}

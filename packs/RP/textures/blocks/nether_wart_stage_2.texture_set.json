@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "nether_wart_stage_2",
+        "heightmap": "nether_wart_stage_2_heightmap"
+    }
+}

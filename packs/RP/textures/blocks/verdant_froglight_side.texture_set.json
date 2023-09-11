@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "verdant_froglight_side",
+        "heightmap": "verdant_froglight_side_heightmap"
+    }
+}
