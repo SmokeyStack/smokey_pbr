@@ -19,11 +19,11 @@
             ],
             "illuminance": {
                 "0.0": 1,
-                "0.25": 394,
-                "0.3": 3616,
+                "0.25": 295,
+                "0.3": 2945,
                 "0.6": 98321,
-                "0.75": 3974,
-                "0.8": 436,
+                "0.75": 2945,
+                "0.8": 295,
                 "1.0": 1
             }
         }
@@ -53,6 +53,7 @@
             "minecraft:conduit": "#0080FF",
             "minecraft:cyan_candle": "#36BFA8",
             "minecraft:end_portal": "#2A292B",
+            "minecraft:end_rod": "#FFFFFF",
             "minecraft:fire": "#FFB109",
             "minecraft:glowstone": "#FFF38A",
             "minecraft:gray_candle": "#A1AEB1",
@@ -75,9 +76,13 @@
             "minecraft:sea_lantern": "#80B2C9",
             "minecraft:sea_pickle": "#93934A",
             "minecraft:shroomlight": "#EAB689",
+            "minecraft:torch": "#FFB109",
             "minecraft:verdant_froglight": "#8ace31",
+            "minecraft:wall_torch": "#FFB109",
             "minecraft:white_candle": "#FFFFFF",
-            "minecraft:yellow_candle": "#FFEB00"
+            "minecraft:yellow_candle": "#FFEB00",
+            "minecraftt:cave_vines_body_with_berries": "#FF9900",
+            "minecraftt:cave_vines_head_with_berries": "#FF9900"
         }
     }
 }
