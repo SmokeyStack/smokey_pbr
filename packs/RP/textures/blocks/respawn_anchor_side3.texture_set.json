@@ -2,6 +2,7 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "respawn_anchor_side3",
-        "heightmap": "respawn_anchor_side3_heightmap"
+        "heightmap": "respawn_anchor_side_heightmap",
+        "metalness_emissive_roughness": "respawn_anchor_side3_mer"
     }
 }
