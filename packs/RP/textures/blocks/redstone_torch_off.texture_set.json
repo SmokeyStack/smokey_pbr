@@ -1,7 +1,6 @@
 {
     "format_version": "1.16.100",
     "minecraft:texture_set": {
-        "color": "redstone_torch_off",
-        "heightmap": "redstone_torch_off_heightmap"
+        "color": "redstone_torch_off"
     }
 }
