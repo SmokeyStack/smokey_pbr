@@ -2,11 +2,6 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "bamboo_block_top",
-        "heightmap": "bamboo_block_top_heightmap",
-        "metalness_emissive_roughness": [
-            0,
-            0,
-            255
-        ]
+        "heightmap": "bamboo_block_top_heightmap"
     }
 }

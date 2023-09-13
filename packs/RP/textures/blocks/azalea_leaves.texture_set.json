@@ -2,11 +2,6 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "azalea_leaves",
-        "heightmap": "azalea_leaves_heightmap",
-        "metalness_emissive_roughness": [
-            0,
-            0,
-            255
-        ]
+        "heightmap": "azalea_leaves_heightmap"
     }
 }
