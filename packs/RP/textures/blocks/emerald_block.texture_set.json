@@ -4,9 +4,9 @@
         "color": "emerald_block",
         "heightmap": "emerald_block_heightmap",
         "metalness_emissive_roughness": [
-            127,
+            255,
             0,
-            255
+            63
         ]
     }
 }

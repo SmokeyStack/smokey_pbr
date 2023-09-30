@@ -4,9 +4,9 @@
         "color": "iron_block",
         "heightmap": "iron_block_heightmap",
         "metalness_emissive_roughness": [
-            191,
+            127,
             0,
-            255
+            127
         ]
     }
 }
