@@ -28,5 +28,17 @@
                 0
             ]
         }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "update_1_21",
+            "name": "Update 1.21 - EXPERIMENTAL",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "main",
+            "name": "Main",
+            "memory_tier": 0
+        }
     ]
 }
