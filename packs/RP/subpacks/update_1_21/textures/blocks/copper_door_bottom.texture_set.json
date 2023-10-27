@@ -1,0 +1,12 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "copper_door_bottom",
+        "metalness_emissive_roughness": [
+            127,
+            0,
+            127
+        ],
+        "heightmap": "copper_door_bottom_heightmap"
+    }
+}

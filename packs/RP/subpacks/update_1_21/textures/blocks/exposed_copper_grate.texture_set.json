@@ -1,0 +1,12 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "exposed_copper_grate",
+        "metalness_emissive_roughness": [
+            95,
+            0,
+            127
+        ],
+        "heightmap": "copper_grate_heightmap"
+    }
+}

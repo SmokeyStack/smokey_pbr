@@ -106,7 +106,15 @@
             "minecraft:verdant_froglight": "#8ACE31",
             "minecraft:wall_torch": "#FFB109",
             "minecraft:white_candle": "#FFFFFF",
-            "minecraft:yellow_candle": "#FFEB00"
+            "minecraft:yellow_candle": "#FFEB00",
+            "minecraft:copper_bulb": "#CE7C56",
+            "minecraft:exposed_copper_bulb": "#CE7C56",
+            "minecraft:weathered_copper_bulb": "#CE7C56",
+            "minecraft:oxidized_copper_bulb": "#CE7C56",
+            "minecraft:waxed_copper_bulb": "#CE7C56",
+            "minecraft:waxed_exposed_copper_bulb": "#CE7C56",
+            "minecraft:waxed_weathered_copper_bulb": "#CE7C56",
+            "minecraft:waxed_oxidized_copper_bulb": "#CE7C56"
         }
     }
 }

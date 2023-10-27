@@ -1,0 +1,12 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "oxidized_copper_trapdoor",
+        "metalness_emissive_roughness": [
+            31,
+            0,
+            127
+        ],
+        "heightmap": "copper_trapdoor_heightmap"
+    }
+}
