@@ -2,6 +2,11 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "bell_side",
-        "heightmap": "bell_side_heightmap"
+        "heightmap": "bell_side_heightmap",
+        "metalness_emissive_roughness": [
+            64,
+            0,
+            64
+        ]
     }
 }
