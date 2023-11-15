@@ -2,6 +2,7 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "beehive_side",
-        "heightmap": "beehive_side_heightmap"
+        "heightmap": "beehive_side_heightmap",
+        "metalness_emissive_roughness": "beehive_side_mer"
     }
 }
