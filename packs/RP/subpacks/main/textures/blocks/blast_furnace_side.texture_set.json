@@ -3,6 +3,6 @@
     "minecraft:texture_set": {
         "color": "blast_furnace_side",
         "heightmap": "blast_furnace_side_heightmap",
-        "metalness_emissive_roughness": "blast_furnace_front_side_mer"
+        "metalness_emissive_roughness": "blast_furnace_side_mer"
     }
 }

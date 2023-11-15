@@ -1,0 +1,12 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "trial_spawner_bottom",
+        "heightmap": "trial_spawner_bottom_heightmap",
+        "metalness_emissive_roughness": [
+            31,
+            0,
+            64
+        ]
+    }
+}
