@@ -2,6 +2,11 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "ice_packed",
-        "heightmap": "ice_packed_heightmap"
+        "heightmap": "ice_packed_heightmap",
+        "metalness_emissive_roughness": [
+            128,
+            0,
+            64
+        ]
     }
 }

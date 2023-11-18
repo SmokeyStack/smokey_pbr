@@ -8,13 +8,13 @@
         "min_engine_version": [
             1,
             20,
-            40
+            60
         ],
         "name": "SmokeyStack's Deferred Rendering Pack",
         "uuid": "67bc46a2-06d9-4f46-82f9-9009d9e81af5",
         "version": [
             0,
-            2,
+            4,
             0
         ]
     },
@@ -24,7 +24,7 @@
             "uuid": "a42ed34b-ed38-403f-b0ae-ac5f2ae9ae1d",
             "version": [
                 0,
-                2,
+                4,
                 0
             ]
         }
