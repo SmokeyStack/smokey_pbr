@@ -8,14 +8,42 @@
 	},
 	"regolith": {
 		"dataPath": "./packs/data",
-		"filterDefinitions": {},
+		"filterDefinitions": {
+			"pbr-subpack": {
+				"script": "./filters/pbr-subpack.py",
+				"runWith": "python"
+			}
+		},
 		"profiles": {
+			"build": {
+				"export": {
+					"readOnly": false,
+					"target": "local"
+				},
+				"filters": [
+					{
+						"arguments": [
+							"RP/subpacks/main/textures",
+							"RP/subpacks/update_1_21/textures"
+						],
+						"filter": "pbr-subpack"
+					}
+				]
+			},
 			"dev": {
 				"export": {
 					"readOnly": false,
 					"target": "preview"
 				},
-				"filters": []
+				"filters": [
+					{
+						"arguments": [
+							"RP/subpacks/main/textures",
+							"RP/subpacks/update_1_21/textures"
+						],
+						"filter": "pbr-subpack"
+					}
+				]
 			}
 		}
 	}
