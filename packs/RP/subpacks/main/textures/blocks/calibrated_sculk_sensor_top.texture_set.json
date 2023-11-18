@@ -2,6 +2,7 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "calibrated_sculk_sensor_top",
-        "heightmap": "calibrated_sculk_sensor_top_heightmap"
+        "heightmap": "calibrated_sculk_sensor_top_heightmap",
+        "metalness_emissive_roughness": "calibrated_sculk_sensor_top_mer"
     }
 }
