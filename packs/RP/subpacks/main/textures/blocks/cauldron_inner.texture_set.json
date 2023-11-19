@@ -2,6 +2,11 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "cauldron_inner",
-        "heightmap": "cauldron_inner_heightmap"
+        "heightmap": "cauldron_inner_heightmap",
+        "metalness_emissive_roughness": [
+            64,
+            0,
+            64
+        ]
     }
 }

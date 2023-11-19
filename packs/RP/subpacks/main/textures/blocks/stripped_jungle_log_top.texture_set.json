@@ -2,6 +2,6 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "stripped_jungle_log_top",
-        "heightmap": "stripped_jungle_log_top_heightmap"
+        "heightmap": "stripped_log_top_heightmap"
     }
 }
