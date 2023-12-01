@@ -35,6 +35,32 @@
                 "fog_start": 0,
                 "render_distance_type": "fixed"
             }
+        },
+        "volumetric": {
+            "density": {
+                "air": {
+                    "max_density": 0.05,
+                    "uniform": true
+                },
+                "water": {
+                    "max_density": 1.0,
+                    "uniform": true
+                }
+            },
+            "media_coefficients": {
+                "air": {
+                    "scattering": [
+                        0.00175,
+                        0.00175,
+                        0.002
+                    ],
+                    "absorption": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                }
+            }
         }
     }
 }
