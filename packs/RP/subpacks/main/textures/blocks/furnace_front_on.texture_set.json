@@ -2,6 +2,7 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "furnace_front_on",
-        "heightmap": "furnace_front_on_heightmap"
+        "heightmap": "furnace_front_on_heightmap",
+        "metalness_emissive_roughness": "furnace_front_on_mer"
     }
 }
