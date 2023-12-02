@@ -3,6 +3,6 @@
     "minecraft:texture_set": {
         "color": "end_portal",
         "heightmap": "end_portal_heightmap",
-        "metalness_emissive_roughness": "end_portal_mer"
+        "metalness_emissive_roughness": "end_portal"
     }
 }
