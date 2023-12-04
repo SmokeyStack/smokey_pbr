@@ -2,6 +2,7 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "magma",
-        "heightmap": "magma_heightmap"
+        "heightmap": "magma_heightmap",
+        "metalness_emissive_roughness": "magma_mer"
     }
 }

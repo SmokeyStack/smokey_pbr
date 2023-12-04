@@ -2,6 +2,11 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "ochre_froglight_top",
-        "heightmap": "ochre_froglight_top_heightmap"
+        "heightmap": "ochre_froglight_top_heightmap",
+        "metalness_emissive_roughness": [
+            0,
+            255,
+            255
+        ]
     }
 }

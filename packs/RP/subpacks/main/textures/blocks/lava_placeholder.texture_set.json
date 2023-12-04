@@ -2,6 +2,11 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "lava_placeholder",
-        "heightmap": "lava_placeholder_heightmap"
+        "heightmap": "lava_placeholder_heightmap",
+        "metalness_emissive_roughness": [
+            0,
+            255,
+            255
+        ]
     }
 }

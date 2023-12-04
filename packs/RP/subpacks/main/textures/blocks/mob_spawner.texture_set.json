@@ -2,6 +2,11 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "mob_spawner",
-        "heightmap": "mob_spawner_heightmap"
+        "heightmap": "mob_spawner_heightmap",
+        "metalness_emissive_roughness": [
+            128,
+            0,
+            255
+        ]
     }
 }

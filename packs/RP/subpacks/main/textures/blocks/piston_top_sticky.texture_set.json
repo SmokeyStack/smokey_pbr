@@ -2,6 +2,7 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "piston_top_sticky",
-        "heightmap": "piston_top_sticky_heightmap"
+        "heightmap": "piston_top_sticky_heightmap",
+        "metalness_emissive_roughness": "piston_top_sticky_mer"
     }
 }
