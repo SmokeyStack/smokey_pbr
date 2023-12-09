@@ -2,6 +2,11 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "quartz_bricks",
-        "heightmap": "quartz_bricks_heightmap"
+        "heightmap": "quartz_bricks_heightmap",
+        "metalness_emissive_roughness": [
+            63,
+            0,
+            127
+        ]
     }
 }

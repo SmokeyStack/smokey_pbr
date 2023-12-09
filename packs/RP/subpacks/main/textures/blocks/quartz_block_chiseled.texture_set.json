@@ -2,6 +2,11 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "quartz_block_chiseled",
-        "heightmap": "quartz_block_chiseled_heightmap"
+        "heightmap": "quartz_block_chiseled_heightmap",
+        "metalness_emissive_roughness": [
+            63,
+            0,
+            127
+        ]
     }
 }

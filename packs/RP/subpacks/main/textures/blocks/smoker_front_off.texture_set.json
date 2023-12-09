@@ -2,6 +2,7 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "smoker_front_off",
-        "heightmap": "smoker_front_off_heightmap"
+        "heightmap": "smoker_front_off_heightmap",
+        "metalness_emissive_roughness": "smoker_front_off_mer"
     }
 }

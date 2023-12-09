@@ -2,6 +2,7 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "powder_snow",
-        "heightmap": "powder_snow_heightmap"
+        "heightmap": "powder_snow_heightmap",
+        "metalness_emissive_roughness": "snow_mer"
     }
 }
