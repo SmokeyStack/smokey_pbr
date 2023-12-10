@@ -3,6 +3,10 @@
     "minecraft:texture_set": {
         "color": "powder_snow",
         "heightmap": "powder_snow_heightmap",
-        "metalness_emissive_roughness": "snow_mer"
+        "metalness_emissive_roughness": [
+            127,
+            0,
+            255
+        ]
     }
 }

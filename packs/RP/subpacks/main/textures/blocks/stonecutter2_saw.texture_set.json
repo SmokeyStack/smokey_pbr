@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "stonecutter2_saw",
+        "heightmap": "stonecutter2_saw_heightmap"
+    }
+}
