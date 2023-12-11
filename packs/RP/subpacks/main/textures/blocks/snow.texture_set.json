@@ -2,7 +2,7 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "snow",
-        "normal": "snow_n",
+        "heightmap": "snow_heightmap",
         "metalness_emissive_roughness": [
             127,
             0,
