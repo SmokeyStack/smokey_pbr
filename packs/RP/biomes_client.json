@@ -145,9 +145,9 @@
             "water_surface_color": "#02B0E5"
         },
         "default": {
-            "fog_identifier": "minecraft:fog_default",
+            "fog_identifier": "smokey_pbr:fog_default",
             "fog_ids_to_merge": [
-                "minecraft:fog_default"
+                "smokey_pbr:fog_default"
             ],
             "inherit_from_prior_fog": false,
             "remove_all_prior_fog": false,
