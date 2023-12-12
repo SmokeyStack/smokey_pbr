@@ -2,6 +2,6 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "leaves_big_oak_carried",
-        "heightmap": "leaves_big_oak_carried_heightmap"
+        "normal": "leaves_big_oak_carried_n"
     }
 }

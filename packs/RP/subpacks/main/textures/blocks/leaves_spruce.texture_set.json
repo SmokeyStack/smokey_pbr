@@ -2,6 +2,6 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "leaves_spruce",
-        "heightmap": "leaves_spruce_heightmap"
+        "normal": "leaves_spruce_n"
     }
 }
