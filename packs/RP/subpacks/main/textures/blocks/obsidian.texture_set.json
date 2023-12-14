@@ -6,7 +6,7 @@
         "metalness_emissive_roughness": [
             64,
             0,
-            80
+            255
         ]
     }
 }
