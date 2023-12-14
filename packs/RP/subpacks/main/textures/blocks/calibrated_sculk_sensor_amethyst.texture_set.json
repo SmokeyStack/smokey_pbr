@@ -5,8 +5,8 @@
         "heightmap": "calibrated_sculk_sensor_amethyst_heightmap",
         "metalness_emissive_roughness": [
             255,
-            17,
-            64
+            1,
+            255
         ]
     }
 }

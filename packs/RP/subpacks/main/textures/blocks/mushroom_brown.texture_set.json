@@ -2,6 +2,11 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "mushroom_brown",
-        "heightmap": "mushroom_brown_heightmap"
+        "heightmap": "mushroom_brown_heightmap",
+        "metalness_emissive_roughness": [
+            0,
+            1,
+            255
+        ]
     }
 }
