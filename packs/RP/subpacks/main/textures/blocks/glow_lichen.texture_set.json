@@ -5,7 +5,7 @@
         "heightmap": "glow_lichen_heightmap",
         "metalness_emissive_roughness": [
             0,
-            119,
+            7,
             255
         ]
     }

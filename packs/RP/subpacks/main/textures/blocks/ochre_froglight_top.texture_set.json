@@ -5,7 +5,7 @@
         "heightmap": "ochre_froglight_top_heightmap",
         "metalness_emissive_roughness": [
             0,
-            255,
+            15,
             255
         ]
     }
