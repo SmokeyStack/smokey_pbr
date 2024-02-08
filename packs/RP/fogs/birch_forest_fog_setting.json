@@ -6,10 +6,10 @@
         },
         "distance": {
             "air": {
-                "fog_color": "#F2F8F7",
-                "fog_end": 80,
-                "fog_start": 32,
-                "render_distance_type": "fixed"
+                "fog_color": "#F3F3F3",
+                "fog_end": 0.5,
+                "fog_start": 0.46,
+                "render_distance_type": "render"
             },
             "water": {
                 "fog_color": "#0677ce",
@@ -30,16 +30,16 @@
                 }
             },
             "weather": {
-                "fog_color": "#F2F8F7",
-                "fog_end": 64,
-                "fog_start": 16,
-                "render_distance_type": "fixed"
+                "fog_color": "#F3F3F3",
+                "fog_end": 0.375,
+                "fog_start": 0,
+                "render_distance_type": "render"
             }
         },
         "volumetric": {
             "density": {
                 "air": {
-                    "max_density": 0.05,
+                    "max_density": 0.02,
                     "uniform": true
                 },
                 "water": {
@@ -49,15 +49,27 @@
             },
             "media_coefficients": {
                 "air": {
-                    "scattering": [
-                        0.008235294117647058,
-                        0.00811764705882353,
-                        0.007686274509803922
-                    ],
                     "absorption": [
-                        0.00021176470588235287,
-                        0.0011215686274509804,
-                        0.0017098039215686274
+                        0,
+                        0,
+                        0
+                    ],
+                    "scattering": [
+                        0.02,
+                        0.02,
+                        0.02
+                    ]
+                },
+                "water": {
+                    "absorption": [
+                        0.2,
+                        0.07874,
+                        0.083465
+                    ],
+                    "scattering": [
+                        0.01811,
+                        0.02126,
+                        0.027953
                     ]
                 }
             }
