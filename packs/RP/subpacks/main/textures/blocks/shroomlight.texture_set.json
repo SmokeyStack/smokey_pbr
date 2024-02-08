@@ -5,7 +5,7 @@
         "heightmap": "shroomlight_heightmap",
         "metalness_emissive_roughness": [
             0,
-            255,
+            15,
             255
         ]
     }

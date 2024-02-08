@@ -5,7 +5,7 @@
         "heightmap": "glowstone_heightmap",
         "metalness_emissive_roughness": [
             127,
-            255,
+            15,
             255
         ]
     }

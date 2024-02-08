@@ -6,9 +6,9 @@
         },
         "distance": {
             "air": {
-                "fog_color": "#C5B59F",
+                "fog_color": "#E3C6AD",
                 "fog_end": 0.5,
-                "fog_start": 0.125,
+                "fog_start": 0.092,
                 "render_distance_type": "render"
             },
             "water": {
@@ -31,33 +31,45 @@
             },
             "weather": {
                 "fog_color": "#C5B59F",
-                "fog_end": 48,
+                "fog_end": 0.375,
                 "fog_start": 0,
-                "render_distance_type": "fixed"
+                "render_distance_type": "render"
             }
         },
         "volumetric": {
             "density": {
                 "air": {
-                    "max_density": 0.05,
+                    "max_density": 0.08,
                     "uniform": true
                 },
                 "water": {
-                    "max_density": 1.0,
+                    "max_density": 1,
                     "uniform": true
                 }
             },
             "media_coefficients": {
                 "air": {
-                    "scattering": [
-                        0.009450980392156862,
-                        0.007450980392156863,
-                        0.0042352941176470585
-                    ],
                     "absorption": [
-                        0.00021176470588235287,
-                        0.0011215686274509804,
-                        0.0017098039215686274
+                        0,
+                        0,
+                        0
+                    ],
+                    "scattering": [
+                        0.02,
+                        0.02,
+                        0.02
+                    ]
+                },
+                "water": {
+                    "absorption": [
+                        0.2,
+                        0.07874,
+                        0.083465
+                    ],
+                    "scattering": [
+                        0.01811,
+                        0.02126,
+                        0.027953
                     ]
                 }
             }

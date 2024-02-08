@@ -2,6 +2,6 @@
     "format_version": "1.16.100",
     "minecraft:texture_set": {
         "color": "hay_block_side",
-        "heightmap": "hay_block_side_heightmap"
+        "normal": "hay_block_side_heightmap"
     }
 }
