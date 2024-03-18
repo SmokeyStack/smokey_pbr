@@ -49,10 +49,10 @@
     ],
     "pbr": {
         "actors": {
-            "global_metalness_emissive_roughness": "#0000ff"
+            "global_metalness_emissive_roughness": "#0000FF"
         },
         "blocks": {
-            "global_metalness_emissive_roughness": "#0000ff"
+            "global_metalness_emissive_roughness": "#0000FF"
         }
     },
     "point_lights": {
