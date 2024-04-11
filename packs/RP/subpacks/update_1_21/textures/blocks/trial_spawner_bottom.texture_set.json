@@ -4,9 +4,9 @@
         "color": "trial_spawner_bottom",
         "heightmap": "trial_spawner_bottom_heightmap",
         "metalness_emissive_roughness": [
-            31,
+            192,
             0,
-            64
+            230
         ]
     }
 }
