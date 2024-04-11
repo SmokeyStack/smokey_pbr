@@ -3,9 +3,9 @@
     "minecraft:texture_set": {
         "color": "weathered_copper_grate",
         "metalness_emissive_roughness": [
-            63,
+            66,
             0,
-            127
+            192
         ],
         "heightmap": "copper_grate_heightmap"
     }

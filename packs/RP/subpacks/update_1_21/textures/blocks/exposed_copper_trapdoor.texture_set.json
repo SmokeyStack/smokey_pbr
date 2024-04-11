@@ -3,9 +3,9 @@
     "minecraft:texture_set": {
         "color": "exposed_copper_trapdoor",
         "metalness_emissive_roughness": [
-            95,
+            115,
             0,
-            127
+            192
         ],
         "heightmap": "copper_trapdoor_heightmap"
     }

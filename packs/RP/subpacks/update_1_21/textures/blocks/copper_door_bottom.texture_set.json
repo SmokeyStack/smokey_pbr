@@ -3,9 +3,9 @@
     "minecraft:texture_set": {
         "color": "copper_door_bottom",
         "metalness_emissive_roughness": [
-            127,
+            164,
             0,
-            127
+            192
         ],
         "heightmap": "copper_door_bottom_heightmap"
     }

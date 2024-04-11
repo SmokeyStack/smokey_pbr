@@ -3,9 +3,9 @@
     "minecraft:texture_set": {
         "color": "exposed_chiseled_copper",
         "metalness_emissive_roughness": [
-            95,
+            115,
             0,
-            127
+            192
         ],
         "heightmap": "chiseled_copper_heightmap"
     }
