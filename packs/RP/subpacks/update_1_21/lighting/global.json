@@ -53,6 +53,9 @@
         },
         "blocks": {
             "global_metalness_emissive_roughness": "#0000FF"
+        },
+        "particles": {
+            "global_metalness_emissive_roughness": "#0000FF"
         }
     },
     "point_lights": {
