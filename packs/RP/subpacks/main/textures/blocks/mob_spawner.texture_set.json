@@ -4,9 +4,9 @@
         "color": "mob_spawner",
         "heightmap": "mob_spawner_heightmap",
         "metalness_emissive_roughness": [
-            128,
+            192,
             0,
-            255
+            230
         ]
     }
 }
