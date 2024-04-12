@@ -4,7 +4,7 @@
         "color": "lava_still",
         "metalness_emissive_roughness": [
             0,
-            255,
+            15,
             255
         ],
         "normal": "water_n"
