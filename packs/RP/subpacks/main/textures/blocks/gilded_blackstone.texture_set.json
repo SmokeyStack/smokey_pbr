@@ -1,8 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "gilded_blackstone",
-        "heightmap": "gilded_blackstone_heightmap",
-        "metalness_emissive_roughness": "gilded_blackstone_mer"
-    }
-}

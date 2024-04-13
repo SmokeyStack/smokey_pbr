@@ -6,40 +6,8 @@ import os
 from PIL import Image
 from pathlib import Path
 
-for root, dirs, files in os.walk('data/main/mer'):
-    for file in files:
-        if(file.endswith('.png')):
-            im = Image.open(root+'/'+file)
-            im_rgb = im.convert('RGB')
-            im_new = Image.new(mode='RGB', size=(im.size[0],im.size[1]))
-            for i in range(im.size[0]):  # for every pixel:
-                for j in range(im.size[1]):
-                    value = im_rgb.getpixel((i,j))
-                    im_new.load()[i, j] = (
-                        int(value[0]),
-                        round(int(value[1])/17),
-                        int(value[2])
-                    )
-            im_new.save(root+'/'+file)
-
-for root, dirs, files in os.walk('data/update_1_21/mer'):
-    for file in files:
-        if(file.endswith('.png')):
-            im = Image.open(root+'/'+file)
-            im_rgb = im.convert('RGB')
-            im_new = Image.new(mode='RGB', size=(im.size[0],im.size[1]))
-            for i in range(im.size[0]):  # for every pixel:
-                for j in range(im.size[1]):
-                    value = im_rgb.getpixel((i,j))
-                    im_new.load()[i, j] = (
-                        int(value[0]),
-                        round(int(value[1])/17),
-                        int(value[2])
-                    )
-            im_new.save(root+'/'+file)
-
-def make_directories(source_base_path, target_base_path):
-    '''
+def copy_recursive(source_base_path, target_base_path):
+    """
     Copy a directory tree from one location to another. This differs from shutil.copytree() that it does not
     require the target destination to not exist. This will copy the contents of one directory in to another
     existing directory without complaining.
@@ -48,9 +16,9 @@ def make_directories(source_base_path, target_base_path):
     :param source_base_path: Directory
     :param target_base_path:
     :return: None
-    '''
+    """
     if not Path(source_base_path).is_dir() or not Path(target_base_path).is_dir():
-        raise Exception('Source and destination directory and not both directories.\nSource: %s\nTarget: %s' % (
+        raise Exception("Source and destination directory and not both directories.\nSource: %s\nTarget: %s" % (
         source_base_path, target_base_path))
     for item in os.listdir(source_base_path):
         # Directory
@@ -64,7 +32,31 @@ def make_directories(source_base_path, target_base_path):
 
             # Recurse
             new_source_dir = os.path.join(source_base_path, item)
-            make_directories(new_source_dir, new_target_dir)
+            copy_recursive(new_source_dir, new_target_dir)
+        # File
+        else:
+            # Copy file over
+            source_name = os.path.join(source_base_path, item)
+            target_name = os.path.join(target_base_path, item)
+            if not Path(target_name).is_file():
+                shutil.copy(source_name, target_name)
+
+def tweak_mer(folder_name):
+    for root, dirs, files in os.walk(f'data/{folder_name}/mer'):
+        for file in files:
+            if(file.endswith('.png')):
+                im = Image.open(root+'/'+file)
+                im_rgb = im.convert('RGB')
+                im_new = Image.new(mode='RGB', size=(im.size[0],im.size[1]))
+                for i in range(im.size[0]):  # for every pixel:
+                    for j in range(im.size[1]):
+                        value = im_rgb.getpixel((i,j))
+                        im_new.load()[i, j] = (
+                            int(value[0]),
+                            round(int(value[1])/17),
+                            int(value[2])
+                        )
+                im_new.save(root+'/'+file)
 
 def find_file(name, path):
     for root, dirs, files in os.walk(path):
@@ -73,44 +65,7 @@ def find_file(name, path):
                 return root
     return None
 
-src = os.path.join(os.getcwd(), 'data/main/src')
-dst = os.path.join(os.getcwd(), 'RP/subpacks/main/textures')
-print('Copying ' + src + ' to ' + dst)
-make_directories(src, dst)
-
-src = os.path.join(os.getcwd(), 'data/update_1_21/src')
-dst = os.path.join(os.getcwd(), 'RP/subpacks/update_1_21/textures')
-print('Copying ' + src + ' to ' + dst)
-make_directories(src, dst)
-
-with open('data/update_1_21/config.json') as json_data:
-    config = json.load(json_data)
-
-for root, dirs, files in os.walk('data/update_1_21/src'):
-    for file in files:
-        json_data ={}
-        json_data['format_version'] = '1.16.100'
-        json_data['minecraft:texture_set'] = {}
-        name = file[:-4]
-        json_data['minecraft:texture_set']['color'] = name
-        for attribute, value in config['mer']['array'].items():
-            for element in config['mer']['array'][attribute]:
-                if element == name:
-                    json_data['minecraft:texture_set']['metalness_emissive_roughness'] = list(map(int, attribute.split('-')))
-        for attribute, value in config['mer']['string'].items():
-            for element in config['mer']['string'][attribute]:
-                if element == name:
-                    json_data['minecraft:texture_set']['metalness_emissive_roughness'] = attribute
-                    shutil.copy('data/update_1_21/mer/'+root[21:] + '/' + attribute+'.png', 'RP/subpacks/update_1_21/textures/'+ root[21:] + '/' + attribute + '.png')
-        for attribute, value in config['heightmap'].items():
-            for element in config['heightmap'][attribute]:
-                if element == name:
-                    json_data['minecraft:texture_set']['heightmap'] = attribute
-                    shutil.copy('data/update_1_21/heightmap/'+attribute+'.png', 'RP/subpacks/update_1_21/textures/'+ root[21:] + '/' + attribute + '.png')
-        with open('RP/subpacks/update_1_21/textures/'+ root[21:] + '/' + name + '.texture_set.json', 'w') as fh:
-            json.dump(json_data, fh, sort_keys=True, ensure_ascii=False, indent=4)
-
-def create_texture_set(file_name, root):
+def create_texture_set(file_name, root, folder_name):
     texture_set={
         'format_version': '1.16.100',
         'minecraft:texture_set': {
@@ -125,16 +80,42 @@ def create_texture_set(file_name, root):
     for key, value in config['mer']['string'].items():
         if file_name in value:
             texture_set['minecraft:texture_set']['metalness_emissive_roughness'] = key
-            path = find_file(key + '.png', 'data/main/mer')
-            shutil.copy(f'{path}/{key}.png', f'RP/subpacks/main/textures/{root[14:]}/{key}.png')
+            path = find_file(key + '.png', f'data/{folder_name}/mer')
+            shutil.copy(f'{path}/{key}.png', f'RP/subpacks/main/textures/{root[10+len(folder_name):]}/{key}.png')
 
     for key, value in config['heightmap'].items():
         if file_name in value:
             texture_set['minecraft:texture_set']['heightmap'] = key
-            shutil.copy(f'data/main/heightmap/{key}.png', f'RP/subpacks/main/textures/{root[14:]}/{key}.png')
+            shutil.copy(f'data/{folder_name}/heightmap/{key}.png', f'RP/subpacks/{folder_name}/textures/{root[10+len(folder_name):]}/{key}.png')
 
-    with open(f'RP/subpacks/main/textures/{root[14:]}/{file_name}.texture_set.json', 'w') as file:
+    for key, value in config['normal'].items():
+        if file_name in value:
+            texture_set['minecraft:texture_set']['normal'] = key
+            shutil.copy(f'data/{folder_name}/normal/{key}.png', f'RP/subpacks/{folder_name}/textures/{root[10+len(folder_name):]}/{key}.png')
+
+    with open(f'RP/subpacks/{folder_name}/textures/{root[10+len(folder_name):]}/{file_name}.texture_set.json', 'w') as file:
         json.dump(texture_set, file, sort_keys=True, ensure_ascii=False, indent=4)
+
+src = os.path.join(os.getcwd(), 'data/main/src')
+dst = os.path.join(os.getcwd(), 'RP/subpacks/main/textures')
+print('Copying ' + src + ' to ' + dst)
+copy_recursive(src, dst)
+
+src = os.path.join(os.getcwd(), 'data/update_1_21/src')
+dst = os.path.join(os.getcwd(), 'RP/subpacks/update_1_21/textures')
+print('Copying ' + src + ' to ' + dst)
+copy_recursive(src, dst)
+
+tweak_mer('main')
+tweak_mer('update_1_21')
+
+with open('data/update_1_21/config.json') as data:
+    config = json.load(data)
+
+for root, directories, files in os.walk('data/update_1_21/src'):
+    for file in files:
+        file_name = file[:-4]
+        create_texture_set(file_name, root, 'update_1_21')
 
 with open('data/main/config.json') as data:
     config = json.load(data)
@@ -142,4 +123,4 @@ with open('data/main/config.json') as data:
 for root, directories, files in os.walk('data/main/src'):
     for file in files:
         file_name = file[:-4]
-        create_texture_set(file_name, root)
+        create_texture_set(file_name, root, 'main')

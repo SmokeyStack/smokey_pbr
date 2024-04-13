@@ -1,8 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "end_gateway",
-        "heightmap": "end_gateway_heightmap",
-        "metalness_emissive_roughness": "end_gateway"
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "furnace_front_off",
-        "heightmap": "furnace_front_off_heightmap"
-    }
-}

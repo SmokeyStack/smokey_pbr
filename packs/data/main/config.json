@@ -1,57 +1,2963 @@
 {
     "heightmap": {
-        "polished_deepslate_heightmap": [
-            "polished_deepslate"
+        "acacia_trapdoor_heightmap": [
+            "acacia_trapdoor"
+        ],
+        "amethyst_block_heightmap": [
+            "amethyst_block"
+        ],
+        "amethyst_cluster_heightmap": [
+            "amethyst_cluster"
+        ],
+        "ancient_debris_side_heightmap": [
+            "ancient_debris_side"
+        ],
+        "ancient_debris_top_heightmap": [
+            "ancient_debris_top"
+        ],
+        "angler_pottery_pattern_heightmap": [
+            "angler_pottery_pattern"
+        ],
+        "anvil_top_damaged_1_heightmap": [
+            "anvil_top_damaged_1"
+        ],
+        "anvil_top_damaged_2_heightmap": [
+            "anvil_top_damaged_2"
+        ],
+        "archer_pottery_pattern_heightmap": [
+            "archer_pottery_pattern"
+        ],
+        "arms_up_pottery_pattern_heightmap": [
+            "arms_up_pottery_pattern"
+        ],
+        "azalea_leaves_flowers_heightmap": [
+            "azalea_leaves_flowers",
+            "azalea_leaves_flowers_opaque"
+        ],
+        "azalea_leaves_heightmap": [
+            "azalea_leaves",
+            "azalea_leaves_opaque"
+        ],
+        "azalea_plant_heightmap": [
+            "azalea_plant"
+        ],
+        "azalea_side_heightmap": [
+            "azalea_side"
+        ],
+        "azalea_top_heightmap": [
+            "azalea_top"
+        ],
+        "bamboo_block_heightmap": [
+            "bamboo_block",
+            "stripped_bamboo_block"
+        ],
+        "bamboo_block_top_heightmap": [
+            "bamboo_block_top",
+            "stripped_bamboo_block_top"
+        ],
+        "bamboo_door_bottom_heightmap": [
+            "bamboo_door_bottom"
+        ],
+        "bamboo_door_top_heightmap": [
+            "bamboo_door_top"
+        ],
+        "bamboo_fence_gate_heightmap": [
+            "bamboo_fence_gate"
+        ],
+        "bamboo_fence_heightmap": [
+            "bamboo_fence"
+        ],
+        "bamboo_leaf_heightmap": [
+            "bamboo_leaf",
+            "bamboo_leaf"
+        ],
+        "bamboo_mosaic_heightmap": [
+            "bamboo_mosaic"
+        ],
+        "bamboo_sapling_heightmap": [
+            "bamboo_sapling"
+        ],
+        "bamboo_singleleaf_heightmap": [
+            "bamboo_singleleaf"
+        ],
+        "bamboo_small_leaf_heightmap": [
+            "bamboo_small_leaf"
+        ],
+        "bamboo_stem_heightmap": [
+            "bamboo_stem"
+        ],
+        "bamboo_trapdoor_heightmap": [
+            "bamboo_trapdoor"
+        ],
+        "barrel_bottom_heightmap": [
+            "barrel_bottom"
+        ],
+        "barrel_side_heightmap": [
+            "barrel_side"
+        ],
+        "barrel_top_heightmap": [
+            "barrel_top"
+        ],
+        "barrel_top_open_heightmap": [
+            "barrel_top_open"
+        ],
+        "barrier_heightmap": [
+            "barrier"
+        ],
+        "basalt_side_heightmap": [
+            "basalt_side"
+        ],
+        "basalt_top_heightmap": [
+            "basalt_top"
+        ],
+        "beacon_heightmap": [
+            "beacon"
+        ],
+        "bed_feet_end_heightmap": [
+            "bed_feet_end"
+        ],
+        "bed_feet_side_heightmap": [
+            "bed_feet_side"
+        ],
+        "bed_feet_top_heightmap": [
+            "bed_feet_top"
+        ],
+        "bed_head_end_heightmap": [
+            "bed_head_end"
+        ],
+        "bed_head_side_heightmap": [
+            "bed_head_side"
+        ],
+        "bed_head_top_heightmap": [
+            "bed_head_top"
+        ],
+        "bedrock_heightmap": [
+            "bedrock"
+        ],
+        "bee_nest_front_heightmap": [
+            "bee_nest_front"
+        ],
+        "bee_nest_front_honey_heightmap": [
+            "bee_nest_front_honey"
+        ],
+        "bee_nest_side_heightmap": [
+            "bee_nest_side"
+        ],
+        "bee_nest_top_heightmap": [
+            "bee_nest_bottom",
+            "bee_nest_top"
+        ],
+        "beehive_front_heightmap": [
+            "beehive_front"
+        ],
+        "beehive_front_honey_heightmap": [
+            "beehive_front_honey"
+        ],
+        "beehive_side_heightmap": [
+            "beehive_side"
+        ],
+        "beehive_top_heightmap": [
+            "beehive_top"
+        ],
+        "beetroots_stage_0_heightmap": [
+            "beetroots_stage_0"
+        ],
+        "beetroots_stage_1_heightmap": [
+            "beetroots_stage_1"
+        ],
+        "beetroots_stage_2_heightmap": [
+            "beetroots_stage_2"
+        ],
+        "beetroots_stage_3_heightmap": [
+            "beetroots_stage_3"
+        ],
+        "bell_bottom_heightmap": [
+            "bell_bottom"
+        ],
+        "bell_side_heightmap": [
+            "bell_side"
+        ],
+        "bell_top_heightmap": [
+            "bell_top"
+        ],
+        "big_dripleaf_side1_heightmap": [
+            "big_dripleaf_side1"
+        ],
+        "big_dripleaf_side2_heightmap": [
+            "big_dripleaf_side2"
+        ],
+        "big_dripleaf_stem_heightmap": [
+            "big_dripleaf_stem"
+        ],
+        "big_dripleaf_top_heightmap": [
+            "big_dripleaf_top"
+        ],
+        "birch_trapdoor_heightmap": [
+            "birch_trapdoor"
+        ],
+        "blackstone_heightmap": [
+            "blackstone"
+        ],
+        "blackstone_top_heightmap": [
+            "blackstone_top"
+        ],
+        "blade_pottery_pattern_heightmap": [
+            "blade_pottery_pattern"
+        ],
+        "blast_furnace_front_off_heightmap": [
+            "blast_furnace_front_off"
+        ],
+        "blast_furnace_front_on_heightmap": [
+            "blast_furnace_front_on"
+        ],
+        "blast_furnace_side_heightmap": [
+            "blast_furnace_side"
+        ],
+        "blast_furnace_top_heightmap": [
+            "blast_furnace_top"
+        ],
+        "blue_ice_heightmap": [
+            "blue_ice"
+        ],
+        "bone_block_top_heightmap": [
+            "bone_block_top"
+        ],
+        "bookshelf_heightmap": [
+            "bookshelf"
+        ],
+        "border_heightmap": [
+            "border"
+        ],
+        "brewer_pottery_pattern_heightmap": [
+            "brewer_pottery_pattern"
+        ],
+        "brewing_stand_base_heightmap": [
+            "brewing_stand_base"
+        ],
+        "brewing_stand_heightmap": [
+            "brewing_stand"
+        ],
+        "brick_heightmap": [
+            "brick"
         ],
         "bricks_heightmap": [
+            "end_bricks",
+            "polished_blackstone_bricks",
+            "stonebrick",
             "cracked_deepslate_bricks",
             "deepslate_bricks"
+        ],
+        "bubble_column_down_top_a_heightmap": [
+            "bubble_column_down_top_a"
+        ],
+        "bubble_column_down_top_b_heightmap": [
+            "bubble_column_down_top_b"
+        ],
+        "bubble_column_down_top_c_heightmap": [
+            "bubble_column_down_top_c"
+        ],
+        "bubble_column_down_top_d_heightmap": [
+            "bubble_column_down_top_d"
+        ],
+        "bubble_column_inner_a_heightmap": [
+            "bubble_column_inner_a"
+        ],
+        "bubble_column_inner_b_heightmap": [
+            "bubble_column_inner_b"
+        ],
+        "bubble_column_outer_a_heightmap": [
+            "bubble_column_outer_a"
+        ],
+        "bubble_column_outer_b_heightmap": [
+            "bubble_column_outer_b"
+        ],
+        "bubble_column_outer_c_heightmap": [
+            "bubble_column_outer_c"
+        ],
+        "bubble_column_outer_d_heightmap": [
+            "bubble_column_outer_d"
+        ],
+        "bubble_column_outer_e_heightmap": [
+            "bubble_column_outer_e"
+        ],
+        "bubble_column_outer_f_heightmap": [
+            "bubble_column_outer_f"
+        ],
+        "bubble_column_outer_g_heightmap": [
+            "bubble_column_outer_g"
+        ],
+        "bubble_column_outer_h_heightmap": [
+            "bubble_column_outer_h"
+        ],
+        "bubble_column_up_top_a_heightmap": [
+            "bubble_column_up_top_a"
+        ],
+        "bubble_column_up_top_b_heightmap": [
+            "bubble_column_up_top_b"
+        ],
+        "bubble_column_up_top_c_heightmap": [
+            "bubble_column_up_top_c"
+        ],
+        "bubble_column_up_top_d_heightmap": [
+            "bubble_column_up_top_d"
+        ],
+        "budding_amethyst_heightmap": [
+            "budding_amethyst"
+        ],
+        "build_allow_heightmap": [
+            "build_allow"
+        ],
+        "build_deny_heightmap": [
+            "build_deny"
+        ],
+        "burn_pottery_pattern_heightmap": [
+            "burn_pottery_pattern"
+        ],
+        "cactus_bottom_heightmap": [
+            "cactus_bottom"
+        ],
+        "cactus_side_heightmap": [
+            "cactus_side"
+        ],
+        "cactus_top_heightmap": [
+            "cactus_top"
+        ],
+        "cake_bottom_heightmap": [
+            "cake_bottom"
+        ],
+        "cake_inner_heightmap": [
+            "cake_inner"
+        ],
+        "cake_side_heightmap": [
+            "cake_side"
+        ],
+        "cake_top_heightmap": [
+            "cake_top"
+        ],
+        "calcite_heightmap": [
+            "calcite"
+        ],
+        "calibrated_sculk_sensor_amethyst_heightmap": [
+            "calibrated_sculk_sensor_amethyst"
+        ],
+        "calibrated_sculk_sensor_input_side_heightmap": [
+            "calibrated_sculk_sensor_input_side"
+        ],
+        "calibrated_sculk_sensor_top_heightmap": [
+            "calibrated_sculk_sensor_top"
+        ],
+        "camera_back_heightmap": [
+            "camera_back"
+        ],
+        "camera_front_heightmap": [
+            "camera_front"
+        ],
+        "camera_side_heightmap": [
+            "camera_side"
+        ],
+        "camera_top_heightmap": [
+            "camera_top"
+        ],
+        "campfire_heightmap": [
+            "campfire"
+        ],
+        "campfire_log_heightmap": [
+            "campfire_log"
+        ],
+        "campfire_log_lit_heightmap": [
+            "campfire_log_lit"
+        ],
+        "carried_waterlily_heightmap": [
+            "carried_waterlily"
+        ],
+        "carrots_stage3_heightmap": [
+            "carrots_stage3"
+        ],
+        "carrots_stage_0_heightmap": [
+            "carrots_stage_0"
+        ],
+        "carrots_stage_1_heightmap": [
+            "carrots_stage_1"
+        ],
+        "carrots_stage_2_heightmap": [
+            "carrots_stage_2"
+        ],
+        "carrots_stage_3_heightmap": [
+            "carrots_stage_3"
+        ],
+        "cartography_table_side1_heightmap": [
+            "cartography_table_side1"
+        ],
+        "cartography_table_side2_heightmap": [
+            "cartography_table_side2"
+        ],
+        "cartography_table_side3_heightmap": [
+            "cartography_table_side3"
+        ],
+        "cartography_table_top_heightmap": [
+            "cartography_table_top"
+        ],
+        "cauldron_bottom_heightmap": [
+            "cauldron_bottom"
+        ],
+        "cauldron_inner_heightmap": [
+            "cauldron_inner"
+        ],
+        "cauldron_side_heightmap": [
+            "cauldron_side"
+        ],
+        "cauldron_top_heightmap": [
+            "cauldron_top"
+        ],
+        "cauldron_water_heightmap": [
+            "cauldron_water"
+        ],
+        "cauldron_water_placeholder_heightmap": [
+            "cauldron_water_placeholder"
+        ],
+        "cave_vines_body_berries_heightmap": [
+            "cave_vines_body_berries"
+        ],
+        "cave_vines_body_heightmap": [
+            "cave_vines_body"
+        ],
+        "cave_vines_head_berries_heightmap": [
+            "cave_vines_head_berries"
+        ],
+        "cave_vines_head_heightmap": [
+            "cave_vines_head"
+        ],
+        "chain1_heightmap": [
+            "chain1"
+        ],
+        "chain2_heightmap": [
+            "chain2"
+        ],
+        "chain_command_block_back_heightmap": [
+            "chain_command_block_back"
+        ],
+        "chain_command_block_back_mipmap_heightmap": [
+            "chain_command_block_back_mipmap"
+        ],
+        "chain_command_block_conditional_heightmap": [
+            "chain_command_block_conditional"
+        ],
+        "chain_command_block_conditional_mipmap_heightmap": [
+            "chain_command_block_conditional_mipmap"
+        ],
+        "chain_command_block_front_heightmap": [
+            "chain_command_block_front"
+        ],
+        "chain_command_block_front_mipmap_heightmap": [
+            "chain_command_block_front_mipmap"
+        ],
+        "chain_command_block_side_heightmap": [
+            "chain_command_block_side"
+        ],
+        "chain_command_block_side_mipmap_heightmap": [
+            "chain_command_block_side_mipmap"
+        ],
+        "cherry_door_bottom_heightmap": [
+            "cherry_door_bottom"
+        ],
+        "cherry_door_top_heightmap": [
+            "cherry_door_top"
+        ],
+        "cherry_leaves_heightmap": [
+            "cherry_leaves"
+        ],
+        "cherry_leaves_opaque_heightmap": [
+            "cherry_leaves_opaque"
+        ],
+        "cherry_log_side_heightmap": [
+            "cherry_log_side"
+        ],
+        "cherry_sapling_heightmap": [
+            "cherry_sapling"
+        ],
+        "cherry_trapdoor_heightmap": [
+            "cherry_trapdoor"
+        ],
+        "chiseled_bookshelf_empty_heightmap": [
+            "chiseled_bookshelf_empty"
+        ],
+        "chiseled_bookshelf_occupied_heightmap": [
+            "chiseled_bookshelf_occupied"
+        ],
+        "chiseled_bookshelf_side_heightmap": [
+            "chiseled_bookshelf_side"
+        ],
+        "chiseled_bookshelf_top_heightmap": [
+            "chiseled_bookshelf_top"
         ],
         "chiseled_deepslate_heightmap": [
             "chiseled_deepslate"
         ],
+        "chiseled_nether_bricks_heightmap": [
+            "chiseled_nether_bricks"
+        ],
+        "chiseled_polished_blackstone_heightmap": [
+            "chiseled_polished_blackstone"
+        ],
+        "chorus_flower_dead_heightmap": [
+            "chorus_flower_dead"
+        ],
+        "chorus_flower_heightmap": [
+            "chorus_flower"
+        ],
+        "chorus_plant_heightmap": [
+            "chorus_plant"
+        ],
+        "clay_heightmap": [
+            "clay"
+        ],
+        "coal_block_heightmap": [
+            "coal_block"
+        ],
         "coal_ore_heightmap": [
+            "coal_ore",
             "deepslate_coal_ore"
         ],
-        "deepslate_heightmap": [
-            "deepslate"
+        "coarse_dirt_heightmap": [
+            "coarse_dirt"
         ],
         "cobbled_deepslate_heightmap": [
             "cobbled_deepslate"
+        ],
+        "cobblestone_heightmap": [
+            "cobblestone"
+        ],
+        "cobblestone_mossy_heightmap": [
+            "cobblestone_mossy"
+        ],
+        "cocoa_stage_0_heightmap": [
+            "cocoa_stage_0"
+        ],
+        "cocoa_stage_1_heightmap": [
+            "cocoa_stage_1"
+        ],
+        "cocoa_stage_2_heightmap": [
+            "cocoa_stage_2"
+        ],
+        "command_block_back_heightmap": [
+            "command_block_back"
+        ],
+        "command_block_back_mipmap_heightmap": [
+            "command_block_back_mipmap"
+        ],
+        "command_block_conditional_heightmap": [
+            "command_block_conditional"
+        ],
+        "command_block_conditional_mipmap_heightmap": [
+            "command_block_conditional_mipmap"
+        ],
+        "command_block_front_heightmap": [
+            "command_block_front"
+        ],
+        "command_block_front_mipmap_heightmap": [
+            "command_block_front_mipmap"
+        ],
+        "command_block_heightmap": [
+            "command_block"
+        ],
+        "command_block_side_heightmap": [
+            "command_block_side"
+        ],
+        "command_block_side_mipmap_heightmap": [
+            "command_block_side_mipmap"
+        ],
+        "comparator_off_heightmap": [
+            "comparator_off"
+        ],
+        "comparator_on_heightmap": [
+            "comparator_on"
+        ],
+        "compost_heightmap": [
+            "compost"
+        ],
+        "compost_ready_heightmap": [
+            "compost_ready"
+        ],
+        "composter_bottom_heightmap": [
+            "composter_bottom"
+        ],
+        "composter_side_heightmap": [
+            "composter_side"
+        ],
+        "composter_top_heightmap": [
+            "composter_top"
+        ],
+        "concrete_black_heightmap": [
+            "concrete_black"
+        ],
+        "concrete_blue_heightmap": [
+            "concrete_blue"
+        ],
+        "concrete_brown_heightmap": [
+            "concrete_brown"
+        ],
+        "concrete_cyan_heightmap": [
+            "concrete_cyan"
+        ],
+        "concrete_gray_heightmap": [
+            "concrete_gray"
+        ],
+        "concrete_green_heightmap": [
+            "concrete_green"
+        ],
+        "concrete_light_blue_heightmap": [
+            "concrete_light_blue"
+        ],
+        "concrete_lime_heightmap": [
+            "concrete_lime"
+        ],
+        "concrete_magenta_heightmap": [
+            "concrete_magenta"
+        ],
+        "concrete_orange_heightmap": [
+            "concrete_orange"
+        ],
+        "concrete_pink_heightmap": [
+            "concrete_pink"
+        ],
+        "concrete_powder_black_heightmap": [
+            "concrete_powder_black"
+        ],
+        "concrete_powder_blue_heightmap": [
+            "concrete_powder_blue"
+        ],
+        "concrete_powder_brown_heightmap": [
+            "concrete_powder_brown"
+        ],
+        "concrete_powder_cyan_heightmap": [
+            "concrete_powder_cyan"
+        ],
+        "concrete_powder_gray_heightmap": [
+            "concrete_powder_gray"
+        ],
+        "concrete_powder_green_heightmap": [
+            "concrete_powder_green"
+        ],
+        "concrete_powder_light_blue_heightmap": [
+            "concrete_powder_light_blue"
+        ],
+        "concrete_powder_lime_heightmap": [
+            "concrete_powder_lime"
+        ],
+        "concrete_powder_magenta_heightmap": [
+            "concrete_powder_magenta"
+        ],
+        "concrete_powder_orange_heightmap": [
+            "concrete_powder_orange"
+        ],
+        "concrete_powder_pink_heightmap": [
+            "concrete_powder_pink"
+        ],
+        "concrete_powder_purple_heightmap": [
+            "concrete_powder_purple"
+        ],
+        "concrete_powder_red_heightmap": [
+            "concrete_powder_red"
+        ],
+        "concrete_powder_silver_heightmap": [
+            "concrete_powder_silver"
+        ],
+        "concrete_powder_white_heightmap": [
+            "concrete_powder_white"
+        ],
+        "concrete_powder_yellow_heightmap": [
+            "concrete_powder_yellow"
+        ],
+        "concrete_purple_heightmap": [
+            "concrete_purple"
+        ],
+        "concrete_red_heightmap": [
+            "concrete_red"
+        ],
+        "concrete_silver_heightmap": [
+            "concrete_silver"
+        ],
+        "concrete_white_heightmap": [
+            "concrete_white"
+        ],
+        "concrete_yellow_heightmap": [
+            "concrete_yellow"
+        ],
+        "conduit_base_heightmap": [
+            "conduit_base"
+        ],
+        "conduit_cage_heightmap": [
+            "conduit_cage"
+        ],
+        "conduit_closed_heightmap": [
+            "conduit_closed"
+        ],
+        "conduit_open_heightmap": [
+            "conduit_open"
+        ],
+        "conduit_wind_horizontal_heightmap": [
+            "conduit_wind_horizontal"
+        ],
+        "conduit_wind_vertical_heightmap": [
+            "conduit_wind_vertical"
+        ],
+        "copper_block_heightmap": [
+            "copper_block",
+            "exposed_copper",
+            "oxidized_copper",
+            "weathered_copper"
+        ],
+        "coral_blue_dead_heightmap": [
+            "coral_blue_dead"
+        ],
+        "coral_blue_heightmap": [
+            "coral_blue"
+        ],
+        "coral_fan_blue_dead_heightmap": [
+            "coral_fan_blue_dead"
+        ],
+        "coral_fan_blue_heightmap": [
+            "coral_fan_blue"
+        ],
+        "coral_fan_pink_dead_heightmap": [
+            "coral_fan_pink_dead"
+        ],
+        "coral_fan_pink_heightmap": [
+            "coral_fan_pink"
+        ],
+        "coral_fan_purple_dead_heightmap": [
+            "coral_fan_purple_dead"
+        ],
+        "coral_fan_purple_heightmap": [
+            "coral_fan_purple"
+        ],
+        "coral_fan_red_dead_heightmap": [
+            "coral_fan_red_dead"
+        ],
+        "coral_fan_red_heightmap": [
+            "coral_fan_red"
+        ],
+        "coral_fan_yellow_dead_heightmap": [
+            "coral_fan_yellow_dead"
+        ],
+        "coral_fan_yellow_heightmap": [
+            "coral_fan_yellow"
+        ],
+        "coral_pink_dead_heightmap": [
+            "coral_pink_dead"
+        ],
+        "coral_pink_heightmap": [
+            "coral_pink"
+        ],
+        "coral_plant_blue_dead_heightmap": [
+            "coral_plant_blue_dead"
+        ],
+        "coral_plant_blue_heightmap": [
+            "coral_plant_blue"
+        ],
+        "coral_plant_pink_dead_heightmap": [
+            "coral_plant_pink_dead"
+        ],
+        "coral_plant_pink_heightmap": [
+            "coral_plant_pink"
+        ],
+        "coral_plant_purple_dead_heightmap": [
+            "coral_plant_purple_dead"
+        ],
+        "coral_plant_purple_heightmap": [
+            "coral_plant_purple"
+        ],
+        "coral_plant_red_dead_heightmap": [
+            "coral_plant_red_dead"
+        ],
+        "coral_plant_red_heightmap": [
+            "coral_plant_red"
+        ],
+        "coral_plant_yellow_dead_heightmap": [
+            "coral_plant_yellow_dead"
+        ],
+        "coral_plant_yellow_heightmap": [
+            "coral_plant_yellow"
+        ],
+        "coral_purple_dead_heightmap": [
+            "coral_purple_dead"
+        ],
+        "coral_purple_heightmap": [
+            "coral_purple"
+        ],
+        "coral_red_dead_heightmap": [
+            "coral_red_dead"
+        ],
+        "coral_red_heightmap": [
+            "coral_red"
+        ],
+        "coral_yellow_dead_heightmap": [
+            "coral_yellow_dead"
+        ],
+        "coral_yellow_heightmap": [
+            "coral_yellow"
+        ],
+        "cracked_nether_bricks_heightmap": [
+            "cracked_nether_bricks"
+        ],
+        "cracked_polished_blackstone_bricks_heightmap": [
+            "cracked_polished_blackstone_bricks"
+        ],
+        "crafting_table_front_heightmap": [
+            "crafting_table_front"
+        ],
+        "crafting_table_side_heightmap": [
+            "crafting_table_side"
+        ],
+        "crafting_table_top_heightmap": [
+            "crafting_table_top"
+        ],
+        "crimson_door_lower_heightmap": [
+            "crimson_door_lower"
+        ],
+        "crimson_door_top_heightmap": [
+            "crimson_door_top"
+        ],
+        "crimson_fungus_heightmap": [
+            "crimson_fungus"
+        ],
+        "crimson_nylium_side_heightmap": [
+            "crimson_nylium_side"
+        ],
+        "crimson_nylium_top_heightmap": [
+            "crimson_nylium_top"
+        ],
+        "crimson_roots_heightmap": [
+            "crimson_roots"
+        ],
+        "crimson_roots_pot_heightmap": [
+            "crimson_roots_pot"
+        ],
+        "crimson_trapdoor_heightmap": [
+            "crimson_trapdoor"
+        ],
+        "crying_obsidian_heightmap": [
+            "crying_obsidian"
+        ],
+        "cut_copper_heightmap": [
+            "cut_copper",
+            "exposed_cut_copper",
+            "oxidized_cut_copper",
+            "weathered_cut_copper"
+        ],
+        "danger_pottery_pattern_heightmap": [
+            "danger_pottery_pattern"
+        ],
+        "dark_oak_trapdoor_heightmap": [
+            "dark_oak_trapdoor"
+        ],
+        "daylight_detector_heightmap": [
+            "daylight_detector_inverted_top",
+            "daylight_detector_top"
+        ],
+        "daylight_detector_side_heightmap": [
+            "daylight_detector_side"
+        ],
+        "deadbush_heightmap": [
+            "deadbush"
+        ],
+        "decorated_pot_base_heightmap": [
+            "decorated_pot_base"
+        ],
+        "decorated_pot_side_heightmap": [
+            "decorated_pot_side"
+        ],
+        "deepslate_heightmap": [
+            "deepslate"
         ],
         "deepslate_tiles_heightmap": [
             "cracked_deepslate_tiles",
             "deepslate_tiles"
         ],
-        "diamond_ore_heightmap": [
-            "deepslate_diamond_ore"
-        ],
-        "emerald_ore_heightmap": [
-            "deepslate_emerald_ore"
-        ],
-        "gold_ore_heightmap": [
-            "deepslate_gold_ore"
-        ],
-        "iron_ore_heightmap": [
-            "deepslate_iron_ore"
-        ],
-        "lapis_ore_heightmap": [
-            "deepslate_lapis_ore"
-        ],
-        "redstone_ore_heightmap": [
-            "deepslate_redstone_ore"
-        ],
         "deepslate_top_heightmap": [
             "deepslate_top"
+        ],
+        "diamond_block_heightmap": [
+            "diamond_block"
+        ],
+        "diamond_ore_heightmap": [
+            "diamond_ore",
+            "deepslate_diamond_ore"
+        ],
+        "dirt_heightmap": [
+            "dirt"
+        ],
+        "dirt_podzol_side_heightmap": [
+            "dirt_podzol_side"
+        ],
+        "dirt_podzol_top_heightmap": [
+            "dirt_podzol_top"
+        ],
+        "dirt_with_roots_heightmap": [
+            "dirt_with_roots"
+        ],
+        "dispenser_front_horizontal_heightmap": [
+            "dispenser_front_horizontal"
+        ],
+        "dispenser_front_vertical_heightmap": [
+            "dispenser_front_vertical"
+        ],
+        "door_acacia_lower_heightmap": [
+            "door_acacia_lower"
+        ],
+        "door_acacia_upper_heightmap": [
+            "door_acacia_upper"
+        ],
+        "door_birch_lower_heightmap": [
+            "door_birch_lower"
+        ],
+        "door_birch_upper_heightmap": [
+            "door_birch_upper"
+        ],
+        "door_dark_oak_lower_heightmap": [
+            "door_dark_oak_lower"
+        ],
+        "door_dark_oak_upper_heightmap": [
+            "door_dark_oak_upper"
+        ],
+        "door_iron_lower_heightmap": [
+            "door_iron_lower"
+        ],
+        "door_iron_upper_heightmap": [
+            "door_iron_upper"
+        ],
+        "door_jungle_lower_heightmap": [
+            "door_jungle_lower"
+        ],
+        "door_jungle_upper_heightmap": [
+            "door_jungle_upper"
+        ],
+        "door_spruce_lower_heightmap": [
+            "door_spruce_lower"
+        ],
+        "door_spruce_upper_heightmap": [
+            "door_spruce_upper"
+        ],
+        "door_wood_lower_heightmap": [
+            "door_wood_lower"
+        ],
+        "door_wood_upper_heightmap": [
+            "door_wood_upper"
+        ],
+        "double_plant_fern_bottom_heightmap": [
+            "double_plant_fern_bottom"
+        ],
+        "double_plant_fern_carried_heightmap": [
+            "double_plant_fern_carried"
+        ],
+        "double_plant_fern_top_heightmap": [
+            "double_plant_fern_top"
+        ],
+        "double_plant_grass_bottom_heightmap": [
+            "double_plant_grass_bottom"
+        ],
+        "double_plant_grass_carried_heightmap": [
+            "double_plant_grass_carried"
+        ],
+        "double_plant_grass_top_heightmap": [
+            "double_plant_grass_top"
+        ],
+        "double_plant_paeonia_bottom_heightmap": [
+            "double_plant_paeonia_bottom"
+        ],
+        "double_plant_paeonia_top_heightmap": [
+            "double_plant_paeonia_top"
+        ],
+        "double_plant_rose_bottom_heightmap": [
+            "double_plant_rose_bottom"
+        ],
+        "double_plant_rose_top_heightmap": [
+            "double_plant_rose_top"
+        ],
+        "double_plant_sunflower_back_heightmap": [
+            "double_plant_sunflower_back"
+        ],
+        "double_plant_sunflower_bottom_heightmap": [
+            "double_plant_sunflower_bottom"
+        ],
+        "double_plant_sunflower_front_heightmap": [
+            "double_plant_sunflower_front"
+        ],
+        "double_plant_sunflower_top_heightmap": [
+            "double_plant_sunflower_top"
+        ],
+        "double_plant_syringa_bottom_heightmap": [
+            "double_plant_syringa_bottom"
+        ],
+        "double_plant_syringa_top_heightmap": [
+            "double_plant_syringa_top"
+        ],
+        "dragon_egg_heightmap": [
+            "dragon_egg"
+        ],
+        "dried_kelp_side_a_heightmap": [
+            "dried_kelp_side_a"
+        ],
+        "dried_kelp_side_b_heightmap": [
+            "dried_kelp_side_b"
+        ],
+        "dried_kelp_top_heightmap": [
+            "dried_kelp_top"
+        ],
+        "dripstone_block_heightmap": [
+            "dripstone_block"
+        ],
+        "dropper_front_horizontal_heightmap": [
+            "dropper_front_horizontal"
+        ],
+        "dropper_front_vertical_heightmap": [
+            "dropper_front_vertical"
+        ],
+        "emerald_block_heightmap": [
+            "emerald_block"
+        ],
+        "emerald_ore_heightmap": [
+            "emerald_ore",
+            "deepslate_emerald_ore"
+        ],
+        "enchanting_table_bottom_heightmap": [
+            "enchanting_table_bottom"
+        ],
+        "enchanting_table_side_heightmap": [
+            "enchanting_table_side"
+        ],
+        "enchanting_table_top_heightmap": [
+            "enchanting_table_top"
+        ],
+        "end_gateway_heightmap": [
+            "end_gateway"
+        ],
+        "end_portal_heightmap": [
+            "end_portal"
+        ],
+        "end_rod_heightmap": [
+            "end_rod"
+        ],
+        "end_stone_heightmap": [
+            "end_stone"
+        ],
+        "endframe_eye_heightmap": [
+            "endframe_eye"
+        ],
+        "endframe_side_heightmap": [
+            "endframe_side"
+        ],
+        "endframe_top_heightmap": [
+            "endframe_top"
+        ],
+        "explorer_pottery_pattern_heightmap": [
+            "explorer_pottery_pattern"
+        ],
+        "farmland_dry_heightmap": [
+            "farmland_dry"
+        ],
+        "farmland_wet_heightmap": [
+            "farmland_wet"
+        ],
+        "fern_carried_heightmap": [
+            "fern_carried"
+        ],
+        "fern_heightmap": [
+            "fern"
+        ],
+        "fire_0_heightmap": [
+            "fire_0"
+        ],
+        "fire_0_placeholder_heightmap": [
+            "fire_0_placeholder"
+        ],
+        "fire_1_heightmap": [
+            "fire_1"
+        ],
+        "fire_1_placeholder_heightmap": [
+            "fire_1_placeholder"
+        ],
+        "fletcher_table_side1_heightmap": [
+            "fletcher_table_side1"
+        ],
+        "fletcher_table_side2_heightmap": [
+            "fletcher_table_side2"
+        ],
+        "fletcher_table_top_heightmap": [
+            "fletcher_table_top"
+        ],
+        "flower_allium_heightmap": [
+            "flower_allium"
+        ],
+        "flower_blue_orchid_heightmap": [
+            "flower_blue_orchid"
+        ],
+        "flower_cornflower_heightmap": [
+            "flower_cornflower"
+        ],
+        "flower_dandelion_heightmap": [
+            "flower_dandelion"
+        ],
+        "flower_houstonia_heightmap": [
+            "flower_houstonia"
+        ],
+        "flower_lily_of_the_valley_heightmap": [
+            "flower_lily_of_the_valley"
+        ],
+        "flower_oxeye_daisy_heightmap": [
+            "flower_oxeye_daisy"
+        ],
+        "flower_paeonia_heightmap": [
+            "flower_paeonia"
+        ],
+        "flower_pot_heightmap": [
+            "flower_pot"
+        ],
+        "flower_rose_blue_heightmap": [
+            "flower_rose_blue"
+        ],
+        "flower_rose_heightmap": [
+            "flower_rose"
+        ],
+        "flower_tulip_orange_heightmap": [
+            "flower_tulip_orange"
+        ],
+        "flower_tulip_pink_heightmap": [
+            "flower_tulip_pink"
+        ],
+        "flower_tulip_red_heightmap": [
+            "flower_tulip_red"
+        ],
+        "flower_tulip_white_heightmap": [
+            "flower_tulip_white"
+        ],
+        "flower_wither_rose_heightmap": [
+            "flower_wither_rose"
+        ],
+        "flowering_azalea_side_heightmap": [
+            "flowering_azalea_side"
+        ],
+        "flowering_azalea_top_heightmap": [
+            "flowering_azalea_top"
+        ],
+        "friend_pottery_pattern_heightmap": [
+            "friend_pottery_pattern"
+        ],
+        "frogspawn_heightmap": [
+            "frogspawn"
+        ],
+        "frosted_ice_0_heightmap": [
+            "frosted_ice_0"
+        ],
+        "frosted_ice_1_heightmap": [
+            "frosted_ice_1"
+        ],
+        "frosted_ice_2_heightmap": [
+            "frosted_ice_2"
+        ],
+        "frosted_ice_3_heightmap": [
+            "frosted_ice_3"
+        ],
+        "furnace_front_off_heightmap": [
+            "furnace_front_off"
+        ],
+        "furnace_front_on_heightmap": [
+            "furnace_front_on"
+        ],
+        "furnace_side_heightmap": [
+            "furnace_side"
+        ],
+        "furnace_top_heightmap": [
+            "furnace_top"
+        ],
+        "gilded_blackstone_heightmap": [
+            "gilded_blackstone"
+        ],
+        "glass_heightmap": [
+            "glass",
+            "glass_black",
+            "glass_blue",
+            "glass_brown",
+            "glass_cyan",
+            "glass_gray",
+            "glass_green",
+            "glass_light_blue",
+            "glass_lime",
+            "glass_magenta",
+            "glass_orange",
+            "glass_pane_top",
+            "glass_pane_top_black",
+            "glass_pane_top_blue",
+            "glass_pane_top_brown",
+            "glass_pane_top_cyan",
+            "glass_pane_top_gray",
+            "glass_pane_top_green",
+            "glass_pane_top_light_blue",
+            "glass_pane_top_lime",
+            "glass_pane_top_magenta",
+            "glass_pane_top_orange",
+            "glass_pane_top_pink",
+            "glass_pane_top_purple",
+            "glass_pane_top_red",
+            "glass_pane_top_silver",
+            "glass_pane_top_white",
+            "glass_pane_top_yellow",
+            "glass_pink",
+            "glass_purple",
+            "glass_red",
+            "glass_silver",
+            "glass_white",
+            "glass_yellow",
+            "tinted_glass"
+        ],
+        "glazed_terracotta_black_heightmap": [
+            "glazed_terracotta_black"
+        ],
+        "glazed_terracotta_blue_heightmap": [
+            "glazed_terracotta_blue"
+        ],
+        "glazed_terracotta_brown_heightmap": [
+            "glazed_terracotta_brown"
+        ],
+        "glazed_terracotta_cyan_heightmap": [
+            "glazed_terracotta_cyan"
+        ],
+        "glazed_terracotta_gray_heightmap": [
+            "glazed_terracotta_gray"
+        ],
+        "glazed_terracotta_green_heightmap": [
+            "glazed_terracotta_green"
+        ],
+        "glazed_terracotta_light_blue_heightmap": [
+            "glazed_terracotta_light_blue"
+        ],
+        "glazed_terracotta_lime_heightmap": [
+            "glazed_terracotta_lime"
+        ],
+        "glazed_terracotta_magenta_heightmap": [
+            "glazed_terracotta_magenta"
+        ],
+        "glazed_terracotta_orange_heightmap": [
+            "glazed_terracotta_orange"
+        ],
+        "glazed_terracotta_pink_heightmap": [
+            "glazed_terracotta_pink"
+        ],
+        "glazed_terracotta_purple_heightmap": [
+            "glazed_terracotta_purple"
+        ],
+        "glazed_terracotta_red_heightmap": [
+            "glazed_terracotta_red"
+        ],
+        "glazed_terracotta_silver_heightmap": [
+            "glazed_terracotta_silver"
+        ],
+        "glazed_terracotta_white_heightmap": [
+            "glazed_terracotta_white"
+        ],
+        "glazed_terracotta_yellow_heightmap": [
+            "glazed_terracotta_yellow"
+        ],
+        "glow_item_frame_heightmap": [
+            "glow_item_frame"
+        ],
+        "glow_lichen_heightmap": [
+            "glow_lichen"
+        ],
+        "glowing_obsidian_heightmap": [
+            "glowing_obsidian"
+        ],
+        "glowstone_heightmap": [
+            "glowstone"
+        ],
+        "gold_block_heightmap": [
+            "gold_block"
+        ],
+        "gold_ore_heightmap": [
+            "gold_ore",
+            "deepslate_gold_ore"
+        ],
+        "grass_block_snow_heightmap": [
+            "grass_block_snow"
+        ],
+        "grass_carried_heightmap": [
+            "grass_carried"
+        ],
+        "grass_path_side_heightmap": [
+            "grass_path_side"
+        ],
+        "grass_path_top_heightmap": [
+            "grass_path_top"
+        ],
+        "grass_side_carried_heightmap": [
+            "grass_side_carried"
+        ],
+        "grass_side_heightmap": [
+            "grass_side"
+        ],
+        "grass_side_snowed_heightmap": [
+            "grass_side_snowed"
+        ],
+        "grass_top_heightmap": [
+            "grass_top"
+        ],
+        "gravel_heightmap": [
+            "gravel"
+        ],
+        "grindstone_pivot_heightmap": [
+            "grindstone_pivot"
+        ],
+        "grindstone_round_heightmap": [
+            "grindstone_round"
+        ],
+        "grindstone_side_heightmap": [
+            "grindstone_side"
+        ],
+        "hanging_roots_heightmap": [
+            "hanging_roots"
+        ],
+        "hardened_clay_heightmap": [
+            "hardened_clay"
+        ],
+        "hardened_clay_stained_black_heightmap": [
+            "hardened_clay_stained_black"
+        ],
+        "hardened_clay_stained_blue_heightmap": [
+            "hardened_clay_stained_blue"
+        ],
+        "hardened_clay_stained_brown_heightmap": [
+            "hardened_clay_stained_brown"
+        ],
+        "hardened_clay_stained_cyan_heightmap": [
+            "hardened_clay_stained_cyan"
+        ],
+        "hardened_clay_stained_gray_heightmap": [
+            "hardened_clay_stained_gray"
+        ],
+        "hardened_clay_stained_green_heightmap": [
+            "hardened_clay_stained_green"
+        ],
+        "hardened_clay_stained_light_blue_heightmap": [
+            "hardened_clay_stained_light_blue"
+        ],
+        "hardened_clay_stained_lime_heightmap": [
+            "hardened_clay_stained_lime"
+        ],
+        "hardened_clay_stained_magenta_heightmap": [
+            "hardened_clay_stained_magenta"
+        ],
+        "hardened_clay_stained_orange_heightmap": [
+            "hardened_clay_stained_orange"
+        ],
+        "hardened_clay_stained_pink_heightmap": [
+            "hardened_clay_stained_pink"
+        ],
+        "hardened_clay_stained_purple_heightmap": [
+            "hardened_clay_stained_purple"
+        ],
+        "hardened_clay_stained_red_heightmap": [
+            "hardened_clay_stained_red"
+        ],
+        "hardened_clay_stained_silver_heightmap": [
+            "hardened_clay_stained_silver"
+        ],
+        "hardened_clay_stained_white_heightmap": [
+            "hardened_clay_stained_white"
+        ],
+        "hardened_clay_stained_yellow_heightmap": [
+            "hardened_clay_stained_yellow"
+        ],
+        "hay_block_top_heightmap": [
+            "hay_block_top"
+        ],
+        "heart_pottery_pattern_heightmap": [
+            "heart_pottery_pattern"
+        ],
+        "heartbreak_pottery_pattern_heightmap": [
+            "heartbreak_pottery_pattern"
+        ],
+        "honey_bottom_heightmap": [
+            "honey_bottom"
+        ],
+        "honey_side_heightmap": [
+            "honey_side"
+        ],
+        "honey_top_heightmap": [
+            "honey_top"
+        ],
+        "honeycomb_heightmap": [
+            "honeycomb"
+        ],
+        "hopper_inside_heightmap": [
+            "hopper_inside"
+        ],
+        "hopper_outside_heightmap": [
+            "hopper_outside"
+        ],
+        "hopper_top_heightmap": [
+            "hopper_top"
+        ],
+        "howl_pottery_pattern_heightmap": [
+            "howl_pottery_pattern"
+        ],
+        "ice_heightmap": [
+            "ice"
+        ],
+        "ice_packed_heightmap": [
+            "ice_packed"
+        ],
+        "iron_bars_heightmap": [
+            "iron_bars"
+        ],
+        "iron_block_heightmap": [
+            "iron_block"
+        ],
+        "iron_ore_heightmap": [
+            "iron_ore",
+            "deepslate_iron_ore"
+        ],
+        "iron_trapdoor_heightmap": [
+            "iron_trapdoor"
+        ],
+        "itemframe_background_heightmap": [
+            "itemframe_background"
+        ],
+        "jigsaw_back_heightmap": [
+            "jigsaw_back"
+        ],
+        "jigsaw_front_heightmap": [
+            "jigsaw_front"
+        ],
+        "jigsaw_lock_heightmap": [
+            "jigsaw_lock"
+        ],
+        "jigsaw_side_heightmap": [
+            "jigsaw_side"
+        ],
+        "jukebox_side_heightmap": [
+            "jukebox_side"
+        ],
+        "jukebox_top_heightmap": [
+            "jukebox_top"
+        ],
+        "jungle_trapdoor_heightmap": [
+            "jungle_trapdoor"
+        ],
+        "kelp_a_heightmap": [
+            "kelp_a"
+        ],
+        "kelp_b_heightmap": [
+            "kelp_b"
+        ],
+        "kelp_c_heightmap": [
+            "kelp_c"
+        ],
+        "kelp_d_heightmap": [
+            "kelp_d"
+        ],
+        "kelp_top_bulb_heightmap": [
+            "kelp_top_bulb"
+        ],
+        "kelp_top_heightmap": [
+            "kelp_top"
+        ],
+        "ladder_heightmap": [
+            "ladder"
+        ],
+        "lantern_heightmap": [
+            "lantern",
+            "soul_lantern"
+        ],
+        "lapis_block_heightmap": [
+            "lapis_block"
+        ],
+        "lapis_ore_heightmap": [
+            "lapis_ore",
+            "deepslate_lapis_ore"
+        ],
+        "large_amethyst_bud_heightmap": [
+            "large_amethyst_bud"
+        ],
+        "lava_flow_heightmap": [
+            "lava_flow"
+        ],
+        "lava_placeholder_heightmap": [
+            "lava_placeholder"
+        ],
+        "leaves_acacia_opaque_heightmap": [
+            "leaves_acacia_opaque"
+        ],
+        "leaves_big_oak_opaque_heightmap": [
+            "leaves_big_oak_opaque"
+        ],
+        "leaves_oak_opaque_heightmap": [
+            "leaves_oak_opaque"
+        ],
+        "leaves_spruce_opaque_heightmap": [
+            "leaves_spruce_opaque"
+        ],
+        "lectern_base_heightmap": [
+            "lectern_base"
+        ],
+        "lectern_front_heightmap": [
+            "lectern_front"
+        ],
+        "lectern_sides_heightmap": [
+            "lectern_sides"
+        ],
+        "lectern_top_heightmap": [
+            "lectern_top"
+        ],
+        "lever_heightmap": [
+            "lever"
+        ],
+        "lightning_rod_heightmap": [
+            "lightning_rod"
+        ],
+        "lodestone_side_heightmap": [
+            "lodestone_side"
+        ],
+        "lodestone_top_heightmap": [
+            "lodestone_top"
+        ],
+        "log_big_oak_heightmap": [
+            "log_big_oak"
+        ],
+        "log_birch_heightmap": [
+            "log_birch"
+        ],
+        "log_heightmap": [
+            "log_acacia",
+            "log_oak"
+        ],
+        "log_jungle_heightmap": [
+            "log_jungle"
+        ],
+        "log_spruce_heightmap": [
+            "log_spruce"
+        ],
+        "log_top_heightmap": [
+            "cherry_log_top",
+            "log_acacia_top",
+            "log_big_oak_top",
+            "log_birch_top",
+            "log_jungle_top",
+            "log_oak_top",
+            "log_spruce_top",
+            "mangrove_log_top",
+            "crimson_log_top",
+            "warped_stem_top"
+        ],
+        "loom_bottom_heightmap": [
+            "loom_bottom"
+        ],
+        "loom_front_heightmap": [
+            "loom_front"
+        ],
+        "loom_side_heightmap": [
+            "loom_side"
+        ],
+        "loom_top_heightmap": [
+            "loom_top"
+        ],
+        "magma_heightmap": [
+            "magma"
+        ],
+        "mangrove_door_bottom_heightmap": [
+            "mangrove_door_bottom"
+        ],
+        "mangrove_door_top_heightmap": [
+            "mangrove_door_top"
+        ],
+        "mangrove_log_side_heightmap": [
+            "mangrove_log_side"
+        ],
+        "mangrove_propagule_hanging_heightmap": [
+            "mangrove_propagule_hanging"
+        ],
+        "mangrove_propagule_heightmap": [
+            "mangrove_propagule"
+        ],
+        "mangrove_roots_side_heightmap": [
+            "mangrove_roots_side"
+        ],
+        "mangrove_roots_top_heightmap": [
+            "mangrove_roots_top"
+        ],
+        "mangrove_trapdoor_heightmap": [
+            "mangrove_trapdoor"
+        ],
+        "medium_amethyst_bud_heightmap": [
+            "medium_amethyst_bud"
+        ],
+        "melon_side_heightmap": [
+            "melon_side"
+        ],
+        "melon_stem_connected_heightmap": [
+            "melon_stem_connected"
+        ],
+        "melon_stem_disconnected_heightmap": [
+            "melon_stem_disconnected"
+        ],
+        "melon_top_heightmap": [
+            "melon_top"
+        ],
+        "miner_pottery_pattern_heightmap": [
+            "miner_pottery_pattern"
+        ],
+        "missing_tile_heightmap": [
+            "missing_tile"
+        ],
+        "mob_spawner_heightmap": [
+            "mob_spawner"
+        ],
+        "moss_block_heightmap": [
+            "moss_block"
+        ],
+        "mourner_pottery_pattern_heightmap": [
+            "mourner_pottery_pattern"
+        ],
+        "mud_bricks_heightmap": [
+            "mud_bricks"
+        ],
+        "mud_heightmap": [
+            "mud"
+        ],
+        "muddy_mangrove_roots_side_heightmap": [
+            "muddy_mangrove_roots_side"
+        ],
+        "muddy_mangrove_roots_top_heightmap": [
+            "muddy_mangrove_roots_top"
+        ],
+        "mushroom_block_inside_heightmap": [
+            "mushroom_block_inside"
+        ],
+        "mushroom_block_skin_brown_heightmap": [
+            "mushroom_block_skin_brown"
+        ],
+        "mushroom_block_skin_red_heightmap": [
+            "mushroom_block_skin_red"
+        ],
+        "mushroom_block_skin_stem_heightmap": [
+            "mushroom_block_skin_stem"
+        ],
+        "mushroom_brown_heightmap": [
+            "mushroom_brown"
+        ],
+        "mushroom_red_heightmap": [
+            "mushroom_red"
+        ],
+        "mycelium_side_heightmap": [
+            "mycelium_side"
+        ],
+        "mycelium_top_heightmap": [
+            "mycelium_top"
+        ],
+        "nether_brick_heightmap": [
+            "nether_brick"
+        ],
+        "nether_gold_ore_heightmap": [
+            "nether_gold_ore"
+        ],
+        "nether_sprouts_heightmap": [
+            "nether_sprouts"
+        ],
+        "nether_wart_block_heightmap": [
+            "nether_wart_block"
+        ],
+        "nether_wart_stage_0_heightmap": [
+            "nether_wart_stage_0"
+        ],
+        "nether_wart_stage_1_heightmap": [
+            "nether_wart_stage_1"
+        ],
+        "nether_wart_stage_2_heightmap": [
+            "nether_wart_stage_2"
+        ],
+        "netherite_block_heightmap": [
+            "netherite_block"
+        ],
+        "netherrack_heightmap": [
+            "netherrack"
+        ],
+        "noteblock_heightmap": [
+            "noteblock"
+        ],
+        "observer_back_heightmap": [
+            "observer_back",
+            "observer_back_lit"
+        ],
+        "observer_front_heightmap": [
+            "observer_front"
+        ],
+        "observer_side_heightmap": [
+            "observer_side"
+        ],
+        "observer_top_heightmap": [
+            "observer_top"
+        ],
+        "obsidian_heightmap": [
+            "obsidian"
+        ],
+        "ochre_froglight_side_heightmap": [
+            "ochre_froglight_side"
+        ],
+        "ochre_froglight_top_heightmap": [
+            "ochre_froglight_top"
+        ],
+        "packed_mud_heightmap": [
+            "packed_mud"
+        ],
+        "pearlescent_froglight_side_heightmap": [
+            "pearlescent_froglight_side"
+        ],
+        "pearlescent_froglight_top_heightmap": [
+            "pearlescent_froglight_top"
+        ],
+        "pink_petals_heightmap": [
+            "pink_petals"
+        ],
+        "pink_petals_stem_heightmap": [
+            "pink_petals_stem"
+        ],
+        "piston_bottom_heightmap": [
+            "piston_bottom"
+        ],
+        "piston_inner_heightmap": [
+            "piston_inner"
+        ],
+        "piston_side_heightmap": [
+            "piston_side"
+        ],
+        "piston_top_normal_heightmap": [
+            "piston_top_normal"
+        ],
+        "piston_top_sticky_heightmap": [
+            "piston_top_sticky"
+        ],
+        "pitcher_crop_bottom_heightmap": [
+            "pitcher_crop_bottom"
+        ],
+        "pitcher_crop_bottom_stage_1_heightmap": [
+            "pitcher_crop_bottom_stage_1"
+        ],
+        "pitcher_crop_bottom_stage_2_heightmap": [
+            "pitcher_crop_bottom_stage_2"
+        ],
+        "pitcher_crop_bottom_stage_3_heightmap": [
+            "pitcher_crop_bottom_stage_3"
+        ],
+        "pitcher_crop_bottom_stage_4_heightmap": [
+            "pitcher_crop_bottom_stage_4"
+        ],
+        "pitcher_crop_side_heightmap": [
+            "pitcher_crop_side"
+        ],
+        "pitcher_crop_top_heightmap": [
+            "pitcher_crop_top"
+        ],
+        "pitcher_crop_top_stage_3_heightmap": [
+            "pitcher_crop_top_stage_3"
+        ],
+        "pitcher_crop_top_stage_4_heightmap": [
+            "pitcher_crop_top_stage_4"
+        ],
+        "planks_heightmap": [
+            "bamboo_planks",
+            "cherry_planks",
+            "mangrove_planks",
+            "planks_acacia",
+            "planks_big_oak",
+            "planks_birch",
+            "planks_jungle",
+            "planks_oak",
+            "planks_spruce",
+            "crimson_planks",
+            "warped_planks"
+        ],
+        "plenty_pottery_pattern_heightmap": [
+            "plenty_pottery_pattern"
+        ],
+        "pointed_dripstone_down_base_heightmap": [
+            "pointed_dripstone_down_base"
+        ],
+        "pointed_dripstone_down_frustum_heightmap": [
+            "pointed_dripstone_down_frustum"
+        ],
+        "pointed_dripstone_down_merge_heightmap": [
+            "pointed_dripstone_down_merge"
+        ],
+        "pointed_dripstone_down_middle_heightmap": [
+            "pointed_dripstone_down_middle"
+        ],
+        "pointed_dripstone_down_tip_heightmap": [
+            "pointed_dripstone_down_tip"
+        ],
+        "pointed_dripstone_up_base_heightmap": [
+            "pointed_dripstone_up_base"
+        ],
+        "pointed_dripstone_up_frustum_heightmap": [
+            "pointed_dripstone_up_frustum"
+        ],
+        "pointed_dripstone_up_merge_heightmap": [
+            "pointed_dripstone_up_merge"
+        ],
+        "pointed_dripstone_up_middle_heightmap": [
+            "pointed_dripstone_up_middle"
+        ],
+        "pointed_dripstone_up_tip_heightmap": [
+            "pointed_dripstone_up_tip"
+        ],
+        "polished_basalt_side_heightmap": [
+            "polished_basalt_side"
+        ],
+        "polished_basalt_top_heightmap": [
+            "polished_basalt_top"
+        ],
+        "polished_blackstone_heightmap": [
+            "polished_blackstone"
+        ],
+        "polished_deepslate_heightmap": [
+            "polished_deepslate"
+        ],
+        "portal_placeholder_heightmap": [
+            "portal_placeholder"
+        ],
+        "potatoes_stage_0_heightmap": [
+            "potatoes_stage_0"
+        ],
+        "potatoes_stage_1_heightmap": [
+            "potatoes_stage_1"
+        ],
+        "potatoes_stage_2_heightmap": [
+            "potatoes_stage_2"
+        ],
+        "potatoes_stage_3_heightmap": [
+            "potatoes_stage_3"
+        ],
+        "potted_azalea_bush_plant_heightmap": [
+            "potted_azalea_bush_plant"
+        ],
+        "potted_azalea_bush_side_heightmap": [
+            "potted_azalea_bush_side"
+        ],
+        "potted_azalea_bush_top_heightmap": [
+            "potted_azalea_bush_top"
+        ],
+        "potted_flowering_azalea_bush_plant_heightmap": [
+            "potted_flowering_azalea_bush_plant"
+        ],
+        "potted_flowering_azalea_bush_side_heightmap": [
+            "potted_flowering_azalea_bush_side"
+        ],
+        "potted_flowering_azalea_bush_top_heightmap": [
+            "potted_flowering_azalea_bush_top"
+        ],
+        "powder_snow_heightmap": [
+            "powder_snow"
+        ],
+        "prismarine_bricks_heightmap": [
+            "prismarine_bricks"
+        ],
+        "prismarine_dark_heightmap": [
+            "prismarine_dark"
+        ],
+        "prismarine_rough_heightmap": [
+            "prismarine_rough"
+        ],
+        "prize_pottery_pattern_heightmap": [
+            "prize_pottery_pattern"
+        ],
+        "pumpkin_face_off_heightmap": [
+            "pumpkin_face_off"
+        ],
+        "pumpkin_face_on_heightmap": [
+            "pumpkin_face_on"
+        ],
+        "pumpkin_side_heightmap": [
+            "pumpkin_side"
+        ],
+        "pumpkin_stem_connected_heightmap": [
+            "pumpkin_stem_connected"
+        ],
+        "pumpkin_stem_disconnected_heightmap": [
+            "pumpkin_stem_disconnected"
+        ],
+        "pumpkin_top_heightmap": [
+            "pumpkin_top"
+        ],
+        "purpur_block_heightmap": [
+            "purpur_block"
+        ],
+        "purpur_pillar_heightmap": [
+            "purpur_pillar"
+        ],
+        "purpur_pillar_top_heightmap": [
+            "purpur_pillar_top"
+        ],
+        "quartz_block_bottom_heightmap": [
+            "quartz_block_bottom"
+        ],
+        "quartz_block_chiseled_heightmap": [
+            "quartz_block_chiseled"
+        ],
+        "quartz_block_chiseled_top_heightmap": [
+            "quartz_block_chiseled_top"
+        ],
+        "quartz_block_lines_heightmap": [
+            "quartz_block_lines"
+        ],
+        "quartz_block_lines_top_heightmap": [
+            "quartz_block_lines_top"
+        ],
+        "quartz_block_side_heightmap": [
+            "quartz_block_side"
+        ],
+        "quartz_block_top_heightmap": [
+            "quartz_block_top"
+        ],
+        "quartz_bricks_heightmap": [
+            "quartz_bricks"
+        ],
+        "quartz_ore_heightmap": [
+            "quartz_ore"
+        ],
+        "rail_activator_heightmap": [
+            "rail_activator",
+            "rail_activator_powered"
+        ],
+        "rail_detector_heightmap": [
+            "rail_detector"
+        ],
+        "rail_detector_powered_heightmap": [
+            "rail_detector_powered"
+        ],
+        "rail_golden_heightmap": [
+            "rail_golden"
+        ],
+        "rail_golden_powered_heightmap": [
+            "rail_golden_powered"
+        ],
+        "rail_normal_heightmap": [
+            "rail_normal"
+        ],
+        "rail_normal_turned_heightmap": [
+            "rail_normal_turned"
+        ],
+        "raw_copper_block_heightmap": [
+            "raw_copper_block"
+        ],
+        "raw_gold_block_heightmap": [
+            "raw_gold_block"
+        ],
+        "raw_iron_block_heightmap": [
+            "raw_iron_block"
+        ],
+        "reactor_core_stage_0_heightmap": [
+            "reactor_core_stage_0"
+        ],
+        "reactor_core_stage_1_heightmap": [
+            "reactor_core_stage_1"
+        ],
+        "reactor_core_stage_2_heightmap": [
+            "reactor_core_stage_2"
+        ],
+        "red_nether_brick_heightmap": [
+            "red_nether_brick"
+        ],
+        "red_sand_heightmap": [
+            "red_sand"
+        ],
+        "red_sandstone_carved_heightmap": [
+            "red_sandstone_carved"
+        ],
+        "red_sandstone_top_heightmap": [
+            "red_sandstone_top"
+        ],
+        "redstone_block_heightmap": [
+            "redstone_block"
+        ],
+        "redstone_dust_cross_heightmap": [
+            "redstone_dust_cross"
+        ],
+        "redstone_dust_line_heightmap": [
+            "redstone_dust_line"
+        ],
+        "redstone_lamp_heightmap": [
+            "redstone_lamp_off",
+            "redstone_lamp_on"
+        ],
+        "redstone_ore_heightmap": [
+            "redstone_ore",
+            "deepslate_redstone_ore"
+        ],
+        "reeds_heightmap": [
+            "reeds"
+        ],
+        "reinforced_deepslate_bottom_heightmap": [
+            "reinforced_deepslate_bottom"
+        ],
+        "reinforced_deepslate_side_heightmap": [
+            "reinforced_deepslate_side"
+        ],
+        "reinforced_deepslate_top_heightmap": [
+            "reinforced_deepslate_top"
+        ],
+        "repeater_off_heightmap": [
+            "repeater_off"
+        ],
+        "repeater_on_heightmap": [
+            "repeater_on"
+        ],
+        "repeating_command_block_back_heightmap": [
+            "repeating_command_block_back"
+        ],
+        "repeating_command_block_back_mipmap_heightmap": [
+            "repeating_command_block_back_mipmap"
+        ],
+        "repeating_command_block_conditional_heightmap": [
+            "repeating_command_block_conditional"
+        ],
+        "repeating_command_block_conditional_mipmap_heightmap": [
+            "repeating_command_block_conditional_mipmap"
+        ],
+        "repeating_command_block_front_heightmap": [
+            "repeating_command_block_front"
+        ],
+        "repeating_command_block_front_mipmap_heightmap": [
+            "repeating_command_block_front_mipmap"
+        ],
+        "repeating_command_block_side_heightmap": [
+            "repeating_command_block_side"
+        ],
+        "repeating_command_block_side_mipmap_heightmap": [
+            "repeating_command_block_side_mipmap"
+        ],
+        "respawn_anchor_bottom_heightmap": [
+            "respawn_anchor_bottom"
+        ],
+        "respawn_anchor_side_heightmap": [
+            "respawn_anchor_side0",
+            "respawn_anchor_side1",
+            "respawn_anchor_side2",
+            "respawn_anchor_side3",
+            "respawn_anchor_side4"
+        ],
+        "respawn_anchor_top_heightmap": [
+            "respawn_anchor_top"
+        ],
+        "respawn_anchor_top_off_heightmap": [
+            "respawn_anchor_top_off"
+        ],
+        "sand_heightmap": [
+            "sand"
+        ],
+        "sandstone_bottom_heightmap": [
+            "red_sandstone_bottom",
+            "sandstone_bottom"
+        ],
+        "sandstone_carved_heightmap": [
+            "sandstone_carved"
+        ],
+        "sandstone_normal_heightmap": [
+            "red_sandstone_normal",
+            "sandstone_normal"
+        ],
+        "sandstone_smooth_heightmap": [
+            "red_sandstone_smooth",
+            "sandstone_smooth"
+        ],
+        "sandstone_top_heightmap": [
+            "sandstone_top"
+        ],
+        "sapling_acacia_heightmap": [
+            "sapling_acacia"
+        ],
+        "sapling_birch_heightmap": [
+            "sapling_birch"
+        ],
+        "sapling_jungle_heightmap": [
+            "sapling_jungle"
+        ],
+        "sapling_oak_heightmap": [
+            "sapling_oak"
+        ],
+        "sapling_roofed_oak_heightmap": [
+            "sapling_roofed_oak"
+        ],
+        "sapling_spruce_heightmap": [
+            "sapling_spruce"
+        ],
+        "scaffolding_bottom_heightmap": [
+            "scaffolding_bottom"
+        ],
+        "scaffolding_side_heightmap": [
+            "scaffolding_side"
+        ],
+        "scaffolding_top_heightmap": [
+            "scaffolding_top"
+        ],
+        "sculk_catalyst_bottom_heightmap": [
+            "sculk_catalyst_bottom"
+        ],
+        "sculk_catalyst_side_bloom_heightmap": [
+            "sculk_catalyst_side_bloom"
+        ],
+        "sculk_catalyst_side_heightmap": [
+            "sculk_catalyst_side"
+        ],
+        "sculk_catalyst_top_bloom_heightmap": [
+            "sculk_catalyst_top_bloom"
+        ],
+        "sculk_catalyst_top_heightmap": [
+            "sculk_catalyst_top"
+        ],
+        "sculk_heightmap": [
+            "sculk"
+        ],
+        "sculk_sensor_bottom_heightmap": [
+            "sculk_sensor_bottom"
+        ],
+        "sculk_sensor_side_heightmap": [
+            "sculk_sensor_side"
+        ],
+        "sculk_sensor_tendril_active_heightmap": [
+            "sculk_sensor_tendril_active"
+        ],
+        "sculk_sensor_tendril_inactive_heightmap": [
+            "sculk_sensor_tendril_inactive"
+        ],
+        "sculk_sensor_top_heightmap": [
+            "sculk_sensor_top"
+        ],
+        "sculk_shrieker_bottom_heightmap": [
+            "sculk_shrieker_bottom"
+        ],
+        "sculk_shrieker_can_summon_inner_top_heightmap": [
+            "sculk_shrieker_can_summon_inner_top"
+        ],
+        "sculk_shrieker_inner_top_heightmap": [
+            "sculk_shrieker_inner_top"
+        ],
+        "sculk_shrieker_side_heightmap": [
+            "sculk_shrieker_side"
+        ],
+        "sculk_shrieker_top_heightmap": [
+            "sculk_shrieker_top"
+        ],
+        "sculk_vein_heightmap": [
+            "sculk_vein"
+        ],
+        "sea_lantern_heightmap": [
+            "sea_lantern"
+        ],
+        "sea_pickle_heightmap": [
+            "sea_pickle"
+        ],
+        "seagrass_carried_heightmap": [
+            "seagrass_carried"
+        ],
+        "seagrass_doubletall_bottom_a_heightmap": [
+            "seagrass_doubletall_bottom_a"
+        ],
+        "seagrass_doubletall_bottom_b_heightmap": [
+            "seagrass_doubletall_bottom_b"
+        ],
+        "seagrass_doubletall_top_a_heightmap": [
+            "seagrass_doubletall_top_a"
+        ],
+        "seagrass_doubletall_top_b_heightmap": [
+            "seagrass_doubletall_top_b"
+        ],
+        "seagrass_heightmap": [
+            "seagrass"
+        ],
+        "sheaf_pottery_pattern_heightmap": [
+            "sheaf_pottery_pattern"
+        ],
+        "shelter_pottery_pattern_heightmap": [
+            "shelter_pottery_pattern"
+        ],
+        "shroomlight_heightmap": [
+            "shroomlight"
+        ],
+        "shulker_top_black_heightmap": [
+            "shulker_top_black"
+        ],
+        "shulker_top_blue_heightmap": [
+            "shulker_top_blue"
+        ],
+        "shulker_top_brown_heightmap": [
+            "shulker_top_brown"
+        ],
+        "shulker_top_cyan_heightmap": [
+            "shulker_top_cyan"
+        ],
+        "shulker_top_gray_heightmap": [
+            "shulker_top_gray"
+        ],
+        "shulker_top_green_heightmap": [
+            "shulker_top_green"
+        ],
+        "shulker_top_light_blue_heightmap": [
+            "shulker_top_light_blue"
+        ],
+        "shulker_top_lime_heightmap": [
+            "shulker_top_lime"
+        ],
+        "shulker_top_magenta_heightmap": [
+            "shulker_top_magenta"
+        ],
+        "shulker_top_orange_heightmap": [
+            "shulker_top_orange"
+        ],
+        "shulker_top_pink_heightmap": [
+            "shulker_top_pink"
+        ],
+        "shulker_top_purple_heightmap": [
+            "shulker_top_purple"
+        ],
+        "shulker_top_red_heightmap": [
+            "shulker_top_red"
+        ],
+        "shulker_top_silver_heightmap": [
+            "shulker_top_silver"
+        ],
+        "shulker_top_undyed_heightmap": [
+            "shulker_top_undyed"
+        ],
+        "shulker_top_white_heightmap": [
+            "shulker_top_white"
+        ],
+        "shulker_top_yellow_heightmap": [
+            "shulker_top_yellow"
+        ],
+        "skull_pottery_pattern_heightmap": [
+            "skull_pottery_pattern"
+        ],
+        "slime_heightmap": [
+            "slime"
+        ],
+        "small_amethyst_bud_heightmap": [
+            "small_amethyst_bud"
+        ],
+        "small_dripleaf_side_heightmap": [
+            "small_dripleaf_side"
+        ],
+        "small_dripleaf_stem_bottom_heightmap": [
+            "small_dripleaf_stem_bottom"
+        ],
+        "small_dripleaf_stem_top_heightmap": [
+            "small_dripleaf_stem_top"
+        ],
+        "small_dripleaf_top_heightmap": [
+            "small_dripleaf_top"
+        ],
+        "smithing_table_bottom_heightmap": [
+            "smithing_table_bottom"
+        ],
+        "smithing_table_front_heightmap": [
+            "smithing_table_front"
+        ],
+        "smithing_table_side_heightmap": [
+            "smithing_table_side"
+        ],
+        "smithing_table_top_heightmap": [
+            "smithing_table_top"
+        ],
+        "smoker_bottom_heightmap": [
+            "smoker_bottom"
+        ],
+        "smoker_front_off_heightmap": [
+            "smoker_front_off"
+        ],
+        "smoker_front_on_heightmap": [
+            "smoker_front_on"
+        ],
+        "smoker_side_heightmap": [
+            "smoker_side"
+        ],
+        "smoker_top_heightmap": [
+            "smoker_top"
+        ],
+        "smooth_basalt_heightmap": [
+            "smooth_basalt"
+        ],
+        "sniffer_egg_not_cracked_bottom_heightmap": [
+            "sniffer_egg_not_cracked_bottom"
+        ],
+        "sniffer_egg_not_cracked_east_heightmap": [
+            "sniffer_egg_not_cracked_east"
+        ],
+        "sniffer_egg_not_cracked_north_heightmap": [
+            "sniffer_egg_not_cracked_north"
+        ],
+        "sniffer_egg_not_cracked_south_heightmap": [
+            "sniffer_egg_not_cracked_south"
+        ],
+        "sniffer_egg_not_cracked_top_heightmap": [
+            "sniffer_egg_not_cracked_top"
+        ],
+        "sniffer_egg_not_cracked_west_heightmap": [
+            "sniffer_egg_not_cracked_west"
+        ],
+        "sniffer_egg_slightly_cracked_bottom_heightmap": [
+            "sniffer_egg_slightly_cracked_bottom"
+        ],
+        "sniffer_egg_slightly_cracked_east_heightmap": [
+            "sniffer_egg_slightly_cracked_east"
+        ],
+        "sniffer_egg_slightly_cracked_north_heightmap": [
+            "sniffer_egg_slightly_cracked_north"
+        ],
+        "sniffer_egg_slightly_cracked_south_heightmap": [
+            "sniffer_egg_slightly_cracked_south"
+        ],
+        "sniffer_egg_slightly_cracked_top_heightmap": [
+            "sniffer_egg_slightly_cracked_top"
+        ],
+        "sniffer_egg_slightly_cracked_west_heightmap": [
+            "sniffer_egg_slightly_cracked_west"
+        ],
+        "sniffer_egg_very_cracked_bottom_heightmap": [
+            "sniffer_egg_very_cracked_bottom"
+        ],
+        "sniffer_egg_very_cracked_east_heightmap": [
+            "sniffer_egg_very_cracked_east"
+        ],
+        "sniffer_egg_very_cracked_north_heightmap": [
+            "sniffer_egg_very_cracked_north"
+        ],
+        "sniffer_egg_very_cracked_south_heightmap": [
+            "sniffer_egg_very_cracked_south"
+        ],
+        "sniffer_egg_very_cracked_top_heightmap": [
+            "sniffer_egg_very_cracked_top"
+        ],
+        "sniffer_egg_very_cracked_west_heightmap": [
+            "sniffer_egg_very_cracked_west"
+        ],
+        "snort_pottery_pattern_heightmap": [
+            "snort_pottery_pattern"
+        ],
+        "snow_heightmap": [
+            "snow"
+        ],
+        "soul_campfire_heightmap": [
+            "soul_campfire"
+        ],
+        "soul_campfire_log_lit_heightmap": [
+            "soul_campfire_log_lit"
+        ],
+        "soul_fire_0_heightmap": [
+            "soul_fire_0"
+        ],
+        "soul_fire_1_heightmap": [
+            "soul_fire_1"
+        ],
+        "soul_sand_heightmap": [
+            "soul_sand"
+        ],
+        "soul_soil_heightmap": [
+            "soul_soil"
+        ],
+        "sponge_heightmap": [
+            "sponge"
+        ],
+        "sponge_wet_heightmap": [
+            "sponge_wet"
+        ],
+        "spore_blossom_base_heightmap": [
+            "spore_blossom_base"
+        ],
+        "spore_blossom_heightmap": [
+            "spore_blossom"
+        ],
+        "spruce_trapdoor_heightmap": [
+            "spruce_trapdoor"
+        ],
+        "stem_side_heightmap": [
+            "crimson_log_side",
+            "warped_stem_side"
+        ],
+        "stone_andesite_heightmap": [
+            "stone_andesite"
+        ],
+        "stone_diorite_heightmap": [
+            "stone_diorite"
+        ],
+        "stone_granite_heightmap": [
+            "stone_granite"
+        ],
+        "stone_heightmap": [
+            "stone"
+        ],
+        "stone_slab_side_heightmap": [
+            "stone_slab_side"
+        ],
+        "stone_slab_top_heightmap": [
+            "stone_slab_top"
+        ],
+        "stone_smooth_heightmap": [
+            "stone_andesite_smooth",
+            "stone_diorite_smooth",
+            "stone_granite_smooth"
+        ],
+        "stonebrick_carved_heightmap": [
+            "stonebrick_carved"
+        ],
+        "stonebrick_cracked_heightmap": [
+            "stonebrick_cracked"
+        ],
+        "stonebrick_mossy_heightmap": [
+            "stonebrick_mossy"
+        ],
+        "stonecutter2_bottom_heightmap": [
+            "stonecutter2_bottom"
+        ],
+        "stonecutter2_saw_heightmap": [
+            "stonecutter2_saw"
+        ],
+        "stonecutter2_side_heightmap": [
+            "stonecutter2_side"
+        ],
+        "stonecutter2_top_heightmap": [
+            "stonecutter2_top"
+        ],
+        "stonecutter_bottom_heightmap": [
+            "stonecutter_bottom"
+        ],
+        "stonecutter_other_side_heightmap": [
+            "stonecutter_other_side"
+        ],
+        "stonecutter_side_heightmap": [
+            "stonecutter_side"
+        ],
+        "stonecutter_top_heightmap": [
+            "stonecutter_top"
+        ],
+        "stripped_acacia_log_heightmap": [
+            "stripped_acacia_log"
+        ],
+        "stripped_birch_log_heightmap": [
+            "stripped_birch_log"
+        ],
+        "stripped_cherry_log_side_heightmap": [
+            "stripped_cherry_log_side"
+        ],
+        "stripped_dark_oak_log_heightmap": [
+            "stripped_dark_oak_log"
+        ],
+        "stripped_jungle_log_heightmap": [
+            "stripped_jungle_log"
+        ],
+        "stripped_log_top_heightmap": [
+            "stripped_acacia_log_top",
+            "stripped_birch_log_top",
+            "stripped_cherry_log_top",
+            "stripped_dark_oak_log_top",
+            "stripped_jungle_log_top",
+            "stripped_mangrove_log_top",
+            "stripped_oak_log_top",
+            "stripped_spruce_log_top",
+            "stripped_crimson_stem_top",
+            "stripped_warped_stem_top"
+        ],
+        "stripped_mangrove_log_side_heightmap": [
+            "stripped_mangrove_log_side"
+        ],
+        "stripped_oak_log_heightmap": [
+            "stripped_oak_log"
+        ],
+        "stripped_spruce_log_heightmap": [
+            "stripped_spruce_log"
+        ],
+        "stripped_stem_side_heightmap": [
+            "stripped_crimson_stem_side",
+            "stripped_warped_stem_side"
+        ],
+        "structure_air_heightmap": [
+            "structure_air"
+        ],
+        "structure_block_corner_heightmap": [
+            "structure_block_corner"
+        ],
+        "structure_block_data_heightmap": [
+            "structure_block_data"
+        ],
+        "structure_block_export_heightmap": [
+            "structure_block_export"
+        ],
+        "structure_block_heightmap": [
+            "structure_block"
+        ],
+        "structure_block_load_heightmap": [
+            "structure_block_load"
+        ],
+        "structure_block_save_heightmap": [
+            "structure_block_save"
+        ],
+        "structure_void_heightmap": [
+            "structure_void"
+        ],
+        "suspicious_gravel_0_heightmap": [
+            "suspicious_gravel_0"
+        ],
+        "suspicious_gravel_1_heightmap": [
+            "suspicious_gravel_1"
+        ],
+        "suspicious_gravel_2_heightmap": [
+            "suspicious_gravel_2"
+        ],
+        "suspicious_gravel_3_heightmap": [
+            "suspicious_gravel_3"
+        ],
+        "suspicious_sand_0_heightmap": [
+            "suspicious_sand_0"
+        ],
+        "suspicious_sand_1_heightmap": [
+            "suspicious_sand_1"
+        ],
+        "suspicious_sand_2_heightmap": [
+            "suspicious_sand_2"
+        ],
+        "suspicious_sand_3_heightmap": [
+            "suspicious_sand_3"
+        ],
+        "sweet_berry_bush_stage0_heightmap": [
+            "sweet_berry_bush_stage0"
+        ],
+        "sweet_berry_bush_stage1_heightmap": [
+            "sweet_berry_bush_stage1"
+        ],
+        "sweet_berry_bush_stage2_heightmap": [
+            "sweet_berry_bush_stage2"
+        ],
+        "sweet_berry_bush_stage3_heightmap": [
+            "sweet_berry_bush_stage3"
+        ],
+        "tallgrass_carried_heightmap": [
+            "tallgrass_carried"
+        ],
+        "tallgrass_heightmap": [
+            "tallgrass"
+        ],
+        "target_heightmap": [
+            "target_side",
+            "target_top"
+        ],
+        "tnt_bottom_heightmap": [
+            "tnt_bottom"
+        ],
+        "tnt_side_heightmap": [
+            "tnt_side"
+        ],
+        "tnt_top_heightmap": [
+            "tnt_top"
+        ],
+        "torchflower_crop_stage_0_heightmap": [
+            "torchflower_crop_stage_0"
+        ],
+        "torchflower_crop_stage_1_heightmap": [
+            "torchflower_crop_stage_1"
+        ],
+        "torchflower_heightmap": [
+            "torchflower"
+        ],
+        "trapdoor_heightmap": [
+            "trapdoor"
+        ],
+        "trip_wire_heightmap": [
+            "trip_wire"
+        ],
+        "trip_wire_source_heightmap": [
+            "trip_wire_source"
+        ],
+        "tuff_heightmap": [
+            "tuff"
+        ],
+        "turtle_egg_not_cracked_heightmap": [
+            "turtle_egg_not_cracked"
+        ],
+        "turtle_egg_slightly_cracked_heightmap": [
+            "turtle_egg_slightly_cracked"
+        ],
+        "turtle_egg_very_cracked_heightmap": [
+            "turtle_egg_very_cracked"
+        ],
+        "twisting_vines_base_heightmap": [
+            "twisting_vines_base"
+        ],
+        "twisting_vines_bottom_heightmap": [
+            "twisting_vines_bottom"
+        ],
+        "verdant_froglight_side_heightmap": [
+            "verdant_froglight_side"
+        ],
+        "verdant_froglight_top_heightmap": [
+            "verdant_froglight_top"
+        ],
+        "vine_carried_heightmap": [
+            "vine_carried"
+        ],
+        "vine_heightmap": [
+            "vine"
+        ],
+        "warped_door_lower_heightmap": [
+            "warped_door_lower"
+        ],
+        "warped_door_top_heightmap": [
+            "warped_door_top"
+        ],
+        "warped_fungus_heightmap": [
+            "warped_fungus"
+        ],
+        "warped_nylium_side_heightmap": [
+            "warped_nylium_side"
+        ],
+        "warped_nylium_top_heightmap": [
+            "warped_nylium_top"
+        ],
+        "warped_roots_heightmap": [
+            "warped_roots"
+        ],
+        "warped_roots_pot_heightmap": [
+            "warped_roots_pot"
+        ],
+        "warped_trapdoor_heightmap": [
+            "warped_trapdoor"
+        ],
+        "warped_wart_block_heightmap": [
+            "warped_wart_block"
+        ],
+        "waterlily_heightmap": [
+            "waterlily"
+        ],
+        "web_heightmap": [
+            "web"
+        ],
+        "weeping_vines_base_heightmap": [
+            "weeping_vines_base"
+        ],
+        "weeping_vines_bottom_heightmap": [
+            "weeping_vines_bottom"
+        ],
+        "weeping_vines_heightmap": [
+            "weeping_vines"
+        ],
+        "weeping_vines_plant_heightmap": [
+            "weeping_vines_plant"
+        ],
+        "wheat_stage_0_heightmap": [
+            "wheat_stage_0"
+        ],
+        "wheat_stage_1_heightmap": [
+            "wheat_stage_1"
+        ],
+        "wheat_stage_2_heightmap": [
+            "wheat_stage_2"
+        ],
+        "wheat_stage_3_heightmap": [
+            "wheat_stage_3"
+        ],
+        "wheat_stage_4_heightmap": [
+            "wheat_stage_4"
+        ],
+        "wheat_stage_5_heightmap": [
+            "wheat_stage_5"
+        ],
+        "wheat_stage_6_heightmap": [
+            "wheat_stage_6"
+        ],
+        "wheat_stage_7_heightmap": [
+            "wheat_stage_7"
+        ],
+        "wool_colored_black_heightmap": [
+            "wool_colored_black"
+        ],
+        "wool_colored_blue_heightmap": [
+            "wool_colored_blue"
+        ],
+        "wool_colored_brown_heightmap": [
+            "wool_colored_brown"
+        ],
+        "wool_colored_cyan_heightmap": [
+            "wool_colored_cyan"
+        ],
+        "wool_colored_gray_heightmap": [
+            "wool_colored_gray"
+        ],
+        "wool_colored_green_heightmap": [
+            "wool_colored_green"
+        ],
+        "wool_colored_light_blue_heightmap": [
+            "wool_colored_light_blue"
+        ],
+        "wool_colored_lime_heightmap": [
+            "wool_colored_lime"
+        ],
+        "wool_colored_magenta_heightmap": [
+            "wool_colored_magenta"
+        ],
+        "wool_colored_orange_heightmap": [
+            "wool_colored_orange"
+        ],
+        "wool_colored_pink_heightmap": [
+            "wool_colored_pink"
+        ],
+        "wool_colored_purple_heightmap": [
+            "wool_colored_purple"
+        ],
+        "wool_colored_red_heightmap": [
+            "wool_colored_red"
+        ],
+        "wool_colored_silver_heightmap": [
+            "wool_colored_silver"
+        ],
+        "wool_colored_white_heightmap": [
+            "wool_colored_white"
+        ],
+        "wool_colored_yellow_heightmap": [
+            "wool_colored_yellow"
         ]
     },
     "mer": {
         "array": {
+            "0-1-255": [
+                "mushroom_brown"
+            ],
+            "0-15-255": [
+                "lava_flow",
+                "lava_placeholder",
+                "lava_still",
+                "ochre_froglight_side",
+                "ochre_froglight_top",
+                "pearlescent_froglight_side",
+                "pearlescent_froglight_top",
+                "shroomlight",
+                "verdant_froglight_side",
+                "verdant_froglight_top"
+            ],
+            "0-17-64": [
+                "sculk_sensor_tendril_active"
+            ],
+            "0-7-255": [
+                "glow_lichen"
+            ],
+            "102-0-63": [
+                "water_flow",
+                "water_flow_grey",
+                "water_placeholder",
+                "water_still",
+                "water_still_grey"
+            ],
             "127-0-127": [
+                "copper_block",
+                "cut_copper",
+                "door_iron_lower",
+                "door_iron_upper",
+                "iron_block",
+                "lightning_rod",
                 "polished_deepslate"
+            ],
+            "127-0-144": [
+                "raw_copper_block",
+                "raw_iron_block"
+            ],
+            "127-0-208": [
+                "raw_gold_block"
+            ],
+            "127-0-255": [
+                "netherite_block",
+                "powder_snow",
+                "snow"
+            ],
+            "127-11-0": [
+                "portal"
+            ],
+            "127-15-255": [
+                "glowstone"
+            ],
+            "128-0-64": [
+                "ice_packed"
+            ],
+            "190-0-255": [
+                "iron_trapdoor"
+            ],
+            "192-0-230": [
+                "mob_spawner"
+            ],
+            "192-0-64": [
+                "blue_ice",
+                "frosted_ice_3"
+            ],
+            "255-0-127": [
+                "budding_amethyst"
+            ],
+            "255-0-192": [
+                "ancient_debris_side",
+                "ancient_debris_top",
+                "anvil_base",
+                "anvil_top_damaged_0",
+                "anvil_top_damaged_1",
+                "anvil_top_damaged_2",
+                "hopper_inside",
+                "hopper_outside",
+                "hopper_top"
+            ],
+            "255-0-255": [
+                "amethyst_block",
+                "iron_bars"
+            ],
+            "255-0-63": [
+                "emerald_block"
+            ],
+            "255-1-255": [
+                "calibrated_sculk_sensor_amethyst",
+                "small_amethyst_bud"
+            ],
+            "255-2-255": [
+                "medium_amethyst_bud"
+            ],
+            "255-4-255": [
+                "large_amethyst_bud"
+            ],
+            "255-5-255": [
+                "amethyst_cluster"
+            ],
+            "31-0-127": [
+                "oxidized_copper",
+                "oxidized_cut_copper"
+            ],
+            "63-0-127": [
+                "quartz_block_bottom",
+                "quartz_block_chiseled",
+                "quartz_block_chiseled_top",
+                "quartz_block_lines",
+                "quartz_block_lines_top",
+                "quartz_block_side",
+                "quartz_block_top",
+                "quartz_bricks",
+                "repeater_off",
+                "weathered_copper",
+                "weathered_cut_copper"
+            ],
+            "64-0-0": [
+                "glass",
+                "glass_black",
+                "glass_blue",
+                "glass_brown",
+                "glass_cyan",
+                "glass_gray",
+                "glass_green",
+                "glass_light_blue",
+                "glass_lime",
+                "glass_magenta",
+                "glass_orange",
+                "glass_pane_top",
+                "glass_pane_top_black",
+                "glass_pane_top_blue",
+                "glass_pane_top_brown",
+                "glass_pane_top_cyan",
+                "glass_pane_top_gray",
+                "glass_pane_top_green",
+                "glass_pane_top_light_blue",
+                "glass_pane_top_lime",
+                "glass_pane_top_magenta",
+                "glass_pane_top_orange",
+                "glass_pane_top_pink",
+                "glass_pane_top_purple",
+                "glass_pane_top_red",
+                "glass_pane_top_silver",
+                "glass_pane_top_white",
+                "glass_pane_top_yellow",
+                "glass_pink",
+                "glass_purple",
+                "glass_red",
+                "glass_silver",
+                "glass_white",
+                "glass_yellow",
+                "tinted_glass"
+            ],
+            "64-0-192": [
+                "smithing_table_top"
+            ],
+            "64-0-255": [
+                "honeycomb",
+                "honey_bottom",
+                "honey_side",
+                "honey_top",
+                "obsidian"
+            ],
+            "64-0-64": [
+                "bell_bottom",
+                "bell_side",
+                "bell_top",
+                "cauldron_bottom",
+                "cauldron_inner",
+                "cauldron_side",
+                "cauldron_top",
+                "chain1",
+                "chain2",
+                "frosted_ice_0",
+                "frosted_ice_1",
+                "frosted_ice_2",
+                "ice"
+            ],
+            "95-0-127": [
+                "exposed_copper",
+                "exposed_cut_copper"
             ]
         },
         "string": {
+            "acacia_trapdoor_mer": [
+                "acacia_trapdoor"
+            ],
+            "barrel_side_mer": [
+                "barrel_side"
+            ],
+            "barrel_top_mer": [
+                "barrel_top"
+            ],
+            "beacon_mer": [
+                "beacon"
+            ],
+            "beehive_front_honey_mer": [
+                "beehive_front_honey"
+            ],
+            "beehive_front_mer": [
+                "beehive_front"
+            ],
+            "beehive_side_mer": [
+                "beehive_side"
+            ],
+            "blast_furnace_front_off_mer": [
+                "blast_furnace_front_off"
+            ],
+            "blast_furnace_front_on_mer": [
+                "blast_furnace_front_on"
+            ],
+            "blast_furnace_side_mer": [
+                "blast_furnace_side"
+            ],
+            "blast_furnace_top_mer": [
+                "blast_furnace_top"
+            ],
+            "brewing_stand_mer": [
+                "brewing_stand"
+            ],
+            "calibrated_sculk_sensor_input_side_mer": [
+                "calibrated_sculk_sensor_input_side"
+            ],
+            "calibrated_sculk_sensor_top_mer": [
+                "calibrated_sculk_sensor_top"
+            ],
+            "campfire_log_lit_mer": [
+                "campfire_log_lit"
+            ],
+            "campfire_mer": [
+                "campfire"
+            ],
             "candle_lit_mer": [
                 "black_candle_lit",
                 "blue_candle_lit",
@@ -71,26 +2977,378 @@
                 "white_candle_lit",
                 "yellow_candle_lit"
             ],
+            "cartography_table_side1_mer": [
+                "cartography_table_side1"
+            ],
+            "cartography_table_side2_mer": [
+                "cartography_table_side2"
+            ],
+            "cartography_table_top_mer": [
+                "cartography_table_top"
+            ],
+            "cave_vines_body_berries_mer": [
+                "cave_vines_body_berries"
+            ],
+            "cave_vines_head_berries_mer": [
+                "cave_vines_head_berries"
+            ],
+            "comparator_on_mer": [
+                "comparator_on"
+            ],
+            "conduit_open_mer": [
+                "conduit_open"
+            ],
             "copper_ore_mer": [
+                "copper_ore",
                 "deepslate_copper_ore"
             ],
+            "crafting_table_front_mer": [
+                "crafting_table_front"
+            ],
+            "crafting_table_side_mer": [
+                "crafting_table_side"
+            ],
+            "crimson_door_lower_mer": [
+                "crimson_door_lower"
+            ],
+            "crimson_door_top_mer": [
+                "crimson_door_top"
+            ],
+            "crying_obsidian_mer": [
+                "crying_obsidian"
+            ],
+            "daylight_detector_mer": [
+                "daylight_detector_inverted_top",
+                "daylight_detector_top"
+            ],
+            "diamond_block_mer": [
+                "diamond_block"
+            ],
             "diamond_ore_mer": [
+                "diamond_ore",
                 "deepslate_diamond_ore"
             ],
+            "door_acacia_lower_mer": [
+                "door_acacia_lower"
+            ],
+            "door_acacia_upper_mer": [
+                "door_acacia_upper"
+            ],
+            "door_dark_oak_lower_mer": [
+                "door_dark_oak_lower"
+            ],
+            "door_dark_oak_upper_mer": [
+                "door_dark_oak_upper"
+            ],
+            "door_jungle_lower_mer": [
+                "door_jungle_lower"
+            ],
+            "door_jungle_upper_mer": [
+                "door_jungle_upper"
+            ],
+            "door_wood_lower_mer": [
+                "door_wood_lower"
+            ],
+            "door_wood_upper_mer": [
+                "door_wood_upper"
+            ],
             "emerald_ore_mer": [
+                "emerald_ore",
                 "deepslate_emerald_ore"
             ],
+            "enchanting_table_side_mer": [
+                "enchanting_table_side"
+            ],
+            "enchanting_table_top_mer": [
+                "enchanting_table_top"
+            ],
+            "end_gateway": [
+                "end_gateway"
+            ],
+            "end_portal": [
+                "end_portal"
+            ],
+            "end_rod_mer": [
+                "end_rod"
+            ],
+            "fire_0_mer": [
+                "fire_0"
+            ],
+            "fire_1_mer": [
+                "fire_1"
+            ],
+            "furnace_front_on_mer": [
+                "furnace_front_on"
+            ],
+            "gilded_blackstone_mer": [
+                "gilded_blackstone"
+            ],
+            "gold_block_mer": [
+                "gold_block"
+            ],
             "gold_ore_mer": [
+                "gold_ore",
                 "deepslate_gold_ore"
             ],
             "iron_ore_mer": [
+                "iron_ore",
                 "deepslate_iron_ore"
+            ],
+            "jungle_trapdoor_mer": [
+                "jungle_trapdoor"
+            ],
+            "lantern_mer": [
+                "lantern"
+            ],
+            "magma_mer": [
+                "magma"
+            ],
+            "nether_gold_ore_mer": [
+                "nether_gold_ore"
+            ],
+            "observer_back_lit_mer": [
+                "observer_back_lit"
+            ],
+            "piston_side_mer": [
+                "piston_side"
+            ],
+            "piston_top_normal_mer": [
+                "piston_top_normal"
+            ],
+            "piston_top_sticky_mer": [
+                "piston_top_sticky"
+            ],
+            "pumpkin_face_on_mer": [
+                "pumpkin_face_on"
+            ],
+            "quartz_ore_mer": [
+                "quartz_ore"
+            ],
+            "rail_activator_mer": [
+                "rail_activator"
+            ],
+            "rail_activator_powered_mer": [
+                "rail_activator_powered"
+            ],
+            "rail_detector_mer": [
+                "rail_detector"
+            ],
+            "rail_detector_powered_mer": [
+                "rail_detector_powered"
+            ],
+            "rail_golden_mer": [
+                "rail_golden"
+            ],
+            "rail_golden_powered_mer": [
+                "rail_golden_powered"
+            ],
+            "rail_normal_mer": [
+                "rail_normal"
+            ],
+            "rail_normal_turned_mer": [
+                "rail_normal_turned"
+            ],
+            "redstone_lamp_off_mer": [
+                "redstone_lamp_off"
+            ],
+            "redstone_lamp_on_mer": [
+                "redstone_lamp_on"
+            ],
+            "redstone_torch_on_mer": [
+                "redstone_torch_on"
+            ],
+            "repeater_on_mer": [
+                "repeater_on"
+            ],
+            "respawn_anchor_side0_mer": [
+                "respawn_anchor_side0"
+            ],
+            "respawn_anchor_side1_mer": [
+                "respawn_anchor_side1"
+            ],
+            "respawn_anchor_side2_mer": [
+                "respawn_anchor_side2"
+            ],
+            "respawn_anchor_side3_mer": [
+                "respawn_anchor_side3"
+            ],
+            "respawn_anchor_side4_mer": [
+                "respawn_anchor_side4"
+            ],
+            "respawn_anchor_top_mer": [
+                "respawn_anchor_top"
+            ],
+            "respawn_anchor_top_off_mer": [
+                "respawn_anchor_top_off"
+            ],
+            "sculk_catalyst_side_bloom_mer": [
+                "sculk_catalyst_side_bloom"
+            ],
+            "sculk_catalyst_side_mer": [
+                "sculk_catalyst_side"
+            ],
+            "sculk_catalyst_top_bloom_mer": [
+                "sculk_catalyst_top",
+                "sculk_catalyst_top_bloom"
+            ],
+            "sculk_mer": [
+                "sculk"
+            ],
+            "sculk_sensor_side_mer": [
+                "sculk_sensor_side"
+            ],
+            "sculk_sensor_top_mer": [
+                "sculk_sensor_top"
+            ],
+            "sculk_shrieker_can_summon_inner_top_mer": [
+                "sculk_shrieker_can_summon_inner_top",
+                "sculk_shrieker_inner_top"
+            ],
+            "sculk_vein_mer": [
+                "sculk_vein"
+            ],
+            "sea_lantern_mer": [
+                "sea_lantern"
+            ],
+            "sea_pickle_mer": [
+                "sea_pickle"
+            ],
+            "smithing_table_bottom_mer": [
+                "smithing_table_bottom"
+            ],
+            "smithing_table_front_mer": [
+                "smithing_table_front"
+            ],
+            "smithing_table_side_mer": [
+                "smithing_table_side"
+            ],
+            "smoker_bottom_mer": [
+                "smoker_bottom",
+                "smoker_top"
+            ],
+            "smoker_front_off_mer": [
+                "smoker_front_off"
+            ],
+            "smoker_front_on_mer": [
+                "smoker_front_on"
+            ],
+            "smoker_side_mer": [
+                "smoker_side"
+            ],
+            "soul_campfire": [
+                "soul_campfire"
+            ],
+            "soul_campfire_log_lit_mer": [
+                "soul_campfire_log_lit"
+            ],
+            "soul_fire_0": [
+                "soul_fire_0"
+            ],
+            "soul_fire_1": [
+                "soul_fire_1"
+            ],
+            "soul_lantern_mer": [
+                "soul_lantern"
+            ],
+            "soul_torch_mer": [
+                "soul_torch"
+            ],
+            "spruce_trapdoor_mer": [
+                "spruce_trapdoor"
+            ],
+            "stem_side_mer": [
+                "crimson_log_side",
+                "warped_stem_side"
+            ],
+            "stem_top_mer": [
+                "crimson_log_top",
+                "warped_stem_top"
+            ],
+            "torch_on_mer": [
+                "torch_on"
+            ],
+            "warped_door_lower_mer": [
+                "warped_door_lower"
+            ],
+            "warped_door_top_mer": [
+                "warped_door_top"
             ]
         }
     },
     "normal": {
+        "bone_block_side_n": [
+            "bone_block_side"
+        ],
         "copper_ore_n": [
+            "copper_ore",
             "deepslate_copper_ore"
+        ],
+        "hay_block_side_n": [
+            "hay_block_side"
+        ],
+        "leaves_acacia_carried_n": [
+            "leaves_acacia_carried"
+        ],
+        "leaves_acacia_n": [
+            "leaves_acacia"
+        ],
+        "leaves_big_oak_carried_n": [
+            "leaves_big_oak_carried"
+        ],
+        "leaves_big_oak_n": [
+            "leaves_big_oak"
+        ],
+        "leaves_birch_carried_n": [
+            "leaves_birch_carried"
+        ],
+        "leaves_birch_n": [
+            "leaves_birch"
+        ],
+        "leaves_birch_opaque_n": [
+            "leaves_birch_opaque"
+        ],
+        "leaves_jungle_carried_n": [
+            "leaves_jungle_carried"
+        ],
+        "leaves_jungle_n": [
+            "leaves_jungle"
+        ],
+        "leaves_jungle_opaque_n": [
+            "leaves_jungle_opaque"
+        ],
+        "leaves_oak_n": [
+            "leaves_oak"
+        ],
+        "leaves_oak_carried_n": [
+            "leaves_oak_carried"
+        ],
+        "leaves_spruce_carried_n": [
+            "leaves_spruce_carried"
+        ],
+        "leaves_spruce_n": [
+            "leaves_spruce"
+        ],
+        "mangrove_leaves_carried_n": [
+            "mangrove_leaves_carried"
+        ],
+        "mangrove_leaves_n": [
+            "mangrove_leaves"
+        ],
+        "water_flow_grey_n": [
+            "water_flow_grey"
+        ],
+        "water_flow_n": [
+            "water_flow"
+        ],
+        "water_n": [
+            "lava_still",
+            "water_still_grey"
+        ],
+        "water_placeholder_n": [
+            "water_placeholder"
+        ],
+        "water_still_n": [
+            "water_still"
         ]
     }
 }

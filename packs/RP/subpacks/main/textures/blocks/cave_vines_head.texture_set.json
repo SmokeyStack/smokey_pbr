@@ -1,7 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "cave_vines_head",
-        "heightmap": "cave_vines_head_heightmap"
-    }
-}
