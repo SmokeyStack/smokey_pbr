@@ -1,0 +1,96 @@
+{
+    "heightmap": {
+        "polished_deepslate_heightmap": [
+            "polished_deepslate"
+        ],
+        "bricks_heightmap": [
+            "cracked_deepslate_bricks",
+            "deepslate_bricks"
+        ],
+        "chiseled_deepslate_heightmap": [
+            "chiseled_deepslate"
+        ],
+        "coal_ore_heightmap": [
+            "deepslate_coal_ore"
+        ],
+        "deepslate_heightmap": [
+            "deepslate"
+        ],
+        "cobbled_deepslate_heightmap": [
+            "cobbled_deepslate"
+        ],
+        "deepslate_tiles_heightmap": [
+            "cracked_deepslate_tiles",
+            "deepslate_tiles"
+        ],
+        "diamond_ore_heightmap": [
+            "deepslate_diamond_ore"
+        ],
+        "emerald_ore_heightmap": [
+            "deepslate_emerald_ore"
+        ],
+        "gold_ore_heightmap": [
+            "deepslate_gold_ore"
+        ],
+        "iron_ore_heightmap": [
+            "deepslate_iron_ore"
+        ],
+        "lapis_ore_heightmap": [
+            "deepslate_lapis_ore"
+        ],
+        "redstone_ore_heightmap": [
+            "deepslate_redstone_ore"
+        ],
+        "deepslate_top_heightmap": [
+            "deepslate_top"
+        ]
+    },
+    "mer": {
+        "array": {
+            "127-0-127": [
+                "polished_deepslate"
+            ]
+        },
+        "string": {
+            "candle_lit_mer": [
+                "black_candle_lit",
+                "blue_candle_lit",
+                "brown_candle_lit",
+                "candle_lit",
+                "cyan_candle_lit",
+                "gray_candle_lit",
+                "green_candle_lit",
+                "light_blue_candle_lit",
+                "light_gray_candle_lit",
+                "lime_candle_lit",
+                "magenta_candle_lit",
+                "orange_candle_lit",
+                "pink_candle_lit",
+                "purple_candle_lit",
+                "red_candle_lit",
+                "white_candle_lit",
+                "yellow_candle_lit"
+            ],
+            "copper_ore_mer": [
+                "deepslate_copper_ore"
+            ],
+            "diamond_ore_mer": [
+                "deepslate_diamond_ore"
+            ],
+            "emerald_ore_mer": [
+                "deepslate_emerald_ore"
+            ],
+            "gold_ore_mer": [
+                "deepslate_gold_ore"
+            ],
+            "iron_ore_mer": [
+                "deepslate_iron_ore"
+            ]
+        }
+    },
+    "normal": {
+        "copper_ore_n": [
+            "deepslate_copper_ore"
+        ]
+    }
+}
