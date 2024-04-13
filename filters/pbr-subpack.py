@@ -34,7 +34,7 @@ def copy_recursive(source_base_path, target_base_path):
             try:
                 os.mkdir(new_target_dir)
             except OSError:
-                sys.stderr.write("WARNING: Directory already exists: %s\n" % new_target_dir)
+                pass
 
             # Recurse
             new_source_dir = os.path.join(source_base_path, item)

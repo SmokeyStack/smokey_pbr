@@ -1,7 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "chiseled_bookshelf_empty",
-        "heightmap": "chiseled_bookshelf_empty_heightmap"
-    }
-}

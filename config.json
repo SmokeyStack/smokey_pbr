@@ -9,6 +9,10 @@
 	"regolith": {
 		"dataPath": "./packs/data",
 		"filterDefinitions": {
+			"pbr-build": {
+				"script": "./filters/pbr-build.py",
+				"runWith": "python"
+			},
 			"pbr-subpack": {
 				"script": "./filters/pbr-subpack.py",
 				"runWith": "python"
@@ -36,6 +40,9 @@
 					"target": "preview"
 				},
 				"filters": [
+					{
+						"filter": "pbr-build"
+					},
 					{
 						"arguments": [
 							"RP/subpacks/main/textures",

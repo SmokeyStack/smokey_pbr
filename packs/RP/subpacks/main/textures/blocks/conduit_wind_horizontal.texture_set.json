@@ -1,7 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "conduit_wind_horizontal",
-        "heightmap": "conduit_wind_horizontal_heightmap"
-    }
-}

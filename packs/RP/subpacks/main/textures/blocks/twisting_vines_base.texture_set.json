@@ -1,7 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "twisting_vines_base",
-        "heightmap": "twisting_vines_base_heightmap"
-    }
-}

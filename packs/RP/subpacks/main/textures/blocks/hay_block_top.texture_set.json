@@ -1,7 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "hay_block_top",
-        "heightmap": "hay_block_top_heightmap"
-    }
-}

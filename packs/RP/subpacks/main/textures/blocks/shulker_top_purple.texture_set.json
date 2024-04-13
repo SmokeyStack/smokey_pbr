@@ -1,7 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "shulker_top_purple",
-        "heightmap": "shulker_top_purple_heightmap"
-    }
-}

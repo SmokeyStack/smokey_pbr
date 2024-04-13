@@ -1,7 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "tuff_bricks",
-        "heightmap": "tuff_bricks_heightmap"
-    }
-}

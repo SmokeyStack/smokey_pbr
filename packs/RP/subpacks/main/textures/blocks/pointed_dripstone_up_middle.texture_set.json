@@ -1,7 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "pointed_dripstone_up_middle",
-        "heightmap": "pointed_dripstone_up_middle_heightmap"
-    }
-}

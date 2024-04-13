@@ -1,7 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "sculk_catalyst_bottom",
-        "heightmap": "sculk_catalyst_bottom_heightmap"
-    }
-}

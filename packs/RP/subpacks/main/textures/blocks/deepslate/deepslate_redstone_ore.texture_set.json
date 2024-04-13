@@ -1,7 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "deepslate_redstone_ore",
-        "heightmap": "redstone_ore_heightmap"
-    }
-}

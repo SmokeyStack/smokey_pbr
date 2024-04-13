@@ -1,7 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "cobblestone_mossy",
-        "heightmap": "cobblestone_mossy_heightmap"
-    }
-}
