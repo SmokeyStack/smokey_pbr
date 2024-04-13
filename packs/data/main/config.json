@@ -880,10 +880,6 @@
         "diamond_block_heightmap": [
             "diamond_block"
         ],
-        "diamond_ore_heightmap": [
-            "diamond_ore",
-            "deepslate_diamond_ore"
-        ],
         "dirt_heightmap": [
             "dirt"
         ],
@@ -3282,6 +3278,10 @@
         "copper_ore_n": [
             "copper_ore",
             "deepslate_copper_ore"
+        ],
+        "diamond_ore_n": [
+            "diamond_ore",
+            "deepslate_diamond_ore"
         ],
         "hay_block_side_n": [
             "hay_block_side"
