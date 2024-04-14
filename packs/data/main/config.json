@@ -514,10 +514,6 @@
         "coal_block_heightmap": [
             "coal_block"
         ],
-        "coal_ore_heightmap": [
-            "coal_ore",
-            "deepslate_coal_ore"
-        ],
         "coarse_dirt_heightmap": [
             "coarse_dirt"
         ],
@@ -1012,10 +1008,6 @@
         "emerald_block_heightmap": [
             "emerald_block"
         ],
-        "emerald_ore_heightmap": [
-            "emerald_ore",
-            "deepslate_emerald_ore"
-        ],
         "enchanting_table_bottom_heightmap": [
             "enchanting_table_bottom"
         ],
@@ -1269,10 +1261,6 @@
         "gold_block_heightmap": [
             "gold_block"
         ],
-        "gold_ore_heightmap": [
-            "gold_ore",
-            "deepslate_gold_ore"
-        ],
         "grass_block_snow_heightmap": [
             "grass_block_snow"
         ],
@@ -1408,10 +1396,6 @@
         "iron_block_heightmap": [
             "iron_block"
         ],
-        "iron_ore_heightmap": [
-            "iron_ore",
-            "deepslate_iron_ore"
-        ],
         "iron_trapdoor_heightmap": [
             "iron_trapdoor"
         ],
@@ -1466,10 +1450,6 @@
         ],
         "lapis_block_heightmap": [
             "lapis_block"
-        ],
-        "lapis_ore_heightmap": [
-            "lapis_ore",
-            "deepslate_lapis_ore"
         ],
         "large_amethyst_bud_heightmap": [
             "large_amethyst_bud"
@@ -1651,9 +1631,6 @@
         ],
         "nether_brick_heightmap": [
             "nether_brick"
-        ],
-        "nether_gold_ore_heightmap": [
-            "nether_gold_ore"
         ],
         "nether_sprouts_heightmap": [
             "nether_sprouts"
@@ -1915,9 +1892,6 @@
         "quartz_bricks_heightmap": [
             "quartz_bricks"
         ],
-        "quartz_ore_heightmap": [
-            "quartz_ore"
-        ],
         "rail_activator_heightmap": [
             "rail_activator",
             "rail_activator_powered"
@@ -1982,10 +1956,6 @@
         "redstone_lamp_heightmap": [
             "redstone_lamp_off",
             "redstone_lamp_on"
-        ],
-        "redstone_ore_heightmap": [
-            "redstone_ore",
-            "deepslate_redstone_ore"
         ],
         "reeds_heightmap": [
             "reeds"
@@ -3275,6 +3245,10 @@
         "bone_block_side_n": [
             "bone_block_side"
         ],
+        "coal_ore_n": [
+            "coal_ore",
+            "deepslate_coal_ore"
+        ],
         "copper_ore_n": [
             "copper_ore",
             "deepslate_copper_ore"
@@ -3283,8 +3257,24 @@
             "diamond_ore",
             "deepslate_diamond_ore"
         ],
+        "emerald_ore_heightmap": [
+            "emerald_ore",
+            "deepslate_emerald_ore"
+        ],
+        "gold_ore_heightmap": [
+            "gold_ore",
+            "deepslate_gold_ore"
+        ],
         "hay_block_side_n": [
             "hay_block_side"
+        ],
+        "iron_ore_heightmap": [
+            "iron_ore",
+            "deepslate_iron_ore"
+        ],
+        "lapis_ore_heightmap": [
+            "lapis_ore",
+            "deepslate_lapis_ore"
         ],
         "leaves_acacia_carried_n": [
             "leaves_acacia_carried"
@@ -3333,6 +3323,16 @@
         ],
         "mangrove_leaves_n": [
             "mangrove_leaves"
+        ],
+        "nether_gold_ore_heightmap": [
+            "nether_gold_ore"
+        ],
+        "quartz_ore_heightmap": [
+            "quartz_ore"
+        ],
+        "redstone_ore_heightmap": [
+            "redstone_ore",
+            "deepslate_redstone_ore"
         ],
         "water_flow_grey_n": [
             "water_flow_grey"

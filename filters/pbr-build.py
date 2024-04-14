@@ -81,46 +81,40 @@ def create_texture_set(file_name, root, folder_name):
         if file_name in value:
             texture_set['minecraft:texture_set']['metalness_emissive_roughness'] = key
             path = find_file(key + '.png', f'data/{folder_name}/mer')
-            shutil.copy(f'{path}/{key}.png', f'RP/subpacks/main/textures/{root[10+len(folder_name):]}/{key}.png')
+            shutil.copy(f'{path}/{key}.png', f'RP/subpacks/{folder_name}/textures/{root[10+len(folder_name):]}/{key}.png')
 
     for key, value in config['heightmap'].items():
         if file_name in value:
             texture_set['minecraft:texture_set']['heightmap'] = key
-            shutil.copy(f'data/{folder_name}/heightmap/{key}.png', f'RP/subpacks/{folder_name}/textures/{root[10+len(folder_name):]}/{key}.png')
+            path = find_file(key + '.png', f'data/{folder_name}/heightmap')
+            shutil.copy(f'{path}/{key}.png', f'RP/subpacks/{folder_name}/textures/{root[10+len(folder_name):]}/{key}.png')
 
     for key, value in config['normal'].items():
         if file_name in value:
             texture_set['minecraft:texture_set']['normal'] = key
-            shutil.copy(f'data/{folder_name}/normal/{key}.png', f'RP/subpacks/{folder_name}/textures/{root[10+len(folder_name):]}/{key}.png')
+            path = find_file(key + '.png', f'data/{folder_name}/normal')
+            shutil.copy(f'{path}/{key}.png', f'RP/subpacks/{folder_name}/textures/{root[10+len(folder_name):]}/{key}.png')
 
     with open(f'RP/subpacks/{folder_name}/textures/{root[10+len(folder_name):]}/{file_name}.texture_set.json', 'w') as file:
         json.dump(texture_set, file, sort_keys=True, ensure_ascii=False, indent=4)
 
-src = os.path.join(os.getcwd(), 'data/main/src')
-dst = os.path.join(os.getcwd(), 'RP/subpacks/main/textures')
-print('Copying ' + src + ' to ' + dst)
-copy_recursive(src, dst)
+if __name__ == "__main__":
+    if len(sys.argv)-1 < 1:
+        print("Too few arguments")
+        exit(1)
+    
+    for a in range(1, len(sys.argv)):
+        source = os.path.join(os.getcwd(), f'data/{sys.argv[a]}/src')
+        destination = os.path.join(os.getcwd(), f'RP/subpacks/{sys.argv[a]}/textures')
+        print(f'Copying {source} to {destination}')
+        copy_recursive(source, destination)
+        print(f'Tweaking MER for {sys.argv[a]}')
+        tweak_mer(sys.argv[a])
 
-src = os.path.join(os.getcwd(), 'data/update_1_21/src')
-dst = os.path.join(os.getcwd(), 'RP/subpacks/update_1_21/textures')
-print('Copying ' + src + ' to ' + dst)
-copy_recursive(src, dst)
+        with open(f'data/{sys.argv[a]}/config.json') as data:
+            config = json.load(data)
 
-tweak_mer('main')
-tweak_mer('update_1_21')
-
-with open('data/update_1_21/config.json') as data:
-    config = json.load(data)
-
-for root, directories, files in os.walk('data/update_1_21/src'):
-    for file in files:
-        file_name = file[:-4]
-        create_texture_set(file_name, root, 'update_1_21')
-
-with open('data/main/config.json') as data:
-    config = json.load(data)
-
-for root, directories, files in os.walk('data/main/src'):
-    for file in files:
-        file_name = file[:-4]
-        create_texture_set(file_name, root, 'main')
+        for root, directories, files in os.walk(f'data/{sys.argv[a]}/src'):
+            for file in files:
+                file_name = file[:-4]
+                create_texture_set(file_name, root, sys.argv[a])

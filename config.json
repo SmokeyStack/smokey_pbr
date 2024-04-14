@@ -41,6 +41,10 @@
 				},
 				"filters": [
 					{
+						"arguments": [
+							"main",
+							"update_1_21"
+						],
 						"filter": "pbr-build"
 					},
 					{
