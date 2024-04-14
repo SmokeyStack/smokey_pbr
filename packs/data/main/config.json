@@ -3257,22 +3257,22 @@
             "diamond_ore",
             "deepslate_diamond_ore"
         ],
-        "emerald_ore_heightmap": [
+        "emerald_ore_n": [
             "emerald_ore",
             "deepslate_emerald_ore"
         ],
-        "gold_ore_heightmap": [
+        "gold_ore_n": [
             "gold_ore",
             "deepslate_gold_ore"
         ],
         "hay_block_side_n": [
             "hay_block_side"
         ],
-        "iron_ore_heightmap": [
+        "iron_ore_n": [
             "iron_ore",
             "deepslate_iron_ore"
         ],
-        "lapis_ore_heightmap": [
+        "lapis_ore_n": [
             "lapis_ore",
             "deepslate_lapis_ore"
         ],
@@ -3324,13 +3324,13 @@
         "mangrove_leaves_n": [
             "mangrove_leaves"
         ],
-        "nether_gold_ore_heightmap": [
+        "nether_gold_ore_n": [
             "nether_gold_ore"
         ],
-        "quartz_ore_heightmap": [
+        "quartz_ore_n": [
             "quartz_ore"
         ],
-        "redstone_ore_heightmap": [
+        "redstone_ore_n": [
             "redstone_ore",
             "deepslate_redstone_ore"
         ],
