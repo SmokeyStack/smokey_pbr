@@ -3028,10 +3028,10 @@
             "enchanting_table_top_mer": [
                 "enchanting_table_top"
             ],
-            "end_gateway": [
+            "end_gateway_mer": [
                 "end_gateway"
             ],
-            "end_portal": [
+            "end_portal_mer": [
                 "end_portal"
             ],
             "end_rod_mer": [
@@ -3201,16 +3201,16 @@
             "smoker_side_mer": [
                 "smoker_side"
             ],
-            "soul_campfire": [
+            "soul_campfire_mer": [
                 "soul_campfire"
             ],
             "soul_campfire_log_lit_mer": [
                 "soul_campfire_log_lit"
             ],
-            "soul_fire_0": [
+            "soul_fire_0_mer": [
                 "soul_fire_0"
             ],
-            "soul_fire_1": [
+            "soul_fire_1_mer": [
                 "soul_fire_1"
             ],
             "soul_lantern_mer": [
