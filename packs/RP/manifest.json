@@ -14,7 +14,7 @@
         "uuid": "67bc46a2-06d9-4f46-82f9-9009d9e81af5",
         "version": [
             0,
-            6,
+            7,
             0
         ]
     },
@@ -24,21 +24,9 @@
             "uuid": "a42ed34b-ed38-403f-b0ae-ac5f2ae9ae1d",
             "version": [
                 0,
-                6,
+                7,
                 0
             ]
-        }
-    ],
-    "subpacks": [
-        {
-            "folder_name": "update_1_21",
-            "name": "Update 1.21 - EXPERIMENTAL",
-            "memory_tier": 0
-        },
-        {
-            "folder_name": "main",
-            "name": "Main",
-            "memory_tier": 0
         }
     ]
 }
