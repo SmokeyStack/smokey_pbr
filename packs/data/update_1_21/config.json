@@ -126,7 +126,8 @@
             "trial_spawner_top_active_ominous",
             "trial_spawner_top_inactive",
             "trial_spawner_top_inactive_ominous",
-            "trial_spawner_top_open"
+            "trial_spawner_top_open",
+            "trial_spawner_top_active"
         ],
         "tuff_bricks_heightmap": [
             "tuff_bricks"
@@ -161,9 +162,7 @@
         ],
         "vault_top_heightmap": [
             "vault_top",
-            "vault_top_off",
-            "vault_top_ominous",
-            "vault_top_on"
+            "vault_top_ominous"
         ]
     },
     "mer": {
@@ -196,9 +195,7 @@
                 "vault_top",
                 "vault_top_ejecting",
                 "vault_top_ejecting_ominous",
-                "vault_top_off",
-                "vault_top_ominous",
-                "vault_top_on"
+                "vault_top_ominous"
             ],
             "64-0-255": [
                 "crafter_top"
@@ -292,7 +289,8 @@
                 "trial_spawner_top_active_ominous",
                 "trial_spawner_top_ejecting_reward",
                 "trial_spawner_top_ejecting_reward_ominous",
-                "trial_spawner_top_open"
+                "trial_spawner_top_open",
+                "trial_spawner_top_active"
             ],
             "trial_spawner_top_inactive_mer": [
                 "trial_spawner_top_inactive",

@@ -49,8 +49,8 @@
 					},
 					{
 						"arguments": [
-							"RP/subpacks/main/textures",
-							"RP/subpacks/update_1_21/textures"
+							"RP/subpacks/main",
+							"RP/subpacks/update_1_21"
 						],
 						"filter": "pbr-subpack"
 					}
