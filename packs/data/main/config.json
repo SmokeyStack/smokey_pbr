@@ -2685,6 +2685,170 @@
         ],
         "wool_colored_yellow_heightmap": [
             "wool_colored_yellow"
+        ],
+        "chiseled_copper_heightmap": [
+            "chiseled_copper",
+            "exposed_chiseled_copper",
+            "oxidized_chiseled_copper",
+            "weathered_chiseled_copper"
+        ],
+        "chiseled_tuff_bricks_heightmap": [
+            "chiseled_tuff_bricks"
+        ],
+        "chiseled_tuff_bricks_top_heightmap": [
+            "chiseled_tuff_bricks_top"
+        ],
+        "chiseled_tuff_heightmap": [
+            "chiseled_tuff"
+        ],
+        "chiseled_tuff_top_heightmap": [
+            "chiseled_tuff_top"
+        ],
+        "copper_bulb_heightmap": [
+            "copper_bulb",
+            "copper_bulb_lit",
+            "copper_bulb_lit_powered",
+            "copper_bulb_powered",
+            "exposed_copper_bulb",
+            "exposed_copper_bulb_lit",
+            "exposed_copper_bulb_lit_powered",
+            "exposed_copper_bulb_powered",
+            "oxidized_copper_bulb",
+            "oxidized_copper_bulb_lit",
+            "oxidized_copper_bulb_lit_powered",
+            "oxidized_copper_bulb_powered",
+            "weathered_copper_bulb",
+            "weathered_copper_bulb_lit",
+            "weathered_copper_bulb_lit_powered",
+            "weathered_copper_bulb_powered"
+        ],
+        "copper_door_bottom_heightmap": [
+            "copper_door_bottom",
+            "exposed_copper_door_bottom",
+            "oxidized_copper_door_bottom",
+            "weathered_copper_door_bottom"
+        ],
+        "copper_door_top_heightmap": [
+            "copper_door_top",
+            "exposed_copper_door_top",
+            "oxidized_copper_door_top",
+            "weathered_copper_door_top"
+        ],
+        "copper_grate_heightmap": [
+            "copper_grate",
+            "exposed_copper_grate",
+            "oxidized_copper_grate",
+            "weathered_copper_grate"
+        ],
+        "copper_trapdoor_heightmap": [
+            "copper_trapdoor",
+            "exposed_copper_trapdoor",
+            "oxidized_copper_trapdoor",
+            "weathered_copper_trapdoor"
+        ],
+        "crafter_bottom_heightmap": [
+            "crafter_bottom"
+        ],
+        "crafter_east_crafting_heightmap": [
+            "crafter_east_crafting"
+        ],
+        "crafter_east_heightmap": [
+            "crafter_east",
+            "crafter_east_triggered"
+        ],
+        "crafter_north_crafting_heightmap": [
+            "crafter_north_crafting"
+        ],
+        "crafter_north_heightmap": [
+            "crafter_north"
+        ],
+        "crafter_south_heightmap": [
+            "crafter_south",
+            "crafter_south_triggered"
+        ],
+        "crafter_top_heightmap": [
+            "crafter_top",
+            "crafter_top_crafting",
+            "crafter_top_triggered"
+        ],
+        "crafter_west_crafting_heightmap": [
+            "crafter_west_crafting"
+        ],
+        "crafter_west_heightmap": [
+            "crafter_west",
+            "crafter_west_triggered"
+        ],
+        "flow_pottery_pattern_heightmap": [
+            "flow_pottery_pattern"
+        ],
+        "guster_pottery_pattern_heightmap": [
+            "guster_pottery_pattern"
+        ],
+        "heavy_core_heightmap": [
+            "heavy_core"
+        ],
+        "polished_tuff_heightmap": [
+            "polished_tuff"
+        ],
+        "scrape_pottery_pattern_heightmap": [
+            "scrape_pottery_pattern"
+        ],
+        "trial_spawner_bottom_heightmap": [
+            "trial_spawner_bottom"
+        ],
+        "trial_spawner_side_heightmap": [
+            "trial_spawner_side",
+            "trial_spawner_side_active",
+            "trial_spawner_side_active_ominous",
+            "trial_spawner_side_inactive",
+            "trial_spawner_side_inactive_ominous"
+        ],
+        "trial_spawner_top_ejecting_reward_heightmap": [
+            "trial_spawner_top_ejecting_reward",
+            "trial_spawner_top_ejecting_reward_ominous"
+        ],
+        "trial_spawner_top_heightmap": [
+            "trial_spawner_top_active",
+            "trial_spawner_top_active_ominous",
+            "trial_spawner_top_inactive",
+            "trial_spawner_top_inactive_ominous",
+            "trial_spawner_top_open",
+            "trial_spawner_top_active"
+        ],
+        "tuff_bricks_heightmap": [
+            "tuff_bricks"
+        ],
+        "vault_bottom_heightmap": [
+            "vault_bottom",
+            "vault_bottom_ominous"
+        ],
+        "vault_front_off_heightmap": [
+            "vault_front_ejecting",
+            "vault_front_off"
+        ],
+        "vault_front_off_ominous_heightmap": [
+            "vault_front_ejecting_ominous",
+            "vault_front_off_ominous"
+        ],
+        "vault_front_on_heightmap": [
+            "vault_front_on"
+        ],
+        "vault_front_on_ominous_heightmap": [
+            "vault_front_on_ominous"
+        ],
+        "vault_side_heightmap": [
+            "vault_side_off",
+            "vault_side_off_ominous",
+            "vault_side_on",
+            "vault_side_on_ominous"
+        ],
+        "vault_top_ejecting_heightmap": [
+            "vault_top_ejecting",
+            "vault_top_ejecting_ominous"
+        ],
+        "vault_top_heightmap": [
+            "vault_top",
+            "vault_top_ominous"
         ]
     },
     "mer": {
@@ -2751,7 +2915,14 @@
                 "iron_trapdoor"
             ],
             "192-0-230": [
-                "mob_spawner"
+                "mob_spawner",
+                "trial_spawner_bottom",
+                "vault_bottom",
+                "vault_bottom_ominous",
+                "vault_top",
+                "vault_top_ejecting",
+                "vault_top_ejecting_ominous",
+                "vault_top_ominous"
             ],
             "192-0-64": [
                 "blue_ice",
@@ -2853,7 +3024,8 @@
                 "honey_bottom",
                 "honey_side",
                 "honey_top",
-                "obsidian"
+                "obsidian",
+                "crafter_top"
             ],
             "64-0-64": [
                 "bell_bottom",
@@ -2873,6 +3045,34 @@
             "95-0-127": [
                 "exposed_copper",
                 "exposed_cut_copper"
+            ],
+            "115-0-192": [
+                "exposed_chiseled_copper",
+                "exposed_copper_door_bottom",
+                "exposed_copper_door_top",
+                "exposed_copper_grate",
+                "exposed_copper_trapdoor"
+            ],
+            "164-0-192": [
+                "chiseled_copper",
+                "copper_door_bottom",
+                "copper_door_top",
+                "copper_grate",
+                "copper_trapdoor"
+            ],
+            "17-0-192": [
+                "oxidized_chiseled_copper",
+                "oxidized_copper_door_bottom",
+                "oxidized_copper_door_top",
+                "oxidized_copper_grate",
+                "oxidized_copper_trapdoor"
+            ],
+            "66-0-192": [
+                "weathered_chiseled_copper",
+                "weathered_copper_door_bottom",
+                "weathered_copper_door_top",
+                "weathered_copper_grate",
+                "weathered_copper_trapdoor"
             ]
         },
         "string": {
@@ -3238,6 +3438,131 @@
             ],
             "warped_door_top_mer": [
                 "warped_door_top"
+            ],
+            "copper_bulb_lit_mer": [
+                "copper_bulb_lit"
+            ],
+            "copper_bulb_lit_powered_mer": [
+                "copper_bulb_lit_powered"
+            ],
+            "copper_bulb_mer": [
+                "copper_bulb"
+            ],
+            "copper_bulb_powered_mer": [
+                "copper_bulb_powered"
+            ],
+            "crafter_east_crafting_mer": [
+                "crafter_east_crafting",
+                "crafter_east_triggered"
+            ],
+            "crafter_east_mer": [
+                "crafter_east",
+                "crafter_west"
+            ],
+            "crafter_north_crafting_mer": [
+                "crafter_north_crafting"
+            ],
+            "crafter_north_mer": [
+                "crafter_north"
+            ],
+            "crafter_south_mer": [
+                "crafter_south"
+            ],
+            "crafter_south_triggered_mer": [
+                "crafter_south_triggered"
+            ],
+            "crafter_top_crafting_mer": [
+                "crafter_top_crafting"
+            ],
+            "crafter_top_triggered_mer": [
+                "crafter_top_triggered"
+            ],
+            "crafter_west_crafting_mer": [
+                "crafter_west_crafting",
+                "crafter_west_triggered"
+            ],
+            "exposed_copper_bulb_lit_mer": [
+                "exposed_copper_bulb_lit"
+            ],
+            "exposed_copper_bulb_lit_powered_mer": [
+                "exposed_copper_bulb_lit_powered"
+            ],
+            "exposed_copper_bulb_mer": [
+                "exposed_copper_bulb"
+            ],
+            "exposed_copper_bulb_powered_mer": [
+                "exposed_copper_bulb_powered"
+            ],
+            "oxidized_copper_bulb_lit_mer": [
+                "oxidized_copper_bulb_lit"
+            ],
+            "oxidized_copper_bulb_lit_powered_mer": [
+                "oxidized_copper_bulb_lit_powered"
+            ],
+            "oxidized_copper_bulb_mer": [
+                "oxidized_copper_bulb"
+            ],
+            "oxidized_copper_bulb_powered_mer": [
+                "oxidized_copper_bulb_powered"
+            ],
+            "trial_spawner_side_active_mer": [
+                "trial_spawner_side",
+                "trial_spawner_side_active",
+                "trial_spawner_side_active_ominous"
+            ],
+            "trial_spawner_side_inactive_mer": [
+                "trial_spawner_side_inactive",
+                "trial_spawner_side_inactive_ominous"
+            ],
+            "trial_spawner_top_active_mer": [
+                "trial_spawner_top_active",
+                "trial_spawner_top_active_ominous",
+                "trial_spawner_top_ejecting_reward",
+                "trial_spawner_top_ejecting_reward_ominous",
+                "trial_spawner_top_open",
+                "trial_spawner_top_active"
+            ],
+            "trial_spawner_top_inactive_mer": [
+                "trial_spawner_top_inactive",
+                "trial_spawner_top_inactive_ominous"
+            ],
+            "vault_front_ejecting_mer": [
+                "vault_front_ejecting"
+            ],
+            "vault_front_ejecting_ominous_mer": [
+                "vault_front_ejecting_ominous"
+            ],
+            "vault_front_off_mer": [
+                "vault_front_off"
+            ],
+            "vault_front_off_ominous_mer": [
+                "vault_front_off_ominous"
+            ],
+            "vault_front_on_mer": [
+                "vault_front_on"
+            ],
+            "vault_front_on_ominous_mer": [
+                "vault_front_on_ominous"
+            ],
+            "vault_side_off_mer": [
+                "vault_side_off",
+                "vault_side_off_ominous"
+            ],
+            "vault_side_on_mer": [
+                "vault_side_on",
+                "vault_side_on_ominous"
+            ],
+            "weathered_copper_bulb_lit_mer": [
+                "weathered_copper_bulb_lit"
+            ],
+            "weathered_copper_bulb_lit_powered_mer": [
+                "weathered_copper_bulb_lit_powered"
+            ],
+            "weathered_copper_bulb_mer": [
+                "weathered_copper_bulb"
+            ],
+            "weathered_copper_bulb_powered_mer": [
+                "weathered_copper_bulb_powered"
             ]
         }
     },
