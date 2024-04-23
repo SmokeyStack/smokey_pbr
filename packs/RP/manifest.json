@@ -28,5 +28,32 @@
                 0
             ]
         }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "aces",
+            "name": "ACES Tonemapper",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "hable",
+            "name": "Hable Tonemapper",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "reinhard_luminance",
+            "name": "Reinhard Luminance Tonemapper",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "reinhard_luma",
+            "name": "Reinhard Luma Tonemapper",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "reinhard",
+            "name": "Reinhard Tonemapper",
+            "memory_tier": 0
+        }
     ]
 }
