@@ -1460,18 +1460,6 @@
         "lava_placeholder_heightmap": [
             "lava_placeholder"
         ],
-        "leaves_acacia_opaque_heightmap": [
-            "leaves_acacia_opaque"
-        ],
-        "leaves_big_oak_opaque_heightmap": [
-            "leaves_big_oak_opaque"
-        ],
-        "leaves_oak_opaque_heightmap": [
-            "leaves_oak_opaque"
-        ],
-        "leaves_spruce_opaque_heightmap": [
-            "leaves_spruce_opaque"
-        ],
         "lectern_base_heightmap": [
             "lectern_base"
         ],
@@ -2849,6 +2837,52 @@
         "vault_top_heightmap": [
             "vault_top",
             "vault_top_ominous"
+        ],
+        "leaves_jungle_carried_heightmap": [
+            "leaves_jungle",
+            "leaves_jungle_carried"
+        ],
+        "leaves_jungle_opaque_heightmap": [
+            "leaves_jungle_opaque"
+        ],
+        "leaves_oak_carried_heightmap": [
+            "leaves_oak",
+            "leaves_oak_carried"
+        ],
+        "leaves_oak_opaque_heightmap": [
+            "leaves_oak_opaque"
+        ],
+        "leaves_acacia_carried_heightmap": [
+            "leaves_acacia",
+            "leaves_acacia_carried"
+        ],
+        "leaves_acacia_opaque_heightmap": [
+            "leaves_acacia_opaque"
+        ],
+        "leaves_big_oak_carried_heightmap": [
+            "leaves_big_oak",
+            "leaves_big_oak_carried"
+        ],
+        "leaves_big_oak_opaque_heightmap": [
+            "leaves_big_oak_opaque"
+        ],
+        "leaves_birch_carried_heightmap": [
+            "leaves_birch",
+            "leaves_birch_carried"
+        ],
+        "leaves_birch_opaque_heightmap": [
+            "leaves_birch_opaque"
+        ],
+        "leaves_spruce_carried_heightmap": [
+            "leaves_spruce",
+            "leaves_spruce_carried"
+        ],
+        "leaves_spruce_opaque_heightmap": [
+            "leaves_spruce_opaque"
+        ],
+        "mangrove_leaves_carried_heightmap": [
+            "mangrove_leaves",
+            "mangrove_leaves_carried"
         ]
     },
     "mer": {
@@ -2873,13 +2907,6 @@
             ],
             "0-7-255": [
                 "glow_lichen"
-            ],
-            "102-0-63": [
-                "water_flow",
-                "water_flow_grey",
-                "water_placeholder",
-                "water_still",
-                "water_still_grey"
             ],
             "127-0-127": [
                 "copper_block",
@@ -3040,7 +3067,12 @@
                 "frosted_ice_0",
                 "frosted_ice_1",
                 "frosted_ice_2",
-                "ice"
+                "ice",
+                "water_flow",
+                "water_flow_grey",
+                "water_placeholder",
+                "water_still",
+                "water_still_grey"
             ],
             "95-0-127": [
                 "exposed_copper",
@@ -3601,54 +3633,6 @@
             "lapis_ore",
             "deepslate_lapis_ore"
         ],
-        "leaves_acacia_carried_n": [
-            "leaves_acacia_carried"
-        ],
-        "leaves_acacia_n": [
-            "leaves_acacia"
-        ],
-        "leaves_big_oak_carried_n": [
-            "leaves_big_oak_carried"
-        ],
-        "leaves_big_oak_n": [
-            "leaves_big_oak"
-        ],
-        "leaves_birch_carried_n": [
-            "leaves_birch_carried"
-        ],
-        "leaves_birch_n": [
-            "leaves_birch"
-        ],
-        "leaves_birch_opaque_n": [
-            "leaves_birch_opaque"
-        ],
-        "leaves_jungle_carried_n": [
-            "leaves_jungle_carried"
-        ],
-        "leaves_jungle_n": [
-            "leaves_jungle"
-        ],
-        "leaves_jungle_opaque_n": [
-            "leaves_jungle_opaque"
-        ],
-        "leaves_oak_n": [
-            "leaves_oak"
-        ],
-        "leaves_oak_carried_n": [
-            "leaves_oak_carried"
-        ],
-        "leaves_spruce_carried_n": [
-            "leaves_spruce_carried"
-        ],
-        "leaves_spruce_n": [
-            "leaves_spruce"
-        ],
-        "mangrove_leaves_carried_n": [
-            "mangrove_leaves_carried"
-        ],
-        "mangrove_leaves_n": [
-            "mangrove_leaves"
-        ],
         "nether_gold_ore_n": [
             "nether_gold_ore"
         ],
@@ -3659,21 +3643,13 @@
             "redstone_ore",
             "deepslate_redstone_ore"
         ],
-        "water_flow_grey_n": [
-            "water_flow_grey"
-        ],
-        "water_flow_n": [
-            "water_flow"
-        ],
         "water_n": [
             "lava_still",
-            "water_still_grey"
-        ],
-        "water_placeholder_n": [
+            "water_still",
+            "water_still_grey",
+            "water_flow",
+            "water_flow_grey",
             "water_placeholder"
-        ],
-        "water_still_n": [
-            "water_still"
         ]
     }
 }
