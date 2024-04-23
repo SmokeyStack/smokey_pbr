@@ -2,35 +2,35 @@
     "format_version": "1.16.100",
     "minecraft:fog_settings": {
         "description": {
-            "identifier": "smokey_pbr:fog_desert"
+            "identifier": "smokey_pbr:fog_mesa_plateau_stone"
         },
         "distance": {
             "air": {
-                "fog_color": "#F7E9A3",
+                "fog_color": "#D87F33",
                 "fog_end": 0.5,
                 "fog_start": 0.092,
                 "render_distance_type": "render"
             },
             "water": {
-                "fog_color": "#32A598",
-                "fog_end": 60,
-                "fog_start": 0,
+                "fog_start": 0.0,
+                "fog_end": 60.0,
+                "fog_color": "#55809E",
                 "render_distance_type": "fixed",
                 "transition_fog": {
                     "init_fog": {
-                        "fog_color": "#32A598",
+                        "fog_start": 0.0,
                         "fog_end": 0.01,
-                        "fog_start": 0,
+                        "fog_color": "#55809E",
                         "render_distance_type": "fixed"
                     },
-                    "max_seconds": 30,
-                    "mid_percent": 0.6,
+                    "min_percent": 0.25,
                     "mid_seconds": 5,
-                    "min_percent": 0.25
+                    "mid_percent": 0.6,
+                    "max_seconds": 30
                 }
             },
             "weather": {
-                "fog_color": "#F7E9A3",
+                "fog_color": "#D87F33",
                 "fog_end": 0.375,
                 "fog_start": 0,
                 "render_distance_type": "render"
@@ -50,14 +50,14 @@
             "media_coefficients": {
                 "air": {
                     "absorption": [
-                        0.003137254901960784,
-                        0.00862745098039216,
-                        0.03607843137254903
+                        0.015294117647058824,
+                        0.05019607843137255,
+                        0.08
                     ],
                     "scattering": [
-                        0.009686274509803921,
-                        0.009137254901960785,
-                        0.006392156862745098
+                        0.008470588235294119,
+                        0.004980392156862745,
+                        0.002
                     ]
                 },
                 "water": {
