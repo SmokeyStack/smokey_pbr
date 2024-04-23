@@ -33,12 +33,13 @@
             },
             "illuminance": {
                 "0.0": 0,
+                "0.2": 0,
                 "0.25": 295,
                 "0.55": 2945,
                 "0.6": 98321,
                 "0.65": 2945,
                 "0.75": 295,
-                "0.9": 100
+                "0.8": 0
             }
         }
     },
@@ -49,13 +50,25 @@
     ],
     "pbr": {
         "actors": {
-            "global_metalness_emissive_roughness": "#0000FF"
+            "global_metalness_emissive_roughness": [
+                0,
+                255,
+                255
+            ]
         },
         "blocks": {
-            "global_metalness_emissive_roughness": "#0000FF"
+            "global_metalness_emissive_roughness": [
+                0,
+                0,
+                255
+            ]
         },
         "particles": {
-            "global_metalness_emissive_roughness": "#0000FF"
+            "global_metalness_emissive_roughness": [
+                0,
+                0,
+                255
+            ]
         }
     },
     "point_lights": {
