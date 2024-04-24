@@ -912,12 +912,6 @@
         "door_dark_oak_upper_heightmap": [
             "door_dark_oak_upper"
         ],
-        "door_iron_lower_heightmap": [
-            "door_iron_lower"
-        ],
-        "door_iron_upper_heightmap": [
-            "door_iron_upper"
-        ],
         "door_jungle_lower_heightmap": [
             "door_jungle_lower"
         ],
@@ -931,9 +925,11 @@
             "door_spruce_upper"
         ],
         "door_wood_lower_heightmap": [
-            "door_wood_lower"
+            "door_wood_lower",
+            "door_iron_lower"
         ],
         "door_wood_upper_heightmap": [
+            "door_iron_upper",
             "door_wood_upper"
         ],
         "double_plant_fern_bottom_heightmap": [
@@ -2911,9 +2907,6 @@
             "127-0-127": [
                 "copper_block",
                 "cut_copper",
-                "door_iron_lower",
-                "door_iron_upper",
-                "iron_block",
                 "lightning_rod",
                 "polished_deepslate"
             ],
@@ -2924,11 +2917,6 @@
             "127-0-208": [
                 "raw_gold_block"
             ],
-            "127-0-255": [
-                "netherite_block",
-                "powder_snow",
-                "snow"
-            ],
             "127-11-0": [
                 "portal"
             ],
@@ -2937,9 +2925,6 @@
             ],
             "128-0-64": [
                 "ice_packed"
-            ],
-            "190-0-255": [
-                "iron_trapdoor"
             ],
             "192-0-230": [
                 "mob_spawner",
@@ -2973,7 +2958,7 @@
                 "amethyst_block",
                 "iron_bars"
             ],
-            "255-0-63": [
+            "230-0-192": [
                 "emerald_block"
             ],
             "255-1-255": [
@@ -2994,14 +2979,6 @@
                 "oxidized_cut_copper"
             ],
             "63-0-127": [
-                "quartz_block_bottom",
-                "quartz_block_chiseled",
-                "quartz_block_chiseled_top",
-                "quartz_block_lines",
-                "quartz_block_lines_top",
-                "quartz_block_side",
-                "quartz_block_top",
-                "quartz_bricks",
                 "repeater_off",
                 "weathered_copper",
                 "weathered_cut_copper"
@@ -3044,6 +3021,7 @@
                 "tinted_glass"
             ],
             "64-0-192": [
+                "netherite_block",
                 "smithing_table_top"
             ],
             "64-0-255": [
@@ -3062,17 +3040,12 @@
                 "cauldron_inner",
                 "cauldron_side",
                 "cauldron_top",
-                "chain1",
-                "chain2",
                 "frosted_ice_0",
                 "frosted_ice_1",
                 "frosted_ice_2",
                 "ice",
-                "water_flow",
-                "water_flow_grey",
-                "water_placeholder",
-                "water_still",
-                "water_still_grey"
+                "powder_snow",
+                "snow"
             ],
             "95-0-127": [
                 "exposed_copper",
@@ -3090,7 +3063,15 @@
                 "copper_door_bottom",
                 "copper_door_top",
                 "copper_grate",
-                "copper_trapdoor"
+                "copper_trapdoor",
+                "quartz_block_bottom",
+                "quartz_block_chiseled",
+                "quartz_block_chiseled_top",
+                "quartz_block_lines",
+                "quartz_block_lines_top",
+                "quartz_block_side",
+                "quartz_block_top",
+                "quartz_bricks"
             ],
             "17-0-192": [
                 "oxidized_chiseled_copper",
@@ -3105,6 +3086,19 @@
                 "weathered_copper_door_top",
                 "weathered_copper_grate",
                 "weathered_copper_trapdoor"
+            ],
+            "96-0-64": [
+                "iron_block",
+                "iron_trapdoor",
+                "door_iron_lower",
+                "door_iron_upper",
+                "water_flow",
+                "water_flow_grey",
+                "water_placeholder",
+                "water_still",
+                "water_still_grey",
+                "chain1",
+                "chain2"
             ]
         },
         "string": {
@@ -3595,6 +3589,12 @@
             ],
             "weathered_copper_bulb_powered_mer": [
                 "weathered_copper_bulb_powered"
+            ],
+            "endframe_top_mer": [
+                "endframe_top"
+            ],
+            "endframe_side_mer": [
+                "endframe_side"
             ]
         }
     },

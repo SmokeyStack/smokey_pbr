@@ -52,7 +52,7 @@
         "actors": {
             "global_metalness_emissive_roughness": [
                 0,
-                255,
+                0,
                 255
             ]
         },
