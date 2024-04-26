@@ -2548,10 +2548,8 @@
             "verdant_froglight_top"
         ],
         "vine_carried_heightmap": [
+            "vine",
             "vine_carried"
-        ],
-        "vine_heightmap": [
-            "vine"
         ],
         "warped_door_lower_heightmap": [
             "warped_door_lower"
@@ -3045,7 +3043,8 @@
                 "frosted_ice_2",
                 "ice",
                 "powder_snow",
-                "snow"
+                "snow",
+                "grass_side_snowed"
             ],
             "95-0-127": [
                 "exposed_copper",
