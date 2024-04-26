@@ -3,15 +3,6 @@ import shutil
 import sys
 from pathlib import Path
 
-if len(sys.argv)-1 < 2:
-    print("Too few arguments")
-    exit(1)
-
-src = os.path.join(os.getcwd(), sys.argv[1])
-dst = os.path.join(os.getcwd(), sys.argv[2])
-
-print("Copying " + src + " to " + dst)
-
 def copy_recursive(source_base_path, target_base_path):
     """
     Copy a directory tree from one location to another. This differs from shutil.copytree() that it does not
@@ -34,7 +25,7 @@ def copy_recursive(source_base_path, target_base_path):
             try:
                 os.mkdir(new_target_dir)
             except OSError:
-                sys.stderr.write("WARNING: Directory already exists: %s\n" % new_target_dir)
+                pass
 
             # Recurse
             new_source_dir = os.path.join(source_base_path, item)
@@ -47,4 +38,12 @@ def copy_recursive(source_base_path, target_base_path):
             if not Path(target_name).is_file():
                 shutil.copy(source_name, target_name)
 
-copy_recursive(src, dst)
+if __name__ == "__main__":
+    if len(sys.argv)-1 < 2:
+        print("Too few arguments")
+        exit(1)
+
+    source = os.path.join(os.getcwd(), sys.argv[1])
+    destination = os.path.join(os.getcwd(), sys.argv[2])
+    print(f'Copying {source} to {destination}')
+    copy_recursive(source, destination)

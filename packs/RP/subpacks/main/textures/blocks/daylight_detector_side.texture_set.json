@@ -1,7 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "daylight_detector_side",
-        "heightmap": "daylight_detector_side_heightmap"
-    }
-}

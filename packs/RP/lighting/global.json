@@ -1,0 +1,153 @@
+{
+    "directional_lights": {
+        "moon": {
+            "color": [
+                239,
+                235,
+                235,
+                255
+            ],
+            "illuminance": 0.32
+        },
+        "orbital_offset_degrees": 23.5,
+        "sun": {
+            "color": {
+                "0.0": [
+                    244,
+                    233,
+                    155,
+                    255
+                ],
+                "0.25": [
+                    250,
+                    214,
+                    165,
+                    255
+                ],
+                "0.75": [
+                    247,
+                    205,
+                    93,
+                    255
+                ]
+            },
+            "illuminance": {
+                "0.0": 0,
+                "0.2": 0,
+                "0.25": 295,
+                "0.55": 2945,
+                "0.6": 98321,
+                "0.65": 2945,
+                "0.75": 295,
+                "0.8": 0
+            }
+        }
+    },
+    "format_version": [
+        1,
+        0,
+        0
+    ],
+    "pbr": {
+        "actors": {
+            "global_metalness_emissive_roughness": [
+                0,
+                0,
+                255
+            ]
+        },
+        "blocks": {
+            "global_metalness_emissive_roughness": [
+                0,
+                0,
+                255
+            ]
+        },
+        "particles": {
+            "global_metalness_emissive_roughness": [
+                0,
+                0,
+                255
+            ]
+        }
+    },
+    "point_lights": {
+        "colors": {
+            "minecraft:amethyst_cluster": "#9966CC",
+            "minecraft:beacon": "#9CE0DD",
+            "minecraft:black_candle": "#000000",
+            "minecraft:blue_candle": "#005AFF",
+            "minecraft:brewing_stand": "#F76806",
+            "minecraft:brown_candle": "#AA875C",
+            "minecraft:brown_mushroom": "#8E6141",
+            "minecraft:calibrated_sculk_sensor": "#9966CC",
+            "minecraft:campfire": "#FFB109",
+            "minecraft:candle": "#FDEFCD",
+            "minecraft:cave_vines_body_with_berries": "#FF9900",
+            "minecraft:cave_vines_head_with_berries": "#FF9900",
+            "minecraft:conduit": "#0080FF",
+            "minecraft:crying_obsidian": "#681993",
+            "minecraft:cyan_candle": "#36BFA8",
+            "minecraft:dragon_egg": "#A15BE4",
+            "minecraft:enchanting_table": "#ACCFE6",
+            "minecraft:end_portal": "#2A292B",
+            "minecraft:end_rod": "#FFFFFF",
+            "minecraft:ender_chest": "#2A292B",
+            "minecraft:fire": "#FFB109",
+            "minecraft:glow_lichen": "#6F7872",
+            "minecraft:glowstone": "#FFF38A",
+            "minecraft:gray_candle": "#A1AEB1",
+            "minecraft:green_candle": "#57F287",
+            "minecraft:lantern": "#F88521",
+            "minecraft:large_amethyst_bud": "#9966CC",
+            "minecraft:lava_cauldron": "#F76806",
+            "minecraft:light_blue_candle": "#8FD8D8",
+            "minecraft:light_gray_candle": "#CACACA",
+            "minecraft:lime_candle": "#7AB226",
+            "minecraft:lit_blast_furnace": "#FFB109",
+            "minecraft:lit_deepslate_redstone_ore": "#ED1C24",
+            "minecraft:lit_furnace": "#FFB109",
+            "minecraft:lit_pumpkin": "#FF7518",
+            "minecraft:lit_redstone_lamp": "#F88521",
+            "minecraft:lit_redstone_ore": "#ED1C24",
+            "minecraft:lit_smoker": "#FFB109",
+            "minecraft:magenta_candle": "#A83EA2",
+            "minecraft:magma": "#F76806",
+            "minecraft:medium_amethyst_bud": "#9966CC",
+            "minecraft:ochre_froglight": "#BC7B36",
+            "minecraft:orange_candle": "#EA871E",
+            "minecraft:pearlescent_froglight": "#D1C4C6",
+            "minecraft:pink_candle": "#EAD0D6",
+            "minecraft:portal": "#681993",
+            "minecraft:purple_candle": "#5A247B",
+            "minecraft:red_candle": "#E31937",
+            "minecraft:redstone_torch": "#E41F24",
+            "minecraft:respawn_anchor": "#5E0A80",
+            "minecraft:sculk_catalyst": "#29DFEB",
+            "minecraft:sculk_sensor": "#29DFEB",
+            "minecraft:sea_lantern": "#80B2C9",
+            "minecraft:sea_pickle": "#93934A",
+            "minecraft:shroomlight": "#EAB689",
+            "minecraft:small_amethyst_bud": "#9966CC",
+            "minecraft:soul_campfire": "#3AD8DD",
+            "minecraft:soul_fire": "#3AD8DD",
+            "minecraft:soul_lantern": "#3AD8DD",
+            "minecraft:soul_torch": "#3AD8DD",
+            "minecraft:torch": "#FFB109",
+            "minecraft:verdant_froglight": "#8ACE31",
+            "minecraft:wall_torch": "#FFB109",
+            "minecraft:white_candle": "#FFFFFF",
+            "minecraft:yellow_candle": "#FFEB00",
+            "minecraft:copper_bulb": "#CE7C56",
+            "minecraft:exposed_copper_bulb": "#CE7C56",
+            "minecraft:weathered_copper_bulb": "#CE7C56",
+            "minecraft:oxidized_copper_bulb": "#CE7C56",
+            "minecraft:waxed_copper_bulb": "#CE7C56",
+            "minecraft:waxed_exposed_copper_bulb": "#CE7C56",
+            "minecraft:waxed_weathered_copper_bulb": "#CE7C56",
+            "minecraft:waxed_oxidized_copper_bulb": "#CE7C56",
+            "minecraft:vault": "#FFB109",
+            "minecraft:trial_spawner": "#FFB109"
+        }
+    }
+}

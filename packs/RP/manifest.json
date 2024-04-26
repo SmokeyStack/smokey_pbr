@@ -7,14 +7,14 @@
         "description": "This is an experimental pack that utilizes the RenderDragon pipeline",
         "min_engine_version": [
             1,
-            20,
-            60
+            21,
+            0
         ],
         "name": "SmokeyStack's Deferred Rendering Pack",
         "uuid": "67bc46a2-06d9-4f46-82f9-9009d9e81af5",
         "version": [
             0,
-            5,
+            7,
             0
         ]
     },
@@ -24,20 +24,35 @@
             "uuid": "a42ed34b-ed38-403f-b0ae-ac5f2ae9ae1d",
             "version": [
                 0,
-                5,
+                7,
                 0
             ]
         }
     ],
     "subpacks": [
         {
-            "folder_name": "update_1_21",
-            "name": "Update 1.21 - EXPERIMENTAL",
+            "folder_name": "aces",
+            "name": "ACES Tonemapper",
             "memory_tier": 0
         },
         {
-            "folder_name": "main",
-            "name": "Main",
+            "folder_name": "hable",
+            "name": "Hable Tonemapper",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "reinhard_luminance",
+            "name": "Reinhard Luminance Tonemapper",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "reinhard_luma",
+            "name": "Reinhard Luma Tonemapper",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "reinhard",
+            "name": "Reinhard Tonemapper",
             "memory_tier": 0
         }
     ]

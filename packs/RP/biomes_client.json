@@ -299,17 +299,17 @@
             "water_surface_color": "#0D8AE3"
         },
         "jungle_hills": {
-            "fog_identifier": "minecraft:fog_jungle_hills",
+            "fog_identifier": "smokey_pbr:fog_jungle_hills",
             "fog_ids_to_merge": [
-                "minecraft:fog_jungle_hills"
+                "smokey_pbr:fog_jungle_hills"
             ],
             "inherit_from_prior_fog": false,
             "water_surface_color": "#1B9ED8"
         },
         "jungle_mutated": {
-            "fog_identifier": "minecraft:fog_jungle_mutated",
+            "fog_identifier": "smokey_pbr:fog_jungle_mutated",
             "fog_ids_to_merge": [
-                "minecraft:fog_jungle_mutated"
+                "smokey_pbr:fog_jungle_mutated"
             ],
             "inherit_from_prior_fog": false,
             "water_surface_color": "#1B9ED8"
@@ -323,9 +323,9 @@
             "water_surface_color": "#0D96DB"
         },
         "mangrove_swamp": {
-            "fog_identifier": "minecraft:fog_mangrove_swamp",
+            "fog_identifier": "smokey_pbr:fog_mangrove_swamp",
             "fog_ids_to_merge": [
-                "minecraft:fog_mangrove_swamp"
+                "smokey_pbr:fog_mangrove_swamp"
             ],
             "inherit_from_prior_fog": false,
             "water_surface_color": "#3a7a6a"
@@ -371,41 +371,41 @@
             "water_surface_color": "#2d6d77"
         },
         "mesa": {
-            "fog_identifier": "minecraft:fog_mesa",
+            "fog_identifier": "smokey_pbr:fog_mesa",
             "fog_ids_to_merge": [
-                "minecraft:fog_mesa"
+                "smokey_pbr:fog_mesa"
             ],
             "inherit_from_prior_fog": false,
             "water_surface_color": "#4E7F81"
         },
         "mesa_bryce": {
-            "fog_identifier": "minecraft:fog_mesa_bryce",
+            "fog_identifier": "smokey_pbr:fog_mesa_bryce",
             "fog_ids_to_merge": [
-                "minecraft:fog_mesa_bryce"
+                "smokey_pbr:fog_mesa_bryce"
             ],
             "inherit_from_prior_fog": false,
             "water_surface_color": "#497F99"
         },
         "mesa_mutated": {
-            "fog_identifier": "minecraft:fog_mesa_mutated",
+            "fog_identifier": "smokey_pbr:fog_mesa_mutated",
             "fog_ids_to_merge": [
-                "minecraft:fog_mesa_mutated"
+                "smokey_pbr:fog_mesa_mutated"
             ],
             "inherit_from_prior_fog": false,
             "water_surface_color": "#497F99"
         },
         "mesa_plateau": {
-            "fog_identifier": "minecraft:fog_mesa_plateau",
+            "fog_identifier": "smokey_pbr:fog_mesa_plateau",
             "fog_ids_to_merge": [
-                "minecraft:fog_mesa_plateau"
+                "smokey_pbr:fog_mesa_plateau"
             ],
             "inherit_from_prior_fog": false,
             "water_surface_color": "#55809E"
         },
         "mesa_plateau_stone": {
-            "fog_identifier": "minecraft:fog_mesa_plateau_stone",
+            "fog_identifier": "smokey_pbr:fog_mesa_plateau_stone",
             "fog_ids_to_merge": [
-                "minecraft:fog_mesa_plateau_stone"
+                "smokey_pbr:fog_mesa_plateau_stone"
             ],
             "inherit_from_prior_fog": false,
             "water_surface_color": "#55809E"

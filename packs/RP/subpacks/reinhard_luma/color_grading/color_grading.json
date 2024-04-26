@@ -1,0 +1,10 @@
+{
+    "minecraft:color_grading_settings": {
+        "description": {
+            "identifier": "smokey_pbr:default_color_grading"
+        },
+        "tone_mapping": {
+            "operator": "reinhard_luma"
+        }
+    }
+}

@@ -1,7 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "spore_blossom_base",
-        "heightmap": "spore_blossom_base_heightmap"
-    }
-}

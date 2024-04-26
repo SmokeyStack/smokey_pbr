@@ -1,8 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "barrel_side",
-        "heightmap": "barrel_side_heightmap",
-        "metalness_emissive_roughness": "barrel_side_mer"
-    }
-}

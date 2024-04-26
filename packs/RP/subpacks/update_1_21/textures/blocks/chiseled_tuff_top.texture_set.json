@@ -1,7 +1,0 @@
-{
-    "format_version": "1.16.100",
-    "minecraft:texture_set": {
-        "color": "chiseled_tuff_top",
-        "heightmap": "chiseled_tuff_top_heightmap"
-    }
-}

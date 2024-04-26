@@ -1,0 +1,11 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "breeze_eyes",
+        "metalness_emissive_roughness": [
+            0,
+            1,
+            255
+        ]
+    }
+}

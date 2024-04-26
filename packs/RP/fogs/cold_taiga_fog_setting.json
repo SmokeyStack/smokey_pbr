@@ -6,10 +6,10 @@
         },
         "distance": {
             "air": {
-                "fog_color": "#FFFAFA",
-                "fog_end": 48,
-                "fog_start": 0,
-                "render_distance_type": "fixed"
+                "fog_color": "#C9CFD6",
+                "fog_end": 0.75,
+                "fog_start": 0.69,
+                "render_distance_type": "render"
             },
             "water": {
                 "fog_color": "#205E83",
@@ -30,34 +30,46 @@
                 }
             },
             "weather": {
-                "fog_color": "#FAFAFF",
-                "fog_end": 32,
-                "fog_start": 0,
-                "render_distance_type": "fixed"
+                "fog_color": "#C9CFD6",
+                "fog_end": 0.375,
+                "fog_start": 0.345,
+                "render_distance_type": "render"
             }
         },
         "volumetric": {
             "density": {
                 "air": {
-                    "max_density": 1.0,
+                    "max_density": 1,
                     "uniform": true
                 },
                 "water": {
-                    "max_density": 1.0,
+                    "max_density": 1,
                     "uniform": true
                 }
             },
             "media_coefficients": {
                 "air": {
-                    "scattering": [
-                        0.01,
-                        0.00980392156862745,
-                        0.00980392156862745
-                    ],
                     "absorption": [
-                        0.0010588235294117642,
-                        0.0004705882352941182,
-                        0.000117647058823529
+                        0,
+                        0,
+                        0
+                    ],
+                    "scattering": [
+                        0.09931764705882352,
+                        0.10228235294117648,
+                        0.10574117647058823
+                    ]
+                },
+                "water": {
+                    "absorption": [
+                        0.2,
+                        0.07874,
+                        0.083465
+                    ],
+                    "scattering": [
+                        0.01811,
+                        0.02126,
+                        0.027953
                     ]
                 }
             }
