@@ -31,8 +31,8 @@
             },
             "weather": {
                 "fog_color": "#F3F3F3",
-                "fog_end": 0.375,
-                "fog_start": 0,
+                "fog_end": 0.25,
+                "fog_start": 0.23,
                 "render_distance_type": "render"
             }
         },
@@ -43,7 +43,7 @@
                     "uniform": true
                 },
                 "water": {
-                    "max_density": 1.0,
+                    "max_density": 1,
                     "uniform": true
                 }
             },
@@ -55,9 +55,9 @@
                         0
                     ],
                     "scattering": [
-                        0.02,
-                        0.02,
-                        0.02
+                        0.252,
+                        0.252,
+                        0.252
                     ]
                 },
                 "water": {

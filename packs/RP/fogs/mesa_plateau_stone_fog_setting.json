@@ -6,9 +6,9 @@
         },
         "distance": {
             "air": {
-                "fog_color": "#D87F33",
+                "fog_color": "#B78771",
                 "fog_end": 0.5,
-                "fog_start": 0.092,
+                "fog_start": 0.46,
                 "render_distance_type": "render"
             },
             "water": {
@@ -30,9 +30,9 @@
                 }
             },
             "weather": {
-                "fog_color": "#D87F33",
-                "fog_end": 0.375,
-                "fog_start": 0,
+                "fog_color": "#B78771",
+                "fog_end": 0.25,
+                "fog_start": 0.23,
                 "render_distance_type": "render"
             }
         },
@@ -50,14 +50,14 @@
             "media_coefficients": {
                 "air": {
                     "absorption": [
-                        0.015294117647058824,
-                        0.05019607843137255,
-                        0.08
+                        0.2823529411764706,
+                        0.47058823529411764,
+                        0.5568627450980392
                     ],
                     "scattering": [
-                        0.008470588235294119,
-                        0.004980392156862745,
-                        0.002
+                        0.0904235294117647,
+                        0.06670588235294118,
+                        0.05583529411764706
                     ]
                 },
                 "water": {
