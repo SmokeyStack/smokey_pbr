@@ -3,6 +3,31 @@
         "description": {
             "identifier": "smokey_pbr:default_color_grading"
         },
+        "color_grading": {
+            "midtones": {
+                "saturation": [
+                    1.283558671151,
+                    1.283558671151,
+                    1.283558671151
+                ]
+            },
+            "highlights": {
+                "contrast": [
+                    1.375,
+                    1.375,
+                    1.375
+                ],
+                "highlightsMin": 1.885452432068
+            },
+            "shadows": {
+                "gamma": [
+                    2.15,
+                    2.15,
+                    2.15
+                ],
+                "shadowsMax": 0.885452432068
+            }
+        },
         "tone_mapping": {
             "operator": "reinhard"
         }
