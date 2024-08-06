@@ -12,34 +12,34 @@
         "orbital_offset_degrees": 23.5,
         "sun": {
             "color": {
-                "0.0": [
+                "0.25": [
+                    255,
+                    255,
+                    140,
+                    255
+                ],
+                "0.5": [
                     255,
                     255,
                     220,
                     255
                 ],
-                "0.25": [
-                    255,
-                    255,
-                    255,
-                    255
-                ],
                 "0.75": [
                     255,
                     255,
-                    140,
+                    255,
                     255
                 ]
             },
             "illuminance": {
-                "0.0": 0,
-                "0.2": 0,
+                "0.05": 2945,
+                "0.1": 98321,
+                "0.15": 2945,
                 "0.25": 295,
-                "0.55": 2945,
-                "0.6": 98321,
-                "0.65": 2945,
-                "0.75": 295,
-                "0.8": 0
+                "0.3": 0,
+                "0.5": 0,
+                "0.7": 0,
+                "0.75": 295
             }
         }
     },
@@ -57,6 +57,13 @@
             ]
         },
         "blocks": {
+            "global_metalness_emissive_roughness": [
+                0,
+                0,
+                255
+            ]
+        },
+        "items": {
             "global_metalness_emissive_roughness": [
                 0,
                 0,
@@ -86,6 +93,7 @@
             "minecraft:cave_vines_body_with_berries": "#FF9900",
             "minecraft:cave_vines_head_with_berries": "#FF9900",
             "minecraft:conduit": "#0080FF",
+            "minecraft:copper_bulb": "#CE7C56",
             "minecraft:crying_obsidian": "#681993",
             "minecraft:cyan_candle": "#36BFA8",
             "minecraft:dragon_egg": "#A15BE4",
@@ -93,6 +101,7 @@
             "minecraft:end_portal": "#2A292B",
             "minecraft:end_rod": "#FFFFFF",
             "minecraft:ender_chest": "#2A292B",
+            "minecraft:exposed_copper_bulb": "#CE7C56",
             "minecraft:fire": "#FFB109",
             "minecraft:glow_lichen": "#6F7872",
             "minecraft:glowstone": "#FFF38A",
@@ -116,6 +125,7 @@
             "minecraft:medium_amethyst_bud": "#9966CC",
             "minecraft:ochre_froglight": "#BC7B36",
             "minecraft:orange_candle": "#EA871E",
+            "minecraft:oxidized_copper_bulb": "#CE7C56",
             "minecraft:pearlescent_froglight": "#D1C4C6",
             "minecraft:pink_candle": "#EAD0D6",
             "minecraft:portal": "#681993",
@@ -134,20 +144,17 @@
             "minecraft:soul_lantern": "#3AD8DD",
             "minecraft:soul_torch": "#3AD8DD",
             "minecraft:torch": "#FFB109",
+            "minecraft:trial_spawner": "#FFB109",
+            "minecraft:vault": "#FFB109",
             "minecraft:verdant_froglight": "#8ACE31",
             "minecraft:wall_torch": "#FFB109",
-            "minecraft:white_candle": "#FFFFFF",
-            "minecraft:yellow_candle": "#FFEB00",
-            "minecraft:copper_bulb": "#CE7C56",
-            "minecraft:exposed_copper_bulb": "#CE7C56",
-            "minecraft:weathered_copper_bulb": "#CE7C56",
-            "minecraft:oxidized_copper_bulb": "#CE7C56",
             "minecraft:waxed_copper_bulb": "#CE7C56",
             "minecraft:waxed_exposed_copper_bulb": "#CE7C56",
-            "minecraft:waxed_weathered_copper_bulb": "#CE7C56",
             "minecraft:waxed_oxidized_copper_bulb": "#CE7C56",
-            "minecraft:vault": "#FFB109",
-            "minecraft:trial_spawner": "#FFB109"
+            "minecraft:waxed_weathered_copper_bulb": "#CE7C56",
+            "minecraft:weathered_copper_bulb": "#CE7C56",
+            "minecraft:white_candle": "#FFFFFF",
+            "minecraft:yellow_candle": "#FFEB00"
         }
     }
 }

@@ -370,9 +370,6 @@
         "carried_waterlily_heightmap": [
             "carried_waterlily"
         ],
-        "carrots_stage3_heightmap": [
-            "carrots_stage3"
-        ],
         "carrots_stage_0_heightmap": [
             "carrots_stage_0"
         ],
@@ -384,6 +381,9 @@
         ],
         "carrots_stage_3_heightmap": [
             "carrots_stage_3"
+        ],
+        "carrots_stage3_heightmap": [
+            "carrots_stage3"
         ],
         "cartography_table_side1_heightmap": [
             "cartography_table_side1"
@@ -427,12 +427,6 @@
         "cave_vines_head_heightmap": [
             "cave_vines_head"
         ],
-        "chain1_heightmap": [
-            "chain1"
-        ],
-        "chain2_heightmap": [
-            "chain2"
-        ],
         "chain_command_block_back_heightmap": [
             "chain_command_block_back"
         ],
@@ -456,6 +450,12 @@
         ],
         "chain_command_block_side_mipmap_heightmap": [
             "chain_command_block_side_mipmap"
+        ],
+        "chain1_heightmap": [
+            "chain1"
+        ],
+        "chain2_heightmap": [
+            "chain2"
         ],
         "cherry_door_bottom_heightmap": [
             "cherry_door_bottom"
@@ -490,6 +490,12 @@
         "chiseled_bookshelf_top_heightmap": [
             "chiseled_bookshelf_top"
         ],
+        "chiseled_copper_heightmap": [
+            "chiseled_copper",
+            "exposed_chiseled_copper",
+            "oxidized_chiseled_copper",
+            "weathered_chiseled_copper"
+        ],
         "chiseled_deepslate_heightmap": [
             "chiseled_deepslate"
         ],
@@ -498,6 +504,18 @@
         ],
         "chiseled_polished_blackstone_heightmap": [
             "chiseled_polished_blackstone"
+        ],
+        "chiseled_tuff_bricks_heightmap": [
+            "chiseled_tuff_bricks"
+        ],
+        "chiseled_tuff_bricks_top_heightmap": [
+            "chiseled_tuff_bricks_top"
+        ],
+        "chiseled_tuff_heightmap": [
+            "chiseled_tuff"
+        ],
+        "chiseled_tuff_top_heightmap": [
+            "chiseled_tuff_top"
         ],
         "chorus_flower_dead_heightmap": [
             "chorus_flower_dead"
@@ -703,6 +721,48 @@
             "oxidized_copper",
             "weathered_copper"
         ],
+        "copper_bulb_heightmap": [
+            "copper_bulb",
+            "copper_bulb_lit",
+            "copper_bulb_lit_powered",
+            "copper_bulb_powered",
+            "exposed_copper_bulb",
+            "exposed_copper_bulb_lit",
+            "exposed_copper_bulb_lit_powered",
+            "exposed_copper_bulb_powered",
+            "oxidized_copper_bulb",
+            "oxidized_copper_bulb_lit",
+            "oxidized_copper_bulb_lit_powered",
+            "oxidized_copper_bulb_powered",
+            "weathered_copper_bulb",
+            "weathered_copper_bulb_lit",
+            "weathered_copper_bulb_lit_powered",
+            "weathered_copper_bulb_powered"
+        ],
+        "copper_door_bottom_heightmap": [
+            "copper_door_bottom",
+            "exposed_copper_door_bottom",
+            "oxidized_copper_door_bottom",
+            "weathered_copper_door_bottom"
+        ],
+        "copper_door_top_heightmap": [
+            "copper_door_top",
+            "exposed_copper_door_top",
+            "oxidized_copper_door_top",
+            "weathered_copper_door_top"
+        ],
+        "copper_grate_heightmap": [
+            "copper_grate",
+            "exposed_copper_grate",
+            "oxidized_copper_grate",
+            "weathered_copper_grate"
+        ],
+        "copper_trapdoor_heightmap": [
+            "copper_trapdoor",
+            "exposed_copper_trapdoor",
+            "oxidized_copper_trapdoor",
+            "weathered_copper_trapdoor"
+        ],
         "coral_blue_dead_heightmap": [
             "coral_blue_dead"
         ],
@@ -798,6 +858,38 @@
         ],
         "cracked_polished_blackstone_bricks_heightmap": [
             "cracked_polished_blackstone_bricks"
+        ],
+        "crafter_bottom_heightmap": [
+            "crafter_bottom"
+        ],
+        "crafter_east_crafting_heightmap": [
+            "crafter_east_crafting"
+        ],
+        "crafter_east_heightmap": [
+            "crafter_east",
+            "crafter_east_triggered"
+        ],
+        "crafter_north_crafting_heightmap": [
+            "crafter_north_crafting"
+        ],
+        "crafter_north_heightmap": [
+            "crafter_north"
+        ],
+        "crafter_south_heightmap": [
+            "crafter_south",
+            "crafter_south_triggered"
+        ],
+        "crafter_top_heightmap": [
+            "crafter_top",
+            "crafter_top_crafting",
+            "crafter_top_triggered"
+        ],
+        "crafter_west_crafting_heightmap": [
+            "crafter_west_crafting"
+        ],
+        "crafter_west_heightmap": [
+            "crafter_west",
+            "crafter_west_triggered"
         ],
         "crafting_table_front_heightmap": [
             "crafting_table_front"
@@ -1070,6 +1162,9 @@
         "fletcher_table_top_heightmap": [
             "fletcher_table_top"
         ],
+        "flow_pottery_pattern_heightmap": [
+            "flow_pottery_pattern"
+        ],
         "flower_allium_heightmap": [
             "flower_allium"
         ],
@@ -1293,6 +1388,9 @@
         "grindstone_side_heightmap": [
             "grindstone_side"
         ],
+        "guster_pottery_pattern_heightmap": [
+            "guster_pottery_pattern"
+        ],
         "hanging_roots_heightmap": [
             "hanging_roots"
         ],
@@ -1355,6 +1453,9 @@
         ],
         "heartbreak_pottery_pattern_heightmap": [
             "heartbreak_pottery_pattern"
+        ],
+        "heavy_core_heightmap": [
+            "heavy_core"
         ],
         "honey_bottom_heightmap": [
             "honey_bottom"
@@ -1456,6 +1557,48 @@
         "lava_placeholder_heightmap": [
             "lava_placeholder"
         ],
+        "leaves_acacia_carried_heightmap": [
+            "leaves_acacia",
+            "leaves_acacia_carried"
+        ],
+        "leaves_acacia_opaque_heightmap": [
+            "leaves_acacia_opaque"
+        ],
+        "leaves_big_oak_carried_heightmap": [
+            "leaves_big_oak",
+            "leaves_big_oak_carried"
+        ],
+        "leaves_big_oak_opaque_heightmap": [
+            "leaves_big_oak_opaque"
+        ],
+        "leaves_birch_carried_heightmap": [
+            "leaves_birch",
+            "leaves_birch_carried"
+        ],
+        "leaves_birch_opaque_heightmap": [
+            "leaves_birch_opaque"
+        ],
+        "leaves_jungle_carried_heightmap": [
+            "leaves_jungle",
+            "leaves_jungle_carried"
+        ],
+        "leaves_jungle_opaque_heightmap": [
+            "leaves_jungle_opaque"
+        ],
+        "leaves_oak_carried_heightmap": [
+            "leaves_oak",
+            "leaves_oak_carried"
+        ],
+        "leaves_oak_opaque_heightmap": [
+            "leaves_oak_opaque"
+        ],
+        "leaves_spruce_carried_heightmap": [
+            "leaves_spruce",
+            "leaves_spruce_carried"
+        ],
+        "leaves_spruce_opaque_heightmap": [
+            "leaves_spruce_opaque"
+        ],
         "lectern_base_heightmap": [
             "lectern_base"
         ],
@@ -1528,6 +1671,10 @@
         ],
         "mangrove_door_top_heightmap": [
             "mangrove_door_top"
+        ],
+        "mangrove_leaves_carried_heightmap": [
+            "mangrove_leaves",
+            "mangrove_leaves_carried"
         ],
         "mangrove_log_side_heightmap": [
             "mangrove_log_side"
@@ -1776,6 +1923,9 @@
         ],
         "polished_deepslate_heightmap": [
             "polished_deepslate"
+        ],
+        "polished_tuff_heightmap": [
+            "polished_tuff"
         ],
         "portal_placeholder_heightmap": [
             "portal_placeholder"
@@ -2046,6 +2196,9 @@
         ],
         "scaffolding_top_heightmap": [
             "scaffolding_top"
+        ],
+        "scrape_pottery_pattern_heightmap": [
+            "scrape_pottery_pattern"
         ],
         "sculk_catalyst_bottom_heightmap": [
             "sculk_catalyst_bottom"
@@ -2362,18 +2515,6 @@
         "stonebrick_mossy_heightmap": [
             "stonebrick_mossy"
         ],
-        "stonecutter2_bottom_heightmap": [
-            "stonecutter2_bottom"
-        ],
-        "stonecutter2_saw_heightmap": [
-            "stonecutter2_saw"
-        ],
-        "stonecutter2_side_heightmap": [
-            "stonecutter2_side"
-        ],
-        "stonecutter2_top_heightmap": [
-            "stonecutter2_top"
-        ],
         "stonecutter_bottom_heightmap": [
             "stonecutter_bottom"
         ],
@@ -2385,6 +2526,18 @@
         ],
         "stonecutter_top_heightmap": [
             "stonecutter_top"
+        ],
+        "stonecutter2_bottom_heightmap": [
+            "stonecutter2_bottom"
+        ],
+        "stonecutter2_saw_heightmap": [
+            "stonecutter2_saw"
+        ],
+        "stonecutter2_side_heightmap": [
+            "stonecutter2_side"
+        ],
+        "stonecutter2_top_heightmap": [
+            "stonecutter2_top"
         ],
         "stripped_acacia_log_heightmap": [
             "stripped_acacia_log"
@@ -2517,11 +2670,36 @@
         "trapdoor_heightmap": [
             "trapdoor"
         ],
+        "trial_spawner_bottom_heightmap": [
+            "trial_spawner_bottom"
+        ],
+        "trial_spawner_side_heightmap": [
+            "trial_spawner_side",
+            "trial_spawner_side_active",
+            "trial_spawner_side_active_ominous",
+            "trial_spawner_side_inactive",
+            "trial_spawner_side_inactive_ominous"
+        ],
+        "trial_spawner_top_ejecting_reward_heightmap": [
+            "trial_spawner_top_ejecting_reward",
+            "trial_spawner_top_ejecting_reward_ominous"
+        ],
+        "trial_spawner_top_heightmap": [
+            "trial_spawner_top_active",
+            "trial_spawner_top_active_ominous",
+            "trial_spawner_top_inactive",
+            "trial_spawner_top_inactive_ominous",
+            "trial_spawner_top_open",
+            "trial_spawner_top_active"
+        ],
         "trip_wire_heightmap": [
             "trip_wire"
         ],
         "trip_wire_source_heightmap": [
             "trip_wire_source"
+        ],
+        "tuff_bricks_heightmap": [
+            "tuff_bricks"
         ],
         "tuff_heightmap": [
             "tuff"
@@ -2540,6 +2718,38 @@
         ],
         "twisting_vines_bottom_heightmap": [
             "twisting_vines_bottom"
+        ],
+        "vault_bottom_heightmap": [
+            "vault_bottom",
+            "vault_bottom_ominous"
+        ],
+        "vault_front_off_heightmap": [
+            "vault_front_ejecting",
+            "vault_front_off"
+        ],
+        "vault_front_off_ominous_heightmap": [
+            "vault_front_ejecting_ominous",
+            "vault_front_off_ominous"
+        ],
+        "vault_front_on_heightmap": [
+            "vault_front_on"
+        ],
+        "vault_front_on_ominous_heightmap": [
+            "vault_front_on_ominous"
+        ],
+        "vault_side_heightmap": [
+            "vault_side_off",
+            "vault_side_off_ominous",
+            "vault_side_on",
+            "vault_side_on_ominous"
+        ],
+        "vault_top_ejecting_heightmap": [
+            "vault_top_ejecting",
+            "vault_top_ejecting_ominous"
+        ],
+        "vault_top_heightmap": [
+            "vault_top",
+            "vault_top_ominous"
         ],
         "verdant_froglight_side_heightmap": [
             "verdant_froglight_side"
@@ -2667,222 +2877,20 @@
         ],
         "wool_colored_yellow_heightmap": [
             "wool_colored_yellow"
-        ],
-        "chiseled_copper_heightmap": [
-            "chiseled_copper",
-            "exposed_chiseled_copper",
-            "oxidized_chiseled_copper",
-            "weathered_chiseled_copper"
-        ],
-        "chiseled_tuff_bricks_heightmap": [
-            "chiseled_tuff_bricks"
-        ],
-        "chiseled_tuff_bricks_top_heightmap": [
-            "chiseled_tuff_bricks_top"
-        ],
-        "chiseled_tuff_heightmap": [
-            "chiseled_tuff"
-        ],
-        "chiseled_tuff_top_heightmap": [
-            "chiseled_tuff_top"
-        ],
-        "copper_bulb_heightmap": [
-            "copper_bulb",
-            "copper_bulb_lit",
-            "copper_bulb_lit_powered",
-            "copper_bulb_powered",
-            "exposed_copper_bulb",
-            "exposed_copper_bulb_lit",
-            "exposed_copper_bulb_lit_powered",
-            "exposed_copper_bulb_powered",
-            "oxidized_copper_bulb",
-            "oxidized_copper_bulb_lit",
-            "oxidized_copper_bulb_lit_powered",
-            "oxidized_copper_bulb_powered",
-            "weathered_copper_bulb",
-            "weathered_copper_bulb_lit",
-            "weathered_copper_bulb_lit_powered",
-            "weathered_copper_bulb_powered"
-        ],
-        "copper_door_bottom_heightmap": [
-            "copper_door_bottom",
-            "exposed_copper_door_bottom",
-            "oxidized_copper_door_bottom",
-            "weathered_copper_door_bottom"
-        ],
-        "copper_door_top_heightmap": [
-            "copper_door_top",
-            "exposed_copper_door_top",
-            "oxidized_copper_door_top",
-            "weathered_copper_door_top"
-        ],
-        "copper_grate_heightmap": [
-            "copper_grate",
-            "exposed_copper_grate",
-            "oxidized_copper_grate",
-            "weathered_copper_grate"
-        ],
-        "copper_trapdoor_heightmap": [
-            "copper_trapdoor",
-            "exposed_copper_trapdoor",
-            "oxidized_copper_trapdoor",
-            "weathered_copper_trapdoor"
-        ],
-        "crafter_bottom_heightmap": [
-            "crafter_bottom"
-        ],
-        "crafter_east_crafting_heightmap": [
-            "crafter_east_crafting"
-        ],
-        "crafter_east_heightmap": [
-            "crafter_east",
-            "crafter_east_triggered"
-        ],
-        "crafter_north_crafting_heightmap": [
-            "crafter_north_crafting"
-        ],
-        "crafter_north_heightmap": [
-            "crafter_north"
-        ],
-        "crafter_south_heightmap": [
-            "crafter_south",
-            "crafter_south_triggered"
-        ],
-        "crafter_top_heightmap": [
-            "crafter_top",
-            "crafter_top_crafting",
-            "crafter_top_triggered"
-        ],
-        "crafter_west_crafting_heightmap": [
-            "crafter_west_crafting"
-        ],
-        "crafter_west_heightmap": [
-            "crafter_west",
-            "crafter_west_triggered"
-        ],
-        "flow_pottery_pattern_heightmap": [
-            "flow_pottery_pattern"
-        ],
-        "guster_pottery_pattern_heightmap": [
-            "guster_pottery_pattern"
-        ],
-        "heavy_core_heightmap": [
-            "heavy_core"
-        ],
-        "polished_tuff_heightmap": [
-            "polished_tuff"
-        ],
-        "scrape_pottery_pattern_heightmap": [
-            "scrape_pottery_pattern"
-        ],
-        "trial_spawner_bottom_heightmap": [
-            "trial_spawner_bottom"
-        ],
-        "trial_spawner_side_heightmap": [
-            "trial_spawner_side",
-            "trial_spawner_side_active",
-            "trial_spawner_side_active_ominous",
-            "trial_spawner_side_inactive",
-            "trial_spawner_side_inactive_ominous"
-        ],
-        "trial_spawner_top_ejecting_reward_heightmap": [
-            "trial_spawner_top_ejecting_reward",
-            "trial_spawner_top_ejecting_reward_ominous"
-        ],
-        "trial_spawner_top_heightmap": [
-            "trial_spawner_top_active",
-            "trial_spawner_top_active_ominous",
-            "trial_spawner_top_inactive",
-            "trial_spawner_top_inactive_ominous",
-            "trial_spawner_top_open",
-            "trial_spawner_top_active"
-        ],
-        "tuff_bricks_heightmap": [
-            "tuff_bricks"
-        ],
-        "vault_bottom_heightmap": [
-            "vault_bottom",
-            "vault_bottom_ominous"
-        ],
-        "vault_front_off_heightmap": [
-            "vault_front_ejecting",
-            "vault_front_off"
-        ],
-        "vault_front_off_ominous_heightmap": [
-            "vault_front_ejecting_ominous",
-            "vault_front_off_ominous"
-        ],
-        "vault_front_on_heightmap": [
-            "vault_front_on"
-        ],
-        "vault_front_on_ominous_heightmap": [
-            "vault_front_on_ominous"
-        ],
-        "vault_side_heightmap": [
-            "vault_side_off",
-            "vault_side_off_ominous",
-            "vault_side_on",
-            "vault_side_on_ominous"
-        ],
-        "vault_top_ejecting_heightmap": [
-            "vault_top_ejecting",
-            "vault_top_ejecting_ominous"
-        ],
-        "vault_top_heightmap": [
-            "vault_top",
-            "vault_top_ominous"
-        ],
-        "leaves_jungle_carried_heightmap": [
-            "leaves_jungle",
-            "leaves_jungle_carried"
-        ],
-        "leaves_jungle_opaque_heightmap": [
-            "leaves_jungle_opaque"
-        ],
-        "leaves_oak_carried_heightmap": [
-            "leaves_oak",
-            "leaves_oak_carried"
-        ],
-        "leaves_oak_opaque_heightmap": [
-            "leaves_oak_opaque"
-        ],
-        "leaves_acacia_carried_heightmap": [
-            "leaves_acacia",
-            "leaves_acacia_carried"
-        ],
-        "leaves_acacia_opaque_heightmap": [
-            "leaves_acacia_opaque"
-        ],
-        "leaves_big_oak_carried_heightmap": [
-            "leaves_big_oak",
-            "leaves_big_oak_carried"
-        ],
-        "leaves_big_oak_opaque_heightmap": [
-            "leaves_big_oak_opaque"
-        ],
-        "leaves_birch_carried_heightmap": [
-            "leaves_birch",
-            "leaves_birch_carried"
-        ],
-        "leaves_birch_opaque_heightmap": [
-            "leaves_birch_opaque"
-        ],
-        "leaves_spruce_carried_heightmap": [
-            "leaves_spruce",
-            "leaves_spruce_carried"
-        ],
-        "leaves_spruce_opaque_heightmap": [
-            "leaves_spruce_opaque"
-        ],
-        "mangrove_leaves_carried_heightmap": [
-            "mangrove_leaves",
-            "mangrove_leaves_carried"
         ]
     },
     "mer": {
         "array": {
+            "0-0-255-255": [
+                "leaves_birch",
+                "leaves_birch_carried",
+                "leaves_birch_opaque"
+            ],
             "0-1-255": [
                 "mushroom_brown"
+            ],
+            "0-7-255": [
+                "glow_lichen"
             ],
             "0-15-255": [
                 "lava_flow",
@@ -2899,78 +2907,12 @@
             "0-17-64": [
                 "sculk_sensor_tendril_active"
             ],
-            "0-7-255": [
-                "glow_lichen"
-            ],
-            "127-0-127": [
-                "copper_block",
-                "cut_copper",
-                "lightning_rod",
-                "polished_deepslate"
-            ],
-            "127-0-144": [
-                "raw_copper_block",
-                "raw_iron_block"
-            ],
-            "127-0-208": [
-                "raw_gold_block"
-            ],
-            "127-11-0": [
-                "portal"
-            ],
-            "127-15-255": [
-                "glowstone"
-            ],
-            "128-0-64": [
-                "ice_packed"
-            ],
-            "192-0-230": [
-                "mob_spawner",
-                "trial_spawner_bottom",
-                "vault_bottom",
-                "vault_bottom_ominous",
-                "vault_top",
-                "vault_top_ejecting",
-                "vault_top_ejecting_ominous",
-                "vault_top_ominous"
-            ],
-            "192-0-64": [
-                "blue_ice",
-                "frosted_ice_3"
-            ],
-            "255-0-127": [
-                "budding_amethyst"
-            ],
-            "255-0-192": [
-                "ancient_debris_side",
-                "ancient_debris_top",
-                "anvil_base",
-                "anvil_top_damaged_0",
-                "anvil_top_damaged_1",
-                "anvil_top_damaged_2",
-                "hopper_inside",
-                "hopper_outside",
-                "hopper_top"
-            ],
-            "255-0-255": [
-                "amethyst_block",
-                "iron_bars"
-            ],
-            "230-0-192": [
-                "emerald_block"
-            ],
-            "255-1-255": [
-                "calibrated_sculk_sensor_amethyst",
-                "small_amethyst_bud"
-            ],
-            "255-2-255": [
-                "medium_amethyst_bud"
-            ],
-            "255-4-255": [
-                "large_amethyst_bud"
-            ],
-            "255-5-255": [
-                "amethyst_cluster"
+            "17-0-192": [
+                "oxidized_chiseled_copper",
+                "oxidized_copper_door_bottom",
+                "oxidized_copper_door_top",
+                "oxidized_copper_grate",
+                "oxidized_copper_trapdoor"
             ],
             "31-0-127": [
                 "oxidized_copper",
@@ -3018,18 +2960,6 @@
                 "glass_yellow",
                 "tinted_glass"
             ],
-            "64-0-192": [
-                "netherite_block",
-                "smithing_table_top"
-            ],
-            "64-0-255": [
-                "honeycomb",
-                "honey_bottom",
-                "honey_side",
-                "honey_top",
-                "obsidian",
-                "crafter_top"
-            ],
             "64-0-64": [
                 "bell_bottom",
                 "bell_side",
@@ -3046,9 +2976,41 @@
                 "snow",
                 "grass_side_snowed"
             ],
+            "64-0-192": [
+                "netherite_block",
+                "smithing_table_top"
+            ],
+            "64-0-255": [
+                "honeycomb",
+                "honey_bottom",
+                "honey_side",
+                "honey_top",
+                "obsidian",
+                "crafter_top"
+            ],
+            "66-0-192": [
+                "weathered_chiseled_copper",
+                "weathered_copper_door_bottom",
+                "weathered_copper_door_top",
+                "weathered_copper_grate",
+                "weathered_copper_trapdoor"
+            ],
             "95-0-127": [
                 "exposed_copper",
                 "exposed_cut_copper"
+            ],
+            "96-0-64": [
+                "iron_block",
+                "iron_trapdoor",
+                "door_iron_lower",
+                "door_iron_upper",
+                "water_flow",
+                "water_flow_grey",
+                "water_placeholder",
+                "water_still",
+                "water_still_grey",
+                "chain1",
+                "chain2"
             ],
             "115-0-192": [
                 "exposed_chiseled_copper",
@@ -3056,6 +3018,28 @@
                 "exposed_copper_door_top",
                 "exposed_copper_grate",
                 "exposed_copper_trapdoor"
+            ],
+            "127-0-127": [
+                "copper_block",
+                "cut_copper",
+                "lightning_rod",
+                "polished_deepslate"
+            ],
+            "127-0-144": [
+                "raw_copper_block",
+                "raw_iron_block"
+            ],
+            "127-0-208": [
+                "raw_gold_block"
+            ],
+            "127-11-0": [
+                "portal"
+            ],
+            "127-15-255": [
+                "glowstone"
+            ],
+            "128-0-64": [
+                "ice_packed"
             ],
             "164-0-192": [
                 "chiseled_copper",
@@ -3072,32 +3056,53 @@
                 "quartz_block_top",
                 "quartz_bricks"
             ],
-            "17-0-192": [
-                "oxidized_chiseled_copper",
-                "oxidized_copper_door_bottom",
-                "oxidized_copper_door_top",
-                "oxidized_copper_grate",
-                "oxidized_copper_trapdoor"
+            "192-0-64": [
+                "blue_ice",
+                "frosted_ice_3"
             ],
-            "66-0-192": [
-                "weathered_chiseled_copper",
-                "weathered_copper_door_bottom",
-                "weathered_copper_door_top",
-                "weathered_copper_grate",
-                "weathered_copper_trapdoor"
+            "192-0-230": [
+                "mob_spawner",
+                "trial_spawner_bottom",
+                "vault_bottom",
+                "vault_bottom_ominous",
+                "vault_top",
+                "vault_top_ejecting",
+                "vault_top_ejecting_ominous",
+                "vault_top_ominous"
             ],
-            "96-0-64": [
-                "iron_block",
-                "iron_trapdoor",
-                "door_iron_lower",
-                "door_iron_upper",
-                "water_flow",
-                "water_flow_grey",
-                "water_placeholder",
-                "water_still",
-                "water_still_grey",
-                "chain1",
-                "chain2"
+            "230-0-192": [
+                "emerald_block"
+            ],
+            "255-0-127": [
+                "budding_amethyst"
+            ],
+            "255-0-192": [
+                "ancient_debris_side",
+                "ancient_debris_top",
+                "anvil_base",
+                "anvil_top_damaged_0",
+                "anvil_top_damaged_1",
+                "anvil_top_damaged_2",
+                "hopper_inside",
+                "hopper_outside",
+                "hopper_top"
+            ],
+            "255-0-255": [
+                "amethyst_block",
+                "iron_bars"
+            ],
+            "255-1-255": [
+                "calibrated_sculk_sensor_amethyst",
+                "small_amethyst_bud"
+            ],
+            "255-2-255": [
+                "medium_amethyst_bud"
+            ],
+            "255-4-255": [
+                "large_amethyst_bud"
+            ],
+            "255-5-255": [
+                "amethyst_cluster"
             ]
         },
         "string": {
@@ -3189,9 +3194,51 @@
             "conduit_open_mer": [
                 "conduit_open"
             ],
+            "copper_bulb_lit_mer": [
+                "copper_bulb_lit"
+            ],
+            "copper_bulb_lit_powered_mer": [
+                "copper_bulb_lit_powered"
+            ],
+            "copper_bulb_mer": [
+                "copper_bulb"
+            ],
+            "copper_bulb_powered_mer": [
+                "copper_bulb_powered"
+            ],
             "copper_ore_mer": [
                 "copper_ore",
                 "deepslate_copper_ore"
+            ],
+            "crafter_east_crafting_mer": [
+                "crafter_east_crafting",
+                "crafter_east_triggered"
+            ],
+            "crafter_east_mer": [
+                "crafter_east",
+                "crafter_west"
+            ],
+            "crafter_north_crafting_mer": [
+                "crafter_north_crafting"
+            ],
+            "crafter_north_mer": [
+                "crafter_north"
+            ],
+            "crafter_south_mer": [
+                "crafter_south"
+            ],
+            "crafter_south_triggered_mer": [
+                "crafter_south_triggered"
+            ],
+            "crafter_top_crafting_mer": [
+                "crafter_top_crafting"
+            ],
+            "crafter_top_triggered_mer": [
+                "crafter_top_triggered"
+            ],
+            "crafter_west_crafting_mer": [
+                "crafter_west_crafting",
+                "crafter_west_triggered"
             ],
             "crafting_table_front_mer": [
                 "crafting_table_front"
@@ -3262,6 +3309,24 @@
             "end_rod_mer": [
                 "end_rod"
             ],
+            "endframe_side_mer": [
+                "endframe_side"
+            ],
+            "endframe_top_mer": [
+                "endframe_top"
+            ],
+            "exposed_copper_bulb_lit_mer": [
+                "exposed_copper_bulb_lit"
+            ],
+            "exposed_copper_bulb_lit_powered_mer": [
+                "exposed_copper_bulb_lit_powered"
+            ],
+            "exposed_copper_bulb_mer": [
+                "exposed_copper_bulb"
+            ],
+            "exposed_copper_bulb_powered_mer": [
+                "exposed_copper_bulb_powered"
+            ],
             "fire_0_mer": [
                 "fire_0"
             ],
@@ -3299,6 +3364,18 @@
             ],
             "observer_back_lit_mer": [
                 "observer_back_lit"
+            ],
+            "oxidized_copper_bulb_lit_mer": [
+                "oxidized_copper_bulb_lit"
+            ],
+            "oxidized_copper_bulb_lit_powered_mer": [
+                "oxidized_copper_bulb_lit_powered"
+            ],
+            "oxidized_copper_bulb_mer": [
+                "oxidized_copper_bulb"
+            ],
+            "oxidized_copper_bulb_powered_mer": [
+                "oxidized_copper_bulb_powered"
             ],
             "piston_side_mer": [
                 "piston_side"
@@ -3426,11 +3503,11 @@
             "smoker_side_mer": [
                 "smoker_side"
             ],
-            "soul_campfire_mer": [
-                "soul_campfire"
-            ],
             "soul_campfire_log_lit_mer": [
                 "soul_campfire_log_lit"
+            ],
+            "soul_campfire_mer": [
+                "soul_campfire"
             ],
             "soul_fire_0_mer": [
                 "soul_fire_0"
@@ -3457,78 +3534,6 @@
             ],
             "torch_on_mer": [
                 "torch_on"
-            ],
-            "warped_door_lower_mer": [
-                "warped_door_lower"
-            ],
-            "warped_door_top_mer": [
-                "warped_door_top"
-            ],
-            "copper_bulb_lit_mer": [
-                "copper_bulb_lit"
-            ],
-            "copper_bulb_lit_powered_mer": [
-                "copper_bulb_lit_powered"
-            ],
-            "copper_bulb_mer": [
-                "copper_bulb"
-            ],
-            "copper_bulb_powered_mer": [
-                "copper_bulb_powered"
-            ],
-            "crafter_east_crafting_mer": [
-                "crafter_east_crafting",
-                "crafter_east_triggered"
-            ],
-            "crafter_east_mer": [
-                "crafter_east",
-                "crafter_west"
-            ],
-            "crafter_north_crafting_mer": [
-                "crafter_north_crafting"
-            ],
-            "crafter_north_mer": [
-                "crafter_north"
-            ],
-            "crafter_south_mer": [
-                "crafter_south"
-            ],
-            "crafter_south_triggered_mer": [
-                "crafter_south_triggered"
-            ],
-            "crafter_top_crafting_mer": [
-                "crafter_top_crafting"
-            ],
-            "crafter_top_triggered_mer": [
-                "crafter_top_triggered"
-            ],
-            "crafter_west_crafting_mer": [
-                "crafter_west_crafting",
-                "crafter_west_triggered"
-            ],
-            "exposed_copper_bulb_lit_mer": [
-                "exposed_copper_bulb_lit"
-            ],
-            "exposed_copper_bulb_lit_powered_mer": [
-                "exposed_copper_bulb_lit_powered"
-            ],
-            "exposed_copper_bulb_mer": [
-                "exposed_copper_bulb"
-            ],
-            "exposed_copper_bulb_powered_mer": [
-                "exposed_copper_bulb_powered"
-            ],
-            "oxidized_copper_bulb_lit_mer": [
-                "oxidized_copper_bulb_lit"
-            ],
-            "oxidized_copper_bulb_lit_powered_mer": [
-                "oxidized_copper_bulb_lit_powered"
-            ],
-            "oxidized_copper_bulb_mer": [
-                "oxidized_copper_bulb"
-            ],
-            "oxidized_copper_bulb_powered_mer": [
-                "oxidized_copper_bulb_powered"
             ],
             "trial_spawner_side_active_mer": [
                 "trial_spawner_side",
@@ -3577,6 +3582,12 @@
                 "vault_side_on",
                 "vault_side_on_ominous"
             ],
+            "warped_door_lower_mer": [
+                "warped_door_lower"
+            ],
+            "warped_door_top_mer": [
+                "warped_door_top"
+            ],
             "weathered_copper_bulb_lit_mer": [
                 "weathered_copper_bulb_lit"
             ],
@@ -3588,12 +3599,6 @@
             ],
             "weathered_copper_bulb_powered_mer": [
                 "weathered_copper_bulb_powered"
-            ],
-            "endframe_top_mer": [
-                "endframe_top"
-            ],
-            "endframe_side_mer": [
-                "endframe_side"
             ]
         }
     },
@@ -3641,14 +3646,6 @@
         "redstone_ore_n": [
             "redstone_ore",
             "deepslate_redstone_ore"
-        ],
-        "water_n": [
-            "lava_still",
-            "water_still",
-            "water_still_grey",
-            "water_flow",
-            "water_flow_grey",
-            "water_placeholder"
         ]
     }
 }

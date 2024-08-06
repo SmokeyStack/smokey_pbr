@@ -67,7 +67,7 @@ def find_file(name, path):
 
 def create_texture_set(file_name, root, folder_name):
     texture_set={
-        'format_version': '1.16.100',
+        'format_version': '1.21.30',
         'minecraft:texture_set': {
             'color': file_name
         }
@@ -75,7 +75,13 @@ def create_texture_set(file_name, root, folder_name):
 
     for key, value in config['mer']['array'].items():
         if file_name in value:
-            texture_set['minecraft:texture_set']['metalness_emissive_roughness'] = list(map(int, key.split('-')))
+            count = list(map(int, key.split('-')))
+            if len(count) == 3:
+                texture_set['minecraft:texture_set']['metalness_emissive_roughness'] = count
+            elif len(count) == 4:
+                texture_set['minecraft:texture_set']['metalness_emissive_roughness_subsurface'] = count
+            else:
+                raise Exception("Invalid MER array")
 
     for key, value in config['mer']['string'].items():
         if file_name in value:
