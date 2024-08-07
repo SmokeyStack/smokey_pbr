@@ -1,5 +1,5 @@
 {
-    "format_version": "1.16.100",
+    "format_version": "1.21.10",
     "minecraft:fog_settings": {
         "description": {
             "identifier": "smokey_pbr:fog_default"
@@ -58,6 +58,10 @@
                 "water": {
                     "max_density": 0.25,
                     "uniform": true
+                },
+                "weather": {
+                    "max_density": 0.35,
+                    "uniform": true
                 }
             },
             "media_coefficients": {
@@ -71,6 +75,18 @@
                         0.252,
                         0.252,
                         0.252
+                    ]
+                },
+                "cloud": {
+                    "absorption": [
+                        0.252,
+                        0.252,
+                        0.252
+                    ],
+                    "scattering": [
+                        0.63,
+                        0.63,
+                        0.63
                     ]
                 },
                 "water": {

@@ -67,7 +67,7 @@ def find_file(name, path):
 
 def create_texture_set(file_name, root, folder_name):
     texture_set={
-        'format_version': '1.16.100',
+        'format_version': '1.21.30',
         'minecraft:texture_set': {
             'color': file_name
         }
@@ -75,27 +75,33 @@ def create_texture_set(file_name, root, folder_name):
 
     for key, value in config['mer']['array'].items():
         if file_name in value:
-            texture_set['minecraft:texture_set']['metalness_emissive_roughness'] = list(map(int, key.split('-')))
+            count = list(map(int, key.split('-')))
+            if len(count) == 3:
+                texture_set['minecraft:texture_set']['metalness_emissive_roughness'] = count
+            elif len(count) == 4:
+                texture_set['minecraft:texture_set']['metalness_emissive_roughness_subsurface'] = count
+            else:
+                raise Exception("Invalid MER array")
 
     for key, value in config['mer']['string'].items():
         if file_name in value:
             texture_set['minecraft:texture_set']['metalness_emissive_roughness'] = key
             path = find_file(key + '.png', f'data/{folder_name}/mer')
-            shutil.copy(f'{path}/{key}.png', f'RP/subpacks/{folder_name}/textures/{root[10+len(folder_name):]}/{key}.png')
+            shutil.copy(f'{path}/{key}.png', f'RP/textures/{root[10+len(folder_name):]}/{key}.png')
 
     for key, value in config['heightmap'].items():
         if file_name in value:
             texture_set['minecraft:texture_set']['heightmap'] = key
             path = find_file(key + '.png', f'data/{folder_name}/heightmap')
-            shutil.copy(f'{path}/{key}.png', f'RP/subpacks/{folder_name}/textures/{root[10+len(folder_name):]}/{key}.png')
+            shutil.copy(f'{path}/{key}.png', f'RP/textures/{root[10+len(folder_name):]}/{key}.png')
 
     for key, value in config['normal'].items():
         if file_name in value:
             texture_set['minecraft:texture_set']['normal'] = key
             path = find_file(key + '.png', f'data/{folder_name}/normal')
-            shutil.copy(f'{path}/{key}.png', f'RP/subpacks/{folder_name}/textures/{root[10+len(folder_name):]}/{key}.png')
+            shutil.copy(f'{path}/{key}.png', f'RP/textures/{root[10+len(folder_name):]}/{key}.png')
 
-    with open(f'RP/subpacks/{folder_name}/textures/{root[10+len(folder_name):]}/{file_name}.texture_set.json', 'w') as file:
+    with open(f'RP/textures/{root[10+len(folder_name):]}/{file_name}.texture_set.json', 'w') as file:
         json.dump(texture_set, file, sort_keys=True, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
@@ -105,7 +111,7 @@ if __name__ == "__main__":
     
     for a in range(1, len(sys.argv)):
         source = os.path.join(os.getcwd(), f'data/{sys.argv[a]}/src')
-        destination = os.path.join(os.getcwd(), f'RP/subpacks/{sys.argv[a]}/textures')
+        destination = os.path.join(os.getcwd(), f'RP/textures')
         print(f'Copying {source} to {destination}')
         copy_recursive(source, destination)
         print(f'Tweaking MER for {sys.argv[a]}')
