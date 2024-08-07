@@ -8,7 +8,7 @@
         "min_engine_version": [
             1,
             21,
-            20
+            30
         ],
         "name": "SmokeyStack's Deferred Rendering Pack",
         "uuid": "67bc46a2-06d9-4f46-82f9-9009d9e81af5",
