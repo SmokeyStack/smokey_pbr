@@ -1,0 +1,35 @@
+{
+    "minecraft:pbr_fallback_settings": {
+        "format_version": "1.21.40",
+        "pbr": {
+            "actors": {
+                "global_metalness_emissive_roughness": [
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "blocks": {
+                "global_metalness_emissive_roughness": [
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "items": {
+                "global_metalness_emissive_roughness": [
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "particles": {
+                "global_metalness_emissive_roughness": [
+                    0,
+                    0,
+                    255
+                ]
+            }
+        }
+    }
+}

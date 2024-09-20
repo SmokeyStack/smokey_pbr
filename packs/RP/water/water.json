@@ -1,5 +1,6 @@
 {
     "minecraft:water_settings": {
+        "format_version": "1.21.40",
         "description": {
             "identifier": "smokey_pbr:default_water"
         },

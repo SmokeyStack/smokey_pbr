@@ -1,5 +1,6 @@
 {
     "minecraft:color_grading_settings": {
+        "format_version": "1.21.40",
         "description": {
             "identifier": "smokey_pbr:default_color_grading"
         },

@@ -2886,6 +2886,13 @@
                 "leaves_birch_carried",
                 "leaves_birch_opaque"
             ],
+            "0-0-255": [
+                "water_flow_grey",
+                "water_flow",
+                "water_placeholder",
+                "water_still_grey",
+                "water_still"
+            ],
             "0-1-255": [
                 "mushroom_brown"
             ],

@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/Bedrock-OSS/regolith-schemas/main/config/v1.1.json",
+	"$schema": "https://raw.githubusercontent.com/Bedrock-OSS/regolith-schemas/main/config/v1.4.json",
 	"author": "SmokeyStack",
 	"name": "smokey_pbr",
 	"packs": {
@@ -10,14 +10,15 @@
 		"dataPath": "./packs/data",
 		"filterDefinitions": {
 			"pbr-build": {
-				"script": "./filters/pbr-build.py",
-				"runWith": "python"
+				"runWith": "python",
+				"script": "./filters/pbr-build.py"
 			},
 			"pbr-subpack": {
-				"script": "./filters/pbr-subpack.py",
-				"runWith": "python"
+				"runWith": "python",
+				"script": "./filters/pbr-subpack.py"
 			}
 		},
+		"formatVersion": "1.4.0",
 		"profiles": {
 			"build": {
 				"export": {
@@ -35,8 +36,9 @@
 			},
 			"dev": {
 				"export": {
+					"build": "preview",
 					"readOnly": false,
-					"target": "preview"
+					"target": "development"
 				},
 				"filters": [
 					{

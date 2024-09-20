@@ -2,3 +2,7 @@
 /.regolith
 /env
 /particles
+/scripts
+*.mcpack
+*.txt
+*.md
