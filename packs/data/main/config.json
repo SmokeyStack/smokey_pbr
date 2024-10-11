@@ -1649,7 +1649,8 @@
             "log_spruce_top",
             "mangrove_log_top",
             "crimson_log_top",
-            "warped_stem_top"
+            "warped_stem_top",
+            "pale_oak_log_top"
         ],
         "loom_bottom_heightmap": [
             "loom_bottom"
@@ -1719,7 +1720,8 @@
             "mob_spawner"
         ],
         "moss_block_heightmap": [
-            "moss_block"
+            "moss_block",
+            "pale_moss_block"
         ],
         "mourner_pottery_pattern_heightmap": [
             "mourner_pottery_pattern"
@@ -1877,7 +1879,8 @@
             "planks_oak",
             "planks_spruce",
             "crimson_planks",
-            "warped_planks"
+            "warped_planks",
+            "pale_oak_planks"
         ],
         "plenty_pottery_pattern_heightmap": [
             "plenty_pottery_pattern"
@@ -1959,9 +1962,6 @@
         ],
         "potted_flowering_azalea_bush_top_heightmap": [
             "potted_flowering_azalea_bush_top"
-        ],
-        "powder_snow_heightmap": [
-            "powder_snow"
         ],
         "prismarine_bricks_heightmap": [
             "prismarine_bricks"
@@ -2443,9 +2443,7 @@
         "snort_pottery_pattern_heightmap": [
             "snort_pottery_pattern"
         ],
-        "snow_heightmap": [
-            "snow"
-        ],
+        "snow_heightmap": [],
         "soul_campfire_heightmap": [
             "soul_campfire"
         ],
@@ -2462,7 +2460,9 @@
             "soul_sand"
         ],
         "soul_soil_heightmap": [
-            "soul_soil"
+            "soul_soil",
+            "snow",
+            "powder_snow"
         ],
         "sponge_heightmap": [
             "sponge"
@@ -2564,7 +2564,8 @@
             "stripped_oak_log_top",
             "stripped_spruce_log_top",
             "stripped_crimson_stem_top",
-            "stripped_warped_stem_top"
+            "stripped_warped_stem_top",
+            "stripped_pale_oak_log_top"
         ],
         "stripped_mangrove_log_side_heightmap": [
             "stripped_mangrove_log_side"
@@ -2877,6 +2878,50 @@
         ],
         "wool_colored_yellow_heightmap": [
             "wool_colored_yellow"
+        ],
+        "creaking_heart_side_heightmap": [
+            "creaking_heart_side_active",
+            "creaking_heart_side_inactive"
+        ],
+        "creaking_heart_top_heightmap": [
+            "creaking_heart_top_active",
+            "creaking_heart_top_inactive"
+        ],
+        "pale_hanging_moss_middle_heightmap": [
+            "pale_hanging_moss_middle"
+        ],
+        "pale_hanging_moss_tip_heightmap": [
+            "pale_hanging_moss_tip"
+        ],
+        "pale_moss_carpet_side_base_heightmap": [
+            "pale_moss_carpet_side_base"
+        ],
+        "pale_moss_carpet_side_tip_heightmap": [
+            "pale_moss_carpet_side_tip"
+        ],
+        "pale_oak_door_bottom_heightmap": [
+            "pale_oak_door_bottom"
+        ],
+        "pale_oak_door_top_heightmap": [
+            "pale_oak_door_top"
+        ],
+        "pale_oak_leaves_heightmap": [
+            "pale_oak_leaves"
+        ],
+        "pale_oak_leaves_opaque_heightmap": [
+            "pale_oak_leaves_opaque"
+        ],
+        "pale_oak_log_side_heightmap": [
+            "pale_oak_log_side"
+        ],
+        "pale_oak_sapling_heightmap": [
+            "pale_oak_sapling"
+        ],
+        "pale_oak_trapdoor_heightmap": [
+            "pale_oak_trapdoor"
+        ],
+        "stripped_pale_oak_log_side_heightmap": [
+            "stripped_pale_oak_log_side"
         ]
     },
     "mer": {
@@ -3601,6 +3646,12 @@
             ],
             "weathered_copper_bulb_powered_mer": [
                 "weathered_copper_bulb_powered"
+            ],
+            "creaking_mer": [
+                "creaking"
+            ],
+            "creaking_eyes_mer": [
+                "creaking_eyes"
             ]
         }
     },

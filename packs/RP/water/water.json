@@ -1,26 +1,26 @@
 {
+    "format_version": "1.21.40",
     "minecraft:water_settings": {
-        "format_version": "1.21.40",
         "description": {
             "identifier": "smokey_pbr:default_water"
         },
         "particle_concentrations": {
-            "cdom": 1,
-            "chlorophyll": 0.5,
-            "suspended_sediment": 0.5
+            "cdom": 0,
+            "chlorophyll": 0.02,
+            "suspended_sediment": 0
         },
         "waves": {
-            "depth": 1,
+            "depth": 0.2,
             "enabled": true,
-            "frequency": 1,
-            "frequency_scaling": 1.2000000476837158,
-            "mix": 0.20000000298023224,
-            "octaves": 28,
-            "pull": 0.3799999952316284,
-            "sampleWidth": 0.009999999776482582,
-            "shape": 1.5,
-            "speed": 2,
-            "speed_scaling": 1.0299999713897705
+            "frequency": 1.2,
+            "frequency_scaling": 1.35,
+            "mix": 0.25,
+            "octaves": 8,
+            "pull": 0.75,
+            "sampleWidth": 0.75,
+            "shape": 1.25,
+            "speed": 2.5,
+            "speed_scaling": 0.9
         }
     }
 }

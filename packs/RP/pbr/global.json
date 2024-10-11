@@ -1,6 +1,6 @@
 {
+    "format_version": "1.21.40",
     "minecraft:pbr_fallback_settings": {
-        "format_version": "1.21.40",
         "pbr": {
             "actors": {
                 "global_metalness_emissive_roughness": [

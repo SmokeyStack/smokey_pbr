@@ -1,33 +1,35 @@
 {
+    "format_version": "1.21.40",
     "minecraft:color_grading_settings": {
-        "format_version": "1.21.40",
-        "description": {
-            "identifier": "smokey_pbr:default_color_grading"
-        },
         "color_grading": {
-            "midtones": {
-                "saturation": [
-                    1.283558671151,
-                    1.283558671151,
-                    1.283558671151
-                ]
-            },
             "highlights": {
                 "contrast": [
-                    1.375,
-                    1.375,
-                    1.375
+                    2,
+                    2,
+                    2
                 ],
-                "highlightsMin": 1.885452432068
+                "enabled": true,
+                "highlightsMin": 15
+            },
+            "midtones": {
+                "saturation": [
+                    0.95,
+                    0.95,
+                    0.95
+                ]
             },
             "shadows": {
+                "enabled": true,
                 "gamma": [
-                    2.15,
-                    2.15,
-                    2.15
+                    2.5,
+                    2.5,
+                    2.5
                 ],
-                "shadowsMax": 0.885452432068
+                "shadowsMax": 0.35
             }
+        },
+        "description": {
+            "identifier": "smokey_pbr:default_color_grading"
         },
         "tone_mapping": {
             "operator": "reinhard_luma"

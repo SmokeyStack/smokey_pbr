@@ -2,17 +2,17 @@
     "format_version": "1.21.40",
     "minecraft:client_biome": {
         "description": {
-            "identifier": "cherry_grove"
+            "identifier": "pale_garden"
         },
         "components": {
             "minecraft:sky_color": {
-                "sky_color": "#FFB7C5"
+                "sky_color": "#b9b9b9"
             },
             "minecraft:fog_appearance": {
-                "fog_identifier": "smokey_pbr:fog_cherry_grove"
+                "fog_identifier": "smokey_pbr:fog_pale_garden"
             },
             "minecraft:water_appearance": {
-                "surface_color": "#5db7ef"
+                "surface_color": "#76889D"
             }
         }
     }
