@@ -238,7 +238,8 @@
             "brewing_stand"
         ],
         "brick_heightmap": [
-            "brick"
+            "brick",
+            "resin_bricks"
         ],
         "bricks_heightmap": [
             "end_bricks",
@@ -899,6 +900,14 @@
         ],
         "crafting_table_top_heightmap": [
             "crafting_table_top"
+        ],
+        "creaking_heart_side_heightmap": [
+            "creaking_heart_side_active",
+            "creaking_heart_side_inactive"
+        ],
+        "creaking_heart_top_heightmap": [
+            "creaking_heart_top_active",
+            "creaking_heart_top_inactive"
         ],
         "crimson_door_lower_heightmap": [
             "crimson_door_lower"
@@ -1814,6 +1823,39 @@
         "packed_mud_heightmap": [
             "packed_mud"
         ],
+        "pale_hanging_moss_middle_heightmap": [
+            "pale_hanging_moss_middle"
+        ],
+        "pale_hanging_moss_tip_heightmap": [
+            "pale_hanging_moss_tip"
+        ],
+        "pale_moss_carpet_side_base_heightmap": [
+            "pale_moss_carpet_side_base"
+        ],
+        "pale_moss_carpet_side_tip_heightmap": [
+            "pale_moss_carpet_side_tip"
+        ],
+        "pale_oak_door_bottom_heightmap": [
+            "pale_oak_door_bottom"
+        ],
+        "pale_oak_door_top_heightmap": [
+            "pale_oak_door_top"
+        ],
+        "pale_oak_leaves_heightmap": [
+            "pale_oak_leaves"
+        ],
+        "pale_oak_leaves_opaque_heightmap": [
+            "pale_oak_leaves_opaque"
+        ],
+        "pale_oak_log_side_heightmap": [
+            "pale_oak_log_side"
+        ],
+        "pale_oak_sapling_heightmap": [
+            "pale_oak_sapling"
+        ],
+        "pale_oak_trapdoor_heightmap": [
+            "pale_oak_trapdoor"
+        ],
         "pearlescent_froglight_side_heightmap": [
             "pearlescent_froglight_side"
         ],
@@ -2132,6 +2174,9 @@
         ],
         "repeating_command_block_side_mipmap_heightmap": [
             "repeating_command_block_side_mipmap"
+        ],
+        "resin_block_heightmap": [
+            "resin_block"
         ],
         "respawn_anchor_bottom_heightmap": [
             "respawn_anchor_bottom"
@@ -2573,6 +2618,9 @@
         "stripped_oak_log_heightmap": [
             "stripped_oak_log"
         ],
+        "stripped_pale_oak_log_side_heightmap": [
+            "stripped_pale_oak_log_side"
+        ],
         "stripped_spruce_log_heightmap": [
             "stripped_spruce_log"
         ],
@@ -2878,65 +2926,21 @@
         ],
         "wool_colored_yellow_heightmap": [
             "wool_colored_yellow"
-        ],
-        "creaking_heart_side_heightmap": [
-            "creaking_heart_side_active",
-            "creaking_heart_side_inactive"
-        ],
-        "creaking_heart_top_heightmap": [
-            "creaking_heart_top_active",
-            "creaking_heart_top_inactive"
-        ],
-        "pale_hanging_moss_middle_heightmap": [
-            "pale_hanging_moss_middle"
-        ],
-        "pale_hanging_moss_tip_heightmap": [
-            "pale_hanging_moss_tip"
-        ],
-        "pale_moss_carpet_side_base_heightmap": [
-            "pale_moss_carpet_side_base"
-        ],
-        "pale_moss_carpet_side_tip_heightmap": [
-            "pale_moss_carpet_side_tip"
-        ],
-        "pale_oak_door_bottom_heightmap": [
-            "pale_oak_door_bottom"
-        ],
-        "pale_oak_door_top_heightmap": [
-            "pale_oak_door_top"
-        ],
-        "pale_oak_leaves_heightmap": [
-            "pale_oak_leaves"
-        ],
-        "pale_oak_leaves_opaque_heightmap": [
-            "pale_oak_leaves_opaque"
-        ],
-        "pale_oak_log_side_heightmap": [
-            "pale_oak_log_side"
-        ],
-        "pale_oak_sapling_heightmap": [
-            "pale_oak_sapling"
-        ],
-        "pale_oak_trapdoor_heightmap": [
-            "pale_oak_trapdoor"
-        ],
-        "stripped_pale_oak_log_side_heightmap": [
-            "stripped_pale_oak_log_side"
         ]
     },
     "mer": {
         "array": {
-            "0-0-255-255": [
-                "leaves_birch",
-                "leaves_birch_carried",
-                "leaves_birch_opaque"
-            ],
             "0-0-255": [
                 "water_flow_grey",
                 "water_flow",
                 "water_placeholder",
                 "water_still_grey",
                 "water_still"
+            ],
+            "0-0-255-255": [
+                "leaves_birch",
+                "leaves_birch_carried",
+                "leaves_birch_opaque"
             ],
             "0-1-255": [
                 "mushroom_brown"
@@ -3293,6 +3297,12 @@
             "crafting_table_side_mer": [
                 "crafting_table_side"
             ],
+            "creaking_eyes_mer": [
+                "creaking_eyes"
+            ],
+            "creaking_mer": [
+                "creaking"
+            ],
             "crimson_door_lower_mer": [
                 "crimson_door_lower"
             ],
@@ -3646,12 +3656,6 @@
             ],
             "weathered_copper_bulb_powered_mer": [
                 "weathered_copper_bulb_powered"
-            ],
-            "creaking_mer": [
-                "creaking"
-            ],
-            "creaking_eyes_mer": [
-                "creaking_eyes"
             ]
         }
     },

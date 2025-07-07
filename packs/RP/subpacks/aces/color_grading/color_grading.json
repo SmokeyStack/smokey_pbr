@@ -3,29 +3,59 @@
     "minecraft:color_grading_settings": {
         "color_grading": {
             "highlights": {
-                "contrast": [
-                    2,
-                    2,
-                    2
-                ],
                 "enabled": true,
+                "gain": [
+                    1.2,
+                    1.2,
+                    1.2
+                ],
+                "gamma": [
+                    1.38,
+                    1.38,
+                    1.38
+                ],
                 "highlightsMin": 15
             },
             "midtones": {
+                "contrast": [
+                    1.3,
+                    1.3,
+                    1.3
+                ],
+                "gain": [
+                    1,
+                    1,
+                    1
+                ],
+                "gamma": [
+                    1.5,
+                    1.5,
+                    1.5
+                ],
                 "saturation": [
-                    0.95,
-                    0.95,
-                    0.95
+                    1.13,
+                    1.13,
+                    1.13
                 ]
             },
             "shadows": {
-                "enabled": true,
-                "gamma": [
-                    2.5,
-                    2.5,
-                    2.5
+                "contrast": [
+                    1.1,
+                    1.1,
+                    1.1
                 ],
-                "shadowsMax": 0.35
+                "enabled": false,
+                "gain": [
+                    1,
+                    1,
+                    1
+                ],
+                "gamma": [
+                    1.35,
+                    1.35,
+                    1.35
+                ],
+                "shadowsMax": 0.2
             }
         },
         "description": {

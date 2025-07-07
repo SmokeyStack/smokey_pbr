@@ -6,21 +6,21 @@
         },
         "particle_concentrations": {
             "cdom": 0,
-            "chlorophyll": 0.02,
-            "suspended_sediment": 0
+            "chlorophyll": 0,
+            "suspended_sediment": 2
         },
         "waves": {
-            "depth": 0.2,
+            "depth": 0.198,
             "enabled": true,
-            "frequency": 1.2,
-            "frequency_scaling": 1.35,
-            "mix": 0.25,
-            "octaves": 8,
-            "pull": 0.75,
-            "sampleWidth": 0.75,
-            "shape": 1.25,
-            "speed": 2.5,
-            "speed_scaling": 0.9
+            "frequency": 0.58,
+            "frequency_scaling": 1.18,
+            "mix": 0.16,
+            "octaves": 20,
+            "pull": 0.31,
+            "sampleWidth": 0.01,
+            "shape": 2.393,
+            "speed": 0.683,
+            "speed_scaling": 1.1
         }
     }
 }
