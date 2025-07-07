@@ -4,17 +4,17 @@
     ],
     "format_version": 2,
     "header": {
-        "description": "This is an experimental pack that utilizes the RenderDragon pipeline",
+        "description": "This is the pack that SmokeyStack uses for Vibrant Visuals",
         "min_engine_version": [
             1,
             21,
-            50
+            90
         ],
-        "name": "SmokeyStack's Deferred Rendering Pack",
+        "name": "SmokeyStack's Super Duper Pack",
         "uuid": "67bc46a2-06d9-4f46-82f9-9009d9e81af5",
         "version": [
             0,
-            9,
+            10,
             0
         ]
     },
@@ -24,7 +24,7 @@
             "uuid": "a42ed34b-ed38-403f-b0ae-ac5f2ae9ae1d",
             "version": [
                 0,
-                9,
+                10,
                 0
             ]
         }

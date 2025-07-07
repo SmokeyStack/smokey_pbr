@@ -1,26 +1,32 @@
 {
-    "format_version": "1.21.40",
+    "format_version": "1.21.80",
     "minecraft:water_settings": {
+        "caustics": {
+            "enabled": true,
+            "frame_length": 0.09,
+            "power": 1,
+            "scale": 0.5
+        },
         "description": {
             "identifier": "smokey_pbr:default_water"
         },
         "particle_concentrations": {
             "cdom": 0,
             "chlorophyll": 0,
-            "suspended_sediment": 2
+            "suspended_sediment": 0
         },
         "waves": {
-            "depth": 0.198,
+            "depth": 1,
             "enabled": true,
-            "frequency": 0.58,
-            "frequency_scaling": 1.18,
-            "mix": 0.16,
-            "octaves": 20,
-            "pull": 0.31,
-            "sampleWidth": 0.01,
-            "shape": 2.393,
-            "speed": 0.683,
-            "speed_scaling": 1.1
+            "frequency": 1,
+            "frequency_scaling": 1.2000000476837158,
+            "mix": 0.20000000298023224,
+            "octaves": 28,
+            "pull": 0.3799999952316284,
+            "sampleWidth": 0.009999999776482582,
+            "shape": 1.5,
+            "speed": 2,
+            "speed_scaling": 1.0299999713897705
         }
     }
 }

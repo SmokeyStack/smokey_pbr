@@ -36,7 +36,7 @@
 			},
 			"dev": {
 				"export": {
-					"build": "preview",
+					"build": "standard",
 					"readOnly": false,
 					"target": "development"
 				},

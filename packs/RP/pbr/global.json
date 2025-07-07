@@ -6,28 +6,32 @@
                 "global_metalness_emissive_roughness": [
                     0,
                     0,
-                    255
+                    255,
+                    0
                 ]
             },
             "blocks": {
                 "global_metalness_emissive_roughness": [
                     0,
                     0,
-                    255
+                    255,
+                    0
                 ]
             },
             "items": {
                 "global_metalness_emissive_roughness": [
                     0,
                     0,
-                    255
+                    255,
+                    0
                 ]
             },
             "particles": {
                 "global_metalness_emissive_roughness": [
                     0,
                     0,
-                    255
+                    255,
+                    0
                 ]
             }
         }

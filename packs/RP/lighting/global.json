@@ -1,15 +1,23 @@
 {
     "format_version": "1.21.40",
     "minecraft:lighting_settings": {
+        "ambient": {
+            "color": [
+                128,
+                118,
+                103
+            ],
+            "illuminance": 0.05
+        },
         "description": {
             "identifier": "smokey_pbr:default_lighting"
         },
         "directional_lights": {
             "moon": {
                 "color": [
-                    125,
-                    127,
-                    249,
+                    128,
+                    128,
+                    255,
                     255
                 ],
                 "illuminance": 13
@@ -133,6 +141,12 @@
                     "0.867": 111
                 }
             }
+        },
+        "emissive": {
+            "desaturation": 0.1
+        },
+        "sky": {
+            "intensity": 0.25
         }
     }
 }
