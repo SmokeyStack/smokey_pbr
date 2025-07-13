@@ -15,10 +15,10 @@
         "atmosphere_identifier": "smokey_pbr:default_atmospherics"
       },
       "minecraft:color_grading_identifier": {
-        "color_grading_identifier": "smokey_pbr:default_color_grading"
+        "color_grading_identifier": "smokey_pbr:mesa_color_grading"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "smokey_pbr:default_lighting"
+        "lighting_identifier": "smokey_pbr:mesa_lighting"
       },
       "minecraft:water_identifier": {
         "water_identifier": "smokey_pbr:default_water"

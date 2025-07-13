@@ -1,0 +1,108 @@
+{
+    "format_version": "1.21.40",
+    "minecraft:color_grading_settings": {
+        "color_grading": {
+            "highlights": {
+                "contrast": [
+                    1.1,
+                    1.1,
+                    1.1
+                ],
+                "enabled": true,
+                "gain": [
+                    1.2,
+                    1,
+                    0.8
+                ],
+                "gamma": [
+                    2.45,
+                    2.45,
+                    2.45
+                ],
+                "highlightsMin": 20,
+                "offset": [
+                    0,
+                    0,
+                    0
+                ],
+                "saturation": [
+                    1.04,
+                    1.04,
+                    1.04
+                ]
+            },
+            "midtones": {
+                "contrast": [
+                    1.1,
+                    1.1,
+                    1.1
+                ],
+                "gain": [
+                    1.2,
+                    0.84,
+                    0.6
+                ],
+                "gamma": [
+                    2.45,
+                    2.45,
+                    2.45
+                ],
+                "midtonesMax": 60,
+                "offset": [
+                    0,
+                    0,
+                    0
+                ],
+                "saturation": [
+                    1.04,
+                    1.04,
+                    1.04
+                ]
+            },
+            "shadows": {
+                "contrast": [
+                    1.1,
+                    1.1,
+                    1.1
+                ],
+                "enabled": true,
+                "gain": [
+                    1.12,
+                    0.84,
+                    0.6
+                ],
+                "gamma": [
+                    2.44,
+                    2.44,
+                    2.44
+                ],
+                "offset": [
+                    0,
+                    0,
+                    0
+                ],
+                "saturation": [
+                    1.04,
+                    1.04,
+                    1.04
+                ],
+                "shadowsMax": 0.4
+            },
+            "temperature": {
+                "enabled": true,
+                "temperature": 8600,
+                "type": "color_temperature"
+            }
+        },
+        "description": {
+            "identifier": "smokey_pbr:mesa_color_grading"
+        },
+        "tone_mapping": {
+            "operator": "aces"
+        }
+    }
+}
+/**
+    white balance - 4400
+    color temperature - 8600
+**/
